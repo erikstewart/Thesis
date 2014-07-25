@@ -7,6 +7,7 @@
 \begin_modules
 endnotes
 logicalmkup
+enumitem
 \end_modules
 \maintain_unincluded_children false
 \language english
@@ -67,7 +68,7 @@ logicalmkup
 \quotes_language english
 \papercolumns 1
 \papersides 1
-\paperpagestyle fancy
+\paperpagestyle default
 \tracking_changes false
 \output_changes false
 \html_math_output 0
@@ -170,11 +171,7 @@ Geography and Biology of Norway Spruce (
 \emph on
 Picea abies
 \emph default
-)
-\end_layout
-
-\begin_layout Subsubsection*
-Geography and history of Norway Spruce (Picea abies) in Fennoscandanavia
+) in Fennoscandanavia
 \end_layout
 
 \begin_layout Standard
@@ -183,8 +180,9 @@ Norway Spruce, despite it's name
 status open
 
 \begin_layout Plain Layout
-Ironically, most recent populations of Norway Spruce has only been in Norway
- for around 1,000 years, versus 6,500 in Finland, and 2,500 in Sweden.
+Somewhat ironically, most recent populations of Norway Spruce has only been
+ in Norway for around 1,000 years, versus 6,500 in Finland, and 2,500 in
+ Sweden.
  
 \begin_inset CommandInset citation
 LatexCommand citep
@@ -198,7 +196,7 @@ key "Seppa2009"
 \end_inset
 
 , established itself in Northern Europe via introgression through Eastern
- Finland approximatly 6500 years ago 
+ Finland approximatly 6,500 years ago 
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Seppa2009"
@@ -237,11 +235,97 @@ key "Tollefsrud2008"
 
 \end_inset
 
-), Norway Spruce has become one of the most dominant forest trees in all
- of northern Europe.
- Norway Spruce is found throughout most of the Finland; only small areas
- in the very north of country in the arctic circle are devoid of Norway
- Spruce.
+), Norway Spruce has become one of the most dominant forest trees in of
+ Northern Europe.
+ In Finland, Norway Spruce is found throughtout most of the country.
+ Only small areas in the very northern parts of Finland in the Arctic Circle
+ are devoid of 
+\emph on
+Picea abies.
+ 
+\end_layout
+
+\begin_layout Subsection
+Biology, Lifecycle and Infection of 
+\emph on
+Heterobasidion Annosum sensu latu
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Heterobasidion annosum S.L
+\emph default
+.
+ is a pathogenic basidiomycete species complex which infects a broad range
+ of conifer trees.
+ A necrotroph, 
+\emph on
+Heterobasidion annosum 
+\emph default
+causes damage by selectivly degrading lignin and cellulosic tissues in host
+ trees; no cures are available after infection has been established within
+ a host, and death of the host tree will occur eventually, although the
+ degredation of host tissues to the point of lethality may take several
+ decades.
+ Due to the mortal nature of infections by 
+\emph on
+Heterobasidion, 
+\emph default
+knowledge of the lifecycle and infection biology of the pathogen is critical
+ to understanding how best to deal with the pathogen in areas where 
+\emph on
+Heterobasidion spp.
+ 
+\emph default
+present a problem.
+\end_layout
+
+\begin_layout Standard
+The 
+\emph on
+Heterobasidion 
+\emph default
+species complex is comrpised of several inter-sterile groups of species
+ with differing host preferences.
+ In Europe, three distinct mating types are recognized : 
+\emph on
+Heterobasidion annosum sensu stricto
+\emph default
+, 
+\emph on
+Heterobasidion parviporum
+\emph default
+, and 
+\emph on
+Heterobasidion abitenium, 
+\emph default
+with host preference for pines (
+\emph on
+Pinus
+\emph default
+), spruce (
+\emph on
+Picea spp.
+\emph default
+), and firs (
+\emph on
+Abies spp
+\emph default
+.), respectivly 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Dalman2010"
+
+\end_inset
+
+.
+ Despite a preference for specific hosts, species within the 
+\emph on
+Heterbasidion annosum
+\emph default
+ complex are able to infect other than their preferred hosts, albiet with
+ less efficiency.
  
 \end_layout
 

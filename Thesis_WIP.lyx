@@ -180,9 +180,9 @@ Norway Spruce, despite it's name
 status open
 
 \begin_layout Plain Layout
-Somewhat ironically, most recent populations of Norway Spruce has only been
- in Norway for around 1,000 years, versus 6,500 in Finland, and 2,500 in
- Sweden.
+Somewhat ironically, most recently established populations of Norway Spruce
+ has only been in Norway for around 1,000 years, versus 6,500 in Finland,
+ and 2,500 in Sweden.
  
 \begin_inset CommandInset citation
 LatexCommand citep
@@ -195,8 +195,8 @@ key "Seppa2009"
 
 \end_inset
 
-, established itself in Northern Europe via introgression through Eastern
- Finland approximatly 6,500 years ago 
+, established itself in it's modern introgression in Northern Europe via
+ Eastern Finland approximatly 6,500 years ago 
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Seppa2009"
@@ -215,7 +215,7 @@ status open
 \begin_layout Plain Layout
 Although Norway Spruce in it's most recent introduction to Northern Europe
  occured fairly recently, the last ice age in Europe circa 18,500 years
- ago probably wiped out peviously established populations of 
+ ago likely wiped out peviously established populations of 
 \emph on
 Picea abies 
 \emph default
@@ -223,7 +223,7 @@ in northern Europe.
  Evidence suggests that ice free areas in Western Scandanavia may have had
  Spruce and Pine surviving throughout the most recent ice age, but populations
  of Norway Spruce in most of Scandanavia are descended from the more recent
- westward migration 
+ westward migration of Norway Spruce 
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Tollefsrud2008"
@@ -254,19 +254,20 @@ Heterobasidion Annosum sensu latu
 \begin_layout Standard
 
 \emph on
-Heterobasidion annosum S.L
+Heterobasidion annosum s.
 \emph default
-.
- is a pathogenic basidiomycete species complex which infects a broad range
- of conifer trees.
+l.
+ is a pathogenic basidiomycete species complex which has the ability to
+ infect a broad range of coniferious trees.
  A necrotroph, 
 \emph on
 Heterobasidion annosum 
 \emph default
-causes damage by selectivly degrading lignin and cellulosic tissues in host
- trees; no cures are available after infection has been established within
- a host, and death of the host tree will occur eventually, although the
- degredation of host tissues to the point of lethality may take several
+s.l.
+ causes damage by selectivly degrading lignin and cellulosic tissues in
+ host trees; no cures are available after infection has been established
+ within a host, and death of the host tree will occur eventually, although
+ the degredation of host tissues to the point of lethality may take several
  decades.
  Due to the mortal nature of infections by 
 \emph on
@@ -325,7 +326,27 @@ key "Dalman2010"
 Heterbasidion annosum
 \emph default
  complex are able to infect other than their preferred hosts, albiet with
- less efficiency.
+ less efficiency 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Garbelotto2013"
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Heterobasidion annosum 
+\emph default
+s.l.
+ spreads via a variety of motile spores.
+ Conidiospores are produced on stumps, as well as exposed tissues of decaying
+ or dead trees, and are the primary inocolum for new infections.
+ 
 \end_layout
 
 \begin_layout Standard
