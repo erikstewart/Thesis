@@ -97,6 +97,15 @@ Wow.
  Wow
 \end_layout
 
+\begin_layout Standard
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Section
 Introduction
 \end_layout
@@ -124,8 +133,8 @@ key "Scand.2003a"
 
 .
  Because of it's significant impact on the Finnish economy, it is important
- to understand and to address issues which negativly affect the growth and
- production of Norway Spruce.
+ to understand and to address issues which negatively affect the growth
+ and production of Norway Spruce.
  The most devastating pathogen affecting the growth of Norway Spruce is
  butt rot caused by the 
 \begin_inset Flex Emph
@@ -156,7 +165,7 @@ key "Asiegbu2005"
 
 ; as such, it is important to study the pathogen and host to better understand
  the complex nature of infection biology and resistance factors which hold
- the potential for mitigating losses and improving forest yeilds in areas
+ the potential for mitigating losses and improving forest yields in areas
  where 
 \emph on
 Heterobasidion spp.
@@ -180,9 +189,9 @@ Norway Spruce, despite it's name
 status open
 
 \begin_layout Plain Layout
-Somewhat ironically, most recent populations of Norway Spruce has only been
- in Norway for around 1,000 years, versus 6,500 in Finland, and 2,500 in
- Sweden.
+Somewhat ironically, most recently established populations of Norway Spruce
+ has only been in Norway for around 1,000 years, versus 6,500 in Finland,
+ and 2,500 in Sweden.
  
 \begin_inset CommandInset citation
 LatexCommand citep
@@ -195,8 +204,8 @@ key "Seppa2009"
 
 \end_inset
 
-, established itself in Northern Europe via introgression through Eastern
- Finland approximatly 6,500 years ago 
+, established itself in Northern Europe via Eastern Finland approximately
+ 6,500 years ago 
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Seppa2009"
@@ -204,7 +213,7 @@ key "Seppa2009"
 \end_inset
 
 .
- However, in this relativly short period of time (considering that 
+ However, in this relatively short period of time (considering that 
 \emph on
 Picea abies
 \emph default
@@ -214,8 +223,8 @@ status open
 
 \begin_layout Plain Layout
 Although Norway Spruce in it's most recent introduction to Northern Europe
- occured fairly recently, the last ice age in Europe circa 18,500 years
- ago probably wiped out peviously established populations of 
+ occurred fairly recently, the last ice age in Europe circa 18,500 years
+ ago likely wiped out peviously established populations of 
 \emph on
 Picea abies 
 \emph default
@@ -223,7 +232,7 @@ in northern Europe.
  Evidence suggests that ice free areas in Western Scandanavia may have had
  Spruce and Pine surviving throughout the most recent ice age, but populations
  of Norway Spruce in most of Scandanavia are descended from the more recent
- westward migration 
+ westward migration of Norway Spruce 
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Tollefsrud2008"
@@ -237,7 +246,7 @@ key "Tollefsrud2008"
 
 ), Norway Spruce has become one of the most dominant forest trees in of
  Northern Europe.
- In Finland, Norway Spruce is found throughtout most of the country.
+ In Finland, Norway Spruce is found throughout most of the country.
  Only small areas in the very northern parts of Finland in the Arctic Circle
  are devoid of 
 \emph on
@@ -246,33 +255,37 @@ Picea abies.
 \end_layout
 
 \begin_layout Subsection
-Biology, Lifecycle and Infection of 
+Biology, Life-cycle and Infection of 
 \emph on
-Heterobasidion Annosum sensu latu
+Heterobasidion annosum sensu latu
 \end_layout
 
 \begin_layout Standard
 
 \emph on
-Heterobasidion annosum S.L
+Heterobasidion annosum 
 \emph default
+s
+\emph on
 .
- is a pathogenic basidiomycete species complex which infects a broad range
- of conifer trees.
+\emph default
+l.
+ is a pathogenic basidiomycete species complex which has the ability to
+ infect a broad range of coniferous trees.
  A necrotroph, 
 \emph on
 Heterobasidion annosum 
 \emph default
-causes damage by selectivly degrading lignin and cellulosic tissues in host
- trees; no cures are available after infection has been established within
- a host, and death of the host tree will occur eventually, although the
- degredation of host tissues to the point of lethality may take several
- decades.
+s.l.
+ causes damage by selectively degrading lignin and cellulose in host trees;
+ no cures are available after infection has been established within a host,
+ and death of the host tree will occur eventually, although the degradation
+ of host tissues to the point of lethality may take several decades.
  Due to the mortal nature of infections by 
 \emph on
 Heterobasidion, 
 \emph default
-knowledge of the lifecycle and infection biology of the pathogen is critical
+knowledge of the life-cycle and infection biology of the pathogen is critical
  to understanding how best to deal with the pathogen in areas where 
 \emph on
 Heterobasidion spp.
@@ -282,17 +295,22 @@ present a problem.
 \end_layout
 
 \begin_layout Standard
+TALK ABOUT THE GENERAL, NON INFECTIOUS ASPECTS OF HETEROBASIDION LIFECYCLE
+ HERE
+\end_layout
+
+\begin_layout Standard
 The 
 \emph on
 Heterobasidion 
 \emph default
-species complex is comrpised of several inter-sterile groups of species
+species complex is comprised of several inter-sterile groups of species
  with differing host preferences.
  In Europe, three distinct mating types are recognized : 
 \emph on
-Heterobasidion annosum sensu stricto
+Heterobasidion annosum 
 \emph default
-, 
+sensu stricto, 
 \emph on
 Heterobasidion parviporum
 \emph default
@@ -312,7 +330,7 @@ Picea spp.
 \emph on
 Abies spp
 \emph default
-.), respectivly 
+.), respectively 
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Dalman2010"
@@ -320,12 +338,95 @@ key "Dalman2010"
 \end_inset
 
 .
- Despite a preference for specific hosts, species within the 
+ In North America, two individual mating types are recognized; 
 \emph on
-Heterbasidion annosum
+Heterobasidion occidentale, 
 \emph default
- complex are able to infect other than their preferred hosts, albiet with
- less efficiency.
+and 
+\emph on
+Heterobasidion irregulare
+\emph default
+.
+ Despite a preference for specific hosts, several species within the 
+\emph on
+Heterobasidion annosum
+\emph default
+ complex are able to infect other than their preferred hosts, albeit with
+ less efficiency 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Garbelotto2013"
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Heterobasidion annosum 
+\emph default
+s.l.
+ spreads via a variety of methods.
+ The primary source for new infections caused by 
+\emph on
+Heterobasidion spp.
+ 
+\emph default
+is through airborne dispersal of spores (FIND SOURCE AND INSERT).
+ Basidiospores are the product of sexual reproduction in 
+\emph on
+Heterobasidion spp.
+ 
+\emph default
+and serve as the primary source of inoculations.
+ In addition, conidiospores (which are a product of asexual reproduction)
+ can also start new infections, but are not the primary source of new infections.
+ 
+\emph on
+Heterobasidion spp.
+ 
+\emph default
+cannot infect healthy, undamaged tree tissues; as such, most infections
+ occur in trees which have been wounded on the surface, exposing either
+ heartwood or sapwood tissues beneath the bark of the tree.
+ In areas where conifers are intensively harvested and managed, mechanical
+ damages due to forestry related activities provide new surfaces for inoculation
+s, and exacerbate the problem of 
+\emph on
+Heterobasidion spp.
+ 
+\emph default
+infections, leading to high rates of infection and heavy losses (INSERT
+ SOURCE).
+\end_layout
+
+\begin_layout Standard
+Although 
+\emph on
+Heterobasidion spp.
+ 
+\emph default
+infect via surface wounds, in natural settings where wounding does not provide
+ a suitable substrate for germination of 
+\emph on
+Heterobasidion 
+\emph default
+spores, infections can still occur in roots.
+ 
+\emph on
+Heterobasidion spp.
+ 
+\emph default
+do not have the ability to grow far in soil alone; they generally require
+ host substrate to grow and proliferate (INSERT SOURCE).
+ However, root systems of an infected tree which are sufficiently near to
+ neighboring tree's root systems, or which are grafted, or otherwise in
+ contact with the root systems of another tree can permit mycelium from
+ the infected tree to pass into the healthy root systems of another tree
+ (INSERT SOURCE).
  
 \end_layout
 
