@@ -2,7 +2,11 @@
 \lyxformat 474
 \begin_document
 \begin_header
-\textclass extreport
+\textclass extarticle
+\begin_preamble
+\pagenumbering{roman}
+ \setcounter{section}{1}
+\end_preamble
 \use_default_options true
 \begin_modules
 endnotes
@@ -26,12 +30,22 @@ enumitem
 \font_tt_scale 100
 \graphics default
 \default_output_format default
-\output_sync 0
+\output_sync 1
 \bibtex_command default
 \index_command default
 \paperfontsize 12
-\spacing onehalf
-\use_hyperref false
+\spacing other 1.5
+\use_hyperref true
+\pdf_bookmarks true
+\pdf_bookmarksnumbered false
+\pdf_bookmarksopen false
+\pdf_bookmarksopenlevel 1
+\pdf_breaklinks false
+\pdf_pdfborder true
+\pdf_colorlinks false
+\pdf_backref false
+\pdf_pdfusetitle true
+\pdf_pagemode FullScreen
 \papersize a4paper
 \use_geometry true
 \use_package amsmath 1
@@ -51,8 +65,9 @@ enumitem
 \use_indices false
 \paperorientation portrait
 \suppress_date false
-\justification true
+\justification false
 \use_refstyle 1
+\boxbgcolor #ffd658
 \index Index
 \shortcut idx
 \color #008000
@@ -106,6 +121,24 @@ Wow.
 \begin_layout Quotation
 \begin_inset CommandInset toc
 LatexCommand tableofcontents
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout LyX-Code
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+pagenumbering{arabic} 
+\backslash
+setcounter{page}{1}
+\end_layout
 
 \end_inset
 
@@ -636,10 +669,9 @@ Constituent and Inducible Defenses in Conifers
 \end_layout
 
 \begin_layout Standard
-Structural defenses are structures present throughout conifers which include
- various types of tissues and structures which are produced during regular,
- unchallenged growth, or which are produced subsequent to infection in response
- to a pathogen.
+Constituent defenses present throughout conifers include various types of
+ tissues and structures which are produced during regular, unchallenged
+ growth.
  Bark represents the outermost layer of defense in a conifer, and is comprised
  of several distinct tissues: periderm, cortex, phloem and cambial tissues.
  The periderm is highly suberized and hydrophobic which helps to inhibit
@@ -684,8 +716,8 @@ was able to establish infections reaching the xylem in all test subjects
 
 \begin_layout Standard
 Sapwood tissues have a variety of constituent and structural defenses, as
- well as the ability to induce defenses.
- The theory of Compartimentilization of Decay in Trees (CODIT) theorizes
+ well as the ability to induce defenses in response to a pathogen.
+ The theory of Compartmentalization of Decay in Trees (CODIT) theorizes
  that trees will attempt to compartmentalize damages and pathogens in sapwood,
  thereby inhibiting further progression of decay 
 \begin_inset CommandInset citation
@@ -695,9 +727,77 @@ key "Shigo1977a,Shigo1984,Pearce2000"
 \end_inset
 
 .
- In addition to the compartmentalization of tissues surrounding a wound
- or pathogen within the sapwood, a reaction zone surrounding initial wound
- is also created, which is charcterized by increased levels of lignin in
+ Four walls are created around wounded or infected areas forming a 
+\begin_inset Quotes eld
+\end_inset
+
+compartment
+\begin_inset Quotes erd
+\end_inset
+
+ which act to restrict pathogens or wounds to a constrained area within
+ the sapwood tissues.
+ Wall 
+\begin_inset Quotes eld
+\end_inset
+
+1
+\begin_inset Quotes erd
+\end_inset
+
+, which is formed transversely across xylem to reduce axial spread, is created
+ by the plugging of conductive tissues within surrounding the wound, or
+ through tylosis 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Schwarze2001,Shigo1977a,Shigo1984"
+
+\end_inset
+
+.
+ Wall 
+\begin_inset Quotes eld
+\end_inset
+
+2
+\begin_inset Quotes erd
+\end_inset
+
+ resists radial spread, and is present in normal anatomical features in
+ the wood.
+ Wall 
+\begin_inset Quotes eld
+\end_inset
+
+3
+\begin_inset Quotes erd
+\end_inset
+
+ helps to resist lateral spread of the infection or wound and is based on
+ the active induced defenses in ray parenchyma cells.
+ Wall 4 is the strongest wall proposed in the CODIT model, and is created
+ de novo (as opposed to chemical strengthening, plugging, etc.
+ present in the other three wall types) in response to the
+\emph on
+ 
+\emph default
+pathogen or wound; it contains high levels of antimicrobial compounds, and,
+ unlike the other walls, is anatomically distinct from normal tissue growth
+ as well, containing a higher proportion of parenchyma cells
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Schwarze2001,Pearce2000,Pearce1996"
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Standard
+In addition to the compartmentalization of tissues surrounding a wound or
+ pathogen within the sapwood, a reaction zone surrounding initial wound
+ is also created, which is characterized by increased levels of lignin in
  surrounding tissues, increased production of phytoalexens, free radical
  production from oxidative bursts, and increases of other chemicals which
  have antimicrobial properties 
@@ -707,8 +807,27 @@ key "Kovalchuk2013,Pearce1996"
 
 \end_inset
 
-.
- Non-specific chemical based defenses in conifer periderm and sapwood tissues
+ Increases in accumulation of antimicrobial compounds in the reaction area
+ help to restrict further progression of pathogens or damages which caused
+ the response and compartmentalization of the area in the first place.
+ 
+\end_layout
+
+\begin_layout Standard
+The hypersensitive response is the activation of programmed cellular death
+ in localized areas in response to a pathogen; however, in pathogens with
+ necrotrophic lifestyles, such as 
+\emph on
+Heterobasidion annosum s.l.
+\emph default
+, the hypersensitive response is ineffective.
+ 
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
+Non-specific chemical based defenses in conifer periderm and sapwood tissues
  include oleoresin based defenses
 \begin_inset Foot
 status open
@@ -779,10 +898,29 @@ key "Bonello2006"
 
 \end_inset
 
+
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+True phytoalexins are not known in conifers, but increased accumulation
+ of phytoanticipins and antimicrobial chemicals in response to a pathogen
+ in conifers has been observed 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Bonello2006"
+
+\end_inset
+
 .
- Specific chemical signals are required to induce the prodcution of phytoalexins
-; methey Lignans, stilbenes and terpenoids are phytoalexins produced in
  
+\end_layout
+
+\end_inset
+
+.
+ Lignans, stilbenes and terpenoids are phytoalexin like compounds produced
+ in 
 \emph on
 Picea abies
 \emph default
@@ -799,8 +937,12 @@ key "Pearce1996"
 \end_inset
 
 .
- In addition to chemical defenses, conifers also create protein based defenses
- in response to pathogens.
+ 
+\end_layout
+
+\begin_layout Standard
+In addition to low molecular weight compounds produced for defenses, conifers
+ also utilize protein based defenses in response to pathogens.
  These protein defenses are known as pathogensis-replated proteins (PR-proteins)
 , and include proteins across seventeen well defined classes (PR1-PR17),
  as well as several other classes of less well understood hypothesized PR-protei
@@ -812,10 +954,21 @@ key "Kovalchuk2013,Veluthakkal2010"
 \end_inset
 
 .
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+CREATE TABLE OF PR-Protein Families and their basic actions against pathogens
+ and insert here
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-A variety of signalling molecules are important in the induced defense in
+A variety of signaling molecules are important in the induced defense in
  conifers.
  Methyl-jasmonate is an important signaling molecule (produced when a tree
  is under attack) which induces a wide variety of changes to conifer tissues,
@@ -828,10 +981,10 @@ key "Martin2002"
 \end_inset
 
 .
- Salicylic acid is another signalling molecule which is important for systemic
+ Salicylic acid is another signaling molecule which is important for systemic
  acquired resistance (SAR), although the exact nature by which salicylic
  acid enables SAR is not fully understood.
- Finally ethylene is an important molecule in the signalling pathways of
+ Finally ethylene is an important molecule in the signaling pathways of
  conifer defenses 
 \begin_inset CommandInset citation
 LatexCommand citep
@@ -845,7 +998,7 @@ key "Hudgins2006"
 status open
 
 \begin_layout Plain Layout
-Signalling molecules in the lesion formation? What do the signalling molecules
+Signaling molecules in the lesion formation? What do the signaling molecules
  do? 1-2 sentences for each molecule please!
 \end_layout
 
@@ -884,7 +1037,7 @@ Norway spruce has differing levels of resistance to infection by Heterobasidion
  annosum s.l.
  depending on a variety of factors including genetics, age
 \begin_inset Foot
-status collapsed
+status open
 
 \begin_layout Plain Layout
 In inoculation experiments performed on Norway spruce, age has not greatly
@@ -1059,14 +1212,22 @@ Heterobasidion parviporum
 
 , respectivly.
  Although these studies have indicated that heritability and genetics have
- an influence on the resistance of Picea abies to 
+ an influence on the resistance of 
+\emph on
+Picea abies
+\emph default
+ to 
 \emph on
 Heterbasidion annosum s.l., 
 \emph default
 which genes in particular have the most influence on resistance are not
  fully known.
  Recent studies have started to make progress towards identifying candidate
- Picea abies genes involved in resistance to 
+ 
+\emph on
+Picea abies
+\emph default
+ genes involved in resistance to 
 \emph on
 Heterobasidion annosum s.l.
 \emph default
@@ -1078,9 +1239,12 @@ key "Lind2014"
 \end_inset
 
  mapped out 4 QTL regions in the Picea abies genome which had implications
- on several resistance factors to infection and growth of Heterobasidion
- parviporum within the host, including infection success, fungal extension,
- and lesion formation.
+ on several resistance factors to infection and growth of 
+\emph on
+Heterobasidion parviporum
+\emph default
+ within the host, including infection success, fungal extension, and lesion
+ formation.
  
 \end_layout
 
@@ -1097,7 +1261,7 @@ Breeding for improvements in resistance
 
 \end_layout
 
-\begin_layout Section
+\begin_layout Subsection
 Experiment and Rational 
 \end_layout
 
@@ -1121,7 +1285,7 @@ Two sites were utilized in this study, one in northern Finland (Rovaniemi)
  In Lapinjarvi, the site was comprised of naturally regenerated trees (non-plant
 ed).
  Soils in the northern site were rockier, versus softer soils in the southern
- fieldsite.
+ field site.
  
 \change_inserted 2090806916 1408624479
 
@@ -1416,19 +1580,23 @@ Find location of original isolate
 .
  The isolate was maintained on 2% Malt extract agar and kept at 4 degrees
  Celsius.
- To create a delivery vessle for the inoculum, wooden dowels of Norway Spruce
+ To create a delivery vessel for the inoculum, wooden dowels of Norway Spruce
  measuring roughly 8 mm diameter by 7 mm length were created utilizing a
- drill press and a jewlers saw.
+ drill press and a jewelers saw.
  Cut and formed dowels were autoclaved with a small amount of MilliQ H20.
  Subsequently, dowels for control trees were placed onto 2% malt extract
  agar plates, and incubated at room temperature for two weeks.
  Dowels utilized for infection were placed onto 2% malt extract agar plates
- which were previously subcultured with the Heterobasidion parviporum isolate,
- and were similarly incubated at room temperature for two weeks time.
+ which were previously sub-cultured with the 
+\emph on
+Heterobasidion parviporum
+\emph default
+ isolate, and were similarly incubated at room temperature for two weeks
+ time.
  
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Section
 Preparation of Study Trees and Inoculation
 \end_layout
 
@@ -1499,7 +1667,7 @@ After inoculations were completed, the samples were left for three months
  
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Section
 Harvest and Processing
 \end_layout
 
@@ -1531,7 +1699,7 @@ All samples were placed into large black trash bags (lapinjarvi) or kevlar
  
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Section
 Reisolation and confirmation of 
 \emph on
 Heterobasidion parviporum
@@ -1544,7 +1712,7 @@ Nuff said.
  
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Section
 Measurements of Lesions
 \end_layout
 
@@ -1575,7 +1743,7 @@ The samples required a significant amount of work to process for measurement
  
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Section
 Analysis of Data
 \end_layout
 
@@ -1687,7 +1855,7 @@ key "Bates2013"
  models, and reasons for final model selection as presented in the results
  section is available in the appendix 
 \begin_inset Foot
-status collapsed
+status open
 
 \begin_layout Plain Layout
 Please note that the theoretical framework for mixed effect modeling is
@@ -1835,11 +2003,11 @@ status open
  
 \end_layout
 
-\begin_layout Section
+\begin_layout Chapter
 Results
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Section
 Summary Statistics for Lesions
 \end_layout
 
@@ -1848,9 +2016,8 @@ Mean lesion sizes are presented in table X.x
 \end_layout
 
 \begin_layout Standard
-\paragraph_spacing onehalf
-\noindent
 \begin_inset Float table
+placement H
 wide false
 sideways false
 status open
@@ -1896,7 +2063,7 @@ Lesion Extension
 <cell multicolumn="2" alignment="left" valignment="top" bottomline="true" usebox="none">
 \begin_inset Text
 
-\begin_layout Plain Layout
+\begin_layout Bibliography
 
 \end_layout
 
@@ -1905,7 +2072,7 @@ Lesion Extension
 <cell multicolumn="2" alignment="left" valignment="top" bottomline="true" usebox="none">
 \begin_inset Text
 
-\begin_layout Plain Layout
+\begin_layout Bibliography
 
 \end_layout
 
@@ -1914,7 +2081,7 @@ Lesion Extension
 <cell multicolumn="2" alignment="left" valignment="top" bottomline="true" usebox="none">
 \begin_inset Text
 
-\begin_layout Plain Layout
+\begin_layout Bibliography
 
 \end_layout
 
@@ -1923,7 +2090,7 @@ Lesion Extension
 <cell multicolumn="2" alignment="left" valignment="top" bottomline="true" usebox="none">
 \begin_inset Text
 
-\begin_layout Plain Layout
+\begin_layout Bibliography
 
 \end_layout
 
@@ -2393,7 +2560,7 @@ Lesion Geometric Response
 <cell multicolumn="2" alignment="center" valignment="top" topline="true" usebox="none">
 \begin_inset Text
 
-\begin_layout Plain Layout
+\begin_layout Bibliography
 
 \end_layout
 
@@ -2551,7 +2718,7 @@ Rovaniemi-C
 
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Section
 Heiarchical Mixed Effect Modeling of Lesions 
 \end_layout
 
@@ -2576,43 +2743,43 @@ Nested Model full model = geomResp ~ Site + Treatment + Organ + Tissue +
 Make a table of the different model fits
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Section
 Fixed Effects
 \end_layout
 
-\begin_layout Subsubsection
+\begin_layout Subsection
 Effect of Site 
 \end_layout
 
-\begin_layout Subsubsection
+\begin_layout Subsection
 Effect of Tissue
-\end_layout
-
-\begin_layout Subsubsection
-Effect of Organ
-\end_layout
-
-\begin_layout Subsubsection
-Effect of Tissue
-\end_layout
-
-\begin_layout Subsubsection
-Interactions
 \end_layout
 
 \begin_layout Subsection
+Effect of Organ
+\end_layout
+
+\begin_layout Subsection
+Effect of Tissue
+\end_layout
+
+\begin_layout Subsection
+Interactions
+\end_layout
+
+\begin_layout Section
 Random Effects
 \end_layout
 
-\begin_layout Subsubsection
+\begin_layout Subsection
 Trees
 \end_layout
 
-\begin_layout Subsubsection
+\begin_layout Subsection
 Nesting
 \end_layout
 
-\begin_layout Subsubsection
+\begin_layout Subsection
 Plots of Random Effects
 \end_layout
 
