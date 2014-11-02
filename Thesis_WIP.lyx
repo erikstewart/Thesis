@@ -4,8 +4,9 @@
 \begin_header
 \textclass extarticle
 \begin_preamble
+ \usepackage{pdflscape}
 \pagenumbering{roman}
- \setcounter{section}{1}
+\setcounter{section}{1}
 \end_preamble
 \use_default_options true
 \begin_modules
@@ -101,12 +102,16 @@ Working Title: Analysis of Lesions Induced by
 Heterobasidion parviporum
 \series default
 \emph default
- in Norway Spruce and the Potential Influence of Lattitde.
+ in Norway Spruce and the Potential Influence of Latitude.
  
 \end_layout
 
 \begin_layout Date
 Erik Stewart
+\begin_inset Newpage pagebreak
+\end_inset
+
+
 \end_layout
 
 \begin_layout Abstract
@@ -116,12 +121,20 @@ Wow.
  Little text.
  Such concise.
  Wow
+\begin_inset Newpage pagebreak
+\end_inset
+
+
 \end_layout
 
 \begin_layout Quotation
 \begin_inset CommandInset toc
 LatexCommand tableofcontents
 
+\end_inset
+
+
+\begin_inset Newpage pagebreak
 \end_inset
 
 
@@ -146,7 +159,7 @@ setcounter{page}{1}
 \end_layout
 
 \begin_layout Section
-Introduction
+Introduction 
 \end_layout
 
 \begin_layout Standard
@@ -229,8 +242,8 @@ status open
 
 \begin_layout Plain Layout
 Somewhat ironically, most recently established populations of Norway Spruce
- has only been in Norway for around 1,000 years, versus 6,500 years in Finland,
- and 2,500 years in Sweden.
+ have only been in Norway for around 1,000 years, versus 6,500 years in
+ Finland, and 2,500 years in Sweden.
  
 \begin_inset CommandInset citation
 LatexCommand citep
@@ -252,26 +265,22 @@ key "Seppa2009"
 \end_inset
 
 .
- However, in this relatively short period of time (considering that 
-\emph on
-Picea abies
-\emph default
- as a species has existed for millions of years
+ However, in this relatively short period of time
 \begin_inset Foot
 status open
 
 \begin_layout Plain Layout
 Although Norway Spruce in it's most recent introduction to Northern Europe
  occurred fairly recently, the last ice age in Europe circa 18,500 years
- ago likely wiped out peviously established populations of 
+ ago likely wiped out previously established populations of 
 \emph on
 Picea abies 
 \emph default
 in northern Europe.
- Evidence suggests that ice free areas in Western Scandanavia may have had
- Spruce and Pine surviving throughout the most recent ice age, but populations
- of Norway Spruce in most of Scandanavia are descended from the more recent
- westward migration of Norway Spruce 
+ Evidence suggests that ice free areas in Western Scandinavia may have had
+ Spruce and Pine surviving throughout the most recent ice age, but the majority
+ of populations of Norway Spruce in most of Scandinavia and Finland are
+ descended from the more recent westward migration of Norway Spruce 
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Tollefsrud2008"
@@ -283,8 +292,12 @@ key "Tollefsrud2008"
 
 \end_inset
 
-), Norway Spruce has become one of the most dominant forest trees in of
- Northern Europe.
+ (considering that 
+\emph on
+Picea abies
+\emph default
+ as a species has existed for millions of years), Norway Spruce has become
+ one of the most dominant forest trees in of Northern Europe.
  In Finland, Norway Spruce is found throughout most of the country.
  Only small areas in the very northern parts of Finland in the Arctic Circle
  are devoid of 
@@ -292,9 +305,12 @@ key "Tollefsrud2008"
 Picea abies.
  
 \emph default
-Unsuprisingly, the near ubiquituous presence of Picea abies throughout Finland
- and scandanavia has led to it becoming one of the most important commercial
- forestry crops in northern Europe.
+Unsurprisingly, the near ubiquitous presence of 
+\emph on
+Picea abies
+\emph default
+ throughout Finland and Scandinavia has led to it becoming one of the most
+ important commercial forestry crops in northern Europe.
  
 \end_layout
 
@@ -316,7 +332,7 @@ s
 l.
  is a pathogenic basidiomycete species complex which has the ability to
  infect a broad range of coniferous trees, as well some angiosperms.
- A necrotroph, 
+ A selective necrotroph, 
 \emph on
 Heterobasidion annosum 
 \emph default
@@ -327,7 +343,7 @@ s.l.
  of host tissues to the point of lethality may take several decades.
  Due to the mortal nature of infections by 
 \emph on
-Heterobasidion, 
+Heterobasidion annosum s.l., 
 \emph default
 knowledge of the life-cycle and infection biology of the pathogen is critical
  to understanding how best to deal with the pathogen in areas where 
@@ -363,7 +379,8 @@ TALK ABOUT THE GENERAL, NON INFECTIOUS ASPECTS OF HETEROBASIDION LIFECYCLE
 \begin_layout Standard
 The 
 \emph on
-Heterobasidion 
+Heterobasidion annosum s.l.
+ 
 \emph default
 species complex is comprised of several inter-sterile groups of species
  with differing host preferences.
@@ -416,6 +433,16 @@ and
 \emph on
 Heterobasidion irregulare
 \emph default
+
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+which hosts for these two?
+\end_layout
+
+\end_inset
+
 .
  Despite a preference for specific hosts, several species within the 
 \emph on
@@ -552,8 +579,8 @@ status open
 
 
 \change_unchanged
-; they generally require host substrate to grow and proliferate (INSERT
- SOURCE).
+; they generally require suitable host substrate to grow and proliferate
+ (INSERT SOURCE).
  However, root systems of an infected tree which are sufficiently near to
  neighboring tree's root systems, or which are grafted, or otherwise in
  contact with the root systems of another tree can pass mycelium from the
@@ -594,18 +621,18 @@ Various biotic and abiotic methods of control are used by foresters to attempt
 Heterobasidion annosum s.l.
  
 \emph default
-In modern, highly mechanized forest product productionm, one of the key
- routes for new infections of Heterobasidion is a byproduct of the harvest
- and maintainece of trees; mechanically created wounds on trees provides
- access to readily colonizable tissues which would otherwise be protected
- by the bark.
+In modern, highly mechanized forest product production, one of the key routes
+ for new infections of Heterobasidion is a byproduct of the harvest and
+ maintainece of trees; mechanically created wounds on trees provides access
+ to readily colonizable tissues which would otherwise be protected by the
+ bark.
  Primary methods of control of 
 \emph on
 Heterobasidion annosum 
 \emph default
 include the careful use of equipment and minimization of damage due to anthropog
 enic factors.
- Post harvest stumps provide an ideal inocoluation surface for 
+ Post harvest stumps provide an ideal inoculation surface for 
 \emph on
 Heterobasidion annosum.
  
@@ -614,18 +641,50 @@ Thus, the most efficient and widely utilized control methods address the
  issue of colonizable tissue on freshly cut stumps by means of either chemical,
  biotic, or abiotic control.
  Chemical control includes treatment of freshly cut stumps with urea, borax,
- or a fungicidial product like propiconizole, which can all be effective
+ or a fungicidal product like propiconizole, which can all be effective
  at reducing the liklhood of subsequent infection from 
 \emph on
 Heterobasidion spp.
  
 \emph default
 spores.
- Sivicultural practice managment includes removal of stumps and associated
+ Biotic treatments for the control of 
+\emph on
+Heterobasidion spp.
+ 
+\emph default
+includes the use of 
+\emph on
+Phlebiopsis gigantea, 
+\emph default
+which colonizes available substrate (generally stumps) and outcompetes 
+\emph on
+Heterobasdion spp.
+ 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Garbelotto2013"
+
+\end_inset
+
+ 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+add reference to biology ecology and control here.
+\end_layout
+
+\end_inset
+
+.
+
+\emph default
+ Silvicultural practice management includes removal of stumps and associated
  root materials, which provide an unchallenged substrate for infections
  to occur on.
  Additional silvicultural practices which can help to minimize risk of infection
- include appropiate use of thinnings, harvesting at times when spore loads
+ include appropriate use of thinning, harvesting at times when spore loads
  are lower ( 
 \begin_inset Note Note
 status open
@@ -646,21 +705,21 @@ Defense Systems and Resistance in Conifers
 \begin_layout Standard
 Conifers have a variety of defense systems for dealing with abiotic and
  biotic threats.
- The major defense systems which conifers posess for dealing with pathogens
- are constituative and inducible defenses.
- Structural or constituitive defenses include tissues, structures, and chemicals
+ The major defense systems which conifers posses for dealing with pathogens
+ are constitutive and inducible defenses.
+ Structural or constitutive defenses include tissues, structures, and chemicals
  present in parts of the tree which either prevent or reduce the possibility
  or severity of infection by a pathogen.
  Induced defenses are initiated locally and/or systemically upon the recognition
  of a pathogen, and include a variety of possible defense actions including
- secondary metabolite production, priming of systemwide defenses, and changes
+ secondary metabolite production, priming of system wide defenses, and changes
  to physical structures of the tree.
  Genetic defenses represent gene level interactions between plant and pathogen,
  and can confer increased resistance to a pathogen or outright immunity,
- depensing on the tree and pathogen.
- The constituitative and induced systems of defense present in conifers
- are not mutually exclusive of one another, and interact with components
- of the other systems of defense within the tree on some level.
+ depending on the tree and pathogen.
+ The constitutive and induced systems of defense present in conifers are
+ not mutually exclusive of one another, and interact with components of
+ the other systems of defense within the tree on some level.
  
 \end_layout
 
@@ -775,8 +834,16 @@ key "Schwarze2001,Shigo1977a,Shigo1984"
 
  helps to resist lateral spread of the infection or wound and is based on
  the active induced defenses in ray parenchyma cells.
- Wall 4 is the strongest wall proposed in the CODIT model, and is created
- de novo (as opposed to chemical strengthening, plugging, etc.
+ Wall 
+\begin_inset Quotes eld
+\end_inset
+
+4
+\begin_inset Quotes erd
+\end_inset
+
+ is the strongest wall proposed in the CODIT model, and is created de novo
+ (as opposed to chemical strengthening, plugging, etc.
  present in the other three wall types) in response to the
 \emph on
  
@@ -815,12 +882,12 @@ key "Kovalchuk2013,Pearce1996"
 
 \begin_layout Standard
 The hypersensitive response is the activation of programmed cellular death
- in localized areas in response to a pathogen; however, in pathogens with
- necrotrophic lifestyles, such as 
+ in localized areas in response to a pathogen; however, in the epidemiology
+ of pathogens with necrotrophic lifestyles, such as 
 \emph on
 Heterobasidion annosum s.l.
 \emph default
-, the hypersensitive response is ineffective.
+, the hypersensitive response is ineffective at stopping an infection.
  
 \end_layout
 
@@ -944,7 +1011,7 @@ key "Pearce1996"
 In addition to low molecular weight compounds produced for defenses, conifers
  also utilize protein based defenses in response to pathogens.
  These protein defenses are known as pathogensis-replated proteins (PR-proteins)
-, and include proteins across seventeen well defined classes (PR1-PR17),
+, and include proteins across seventeen well defined families (PR1-PR17),
  as well as several other classes of less well understood hypothesized PR-protei
 ns families (PR-18, PR-19) 
 \begin_inset CommandInset citation
@@ -954,17 +1021,20 @@ key "Kovalchuk2013,Veluthakkal2010"
 \end_inset
 
 .
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-CREATE TABLE OF PR-Protein Families and their basic actions against pathogens
- and insert here
-\end_layout
+ PR-Protien families implicated in the resistance to 
+\emph on
+Heterobasidion annosum 
+\emph default
+include Chitinases (PR-3), thaumatin-like proteins (PR-5) and peroxidaises
+ (PR-9) 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Eyles2010,Asiegbu1995"
 
 \end_inset
 
-
+.
+ 
 \end_layout
 
 \begin_layout Standard
@@ -1000,19 +1070,6 @@ status open
 \begin_layout Plain Layout
 Signaling molecules in the lesion formation? What do the signaling molecules
  do? 1-2 sentences for each molecule please!
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-HR in conifers?
 \end_layout
 
 \end_inset
@@ -1063,27 +1120,32 @@ key "Hietala2003,Swedjemark1998"
 \end_inset
 
 .
- Picea abies is not known to have outright immunity to the pathogen, and
- once established, disease progress will eventually kill off the host tree
- after degrading sufficient portions of essential tissues.
- Because there is no known Heterobasidion annosum s.l immune groups of 
+ 
 \emph on
 Picea abies
 \emph default
-, efforts in research have focused on elucidating the factors which determine
- levels of resistance and susceptability to 
+ is not known to have outright immunity to the pathogen, and once established,
+ disease progress will eventually kill off the host tree after degrading
+ sufficient portions of essential tissues.
+ Because there is no known 
 \emph on
 Heterobasidion annosum s.l
 \emph default
-., as well as charcterizing the overall interactions between the host and
+ immune genotypes of 
+\emph on
+Picea abies
+\emph default
+, research efforts have focused on elucidating the factors which determine
+ levels of resistance and susceptibility to 
+\emph on
+Heterobasidion annosum s.l
+\emph default
+., as well as characterizing the overall interactions between the host and
  pathogen.
  Resistance factors include biotic factors, including changes to plant physiolog
 y in response to pathogens, abiotic factors, such as temperature, climate,
  and nutrient availability, and genetics.
  
-\end_layout
-
-\begin_layout Standard
 \begin_inset Note Note
 status open
 
@@ -1097,20 +1159,71 @@ Abiotic factors
 \end_layout
 
 \begin_layout Standard
+Abiotic factors can influence the ability of either the host of pathogen
+ to properly defend, or infect, respectively.
+ Factors such as soil types, availability of nutrients within the soils,
+ pH, and moisture levels have been shown to influence the resistance of
+ Picea abies to infection of 
+\emph on
+Heterobasidion annosum 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Asiegbu2005,Lindberg1992,Redfern1993"
+
+\end_inset
+
+.
+\emph default
+Volatile organic compounds released from trees during herbivory have been
+ shown to induce subsequent resistance priming to pathogens in neighboring
+ trees 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Eyles2010,Yi2009"
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Standard
 Upon infection with Heterobasidion annosum, broad changes occur in both
  the host and pathogen.
- Specific elicitors detected by a susceptable host can initiate changes
+ Specific elicitors detected by a susceptible host can initiate changes
  to the physiology of the host both locally and systemically.
  Changes on the host include increased production of secondary metabolites
  in response to the pathogen.
  Similarly, once the pathogen begins to encounter resistance, it will produce
  compounds which assist in overcoming tree defenses.
- 
-\end_layout
+ A study by
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Swedjemark2007"
 
-\begin_layout Standard
+\end_inset
 
+found that the priming of resistance by prior inoculation of 
 \emph on
+Heterobasidion parviporum 
+\emph default
+in Norway spruce had significant effects on reducing the subsequent necrosis
+ and fungal growth in later inoculations.
+ Other factors can prime host tree defenses, prompting physiological changes
+ which confer enhanced resistance to pathogens.
+ Herbivory, volatile organic compounds, and colonization of the host with
+ certain types of rhizobacteria or mychorizzial fungi have the potential
+ to prime defenses in conifers 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Eyles2010"
+
+\end_inset
+
+.
+ 
+\emph on
+
 \begin_inset Note Note
 status open
 
@@ -1127,8 +1240,7 @@ P.
 \end_layout
 
 \begin_layout Standard
-Genetics have long been implicated in the resistance of plants to pathogens.
- The potential factors affecting resistance traits of individual trees are
+The potential factors affecting resistance traits of individual trees are
  influenced by genetics.
  A study by 
 \begin_inset CommandInset citation
@@ -1143,7 +1255,7 @@ key "Hietala2004"
  Heterobasidion annosum
 \emph default
 ) found that the more resistant clone produced higher levels of chitinase,
- sooner, after artificial innoculations than did the less resistant clone.
+ sooner, after artificial inoculations than did the less resistant clone.
  Overall variance in broad based heritability of the fungal extension in
  seventeen year old Norway spruce clones artificially inoculated with 
 \emph on
@@ -1160,8 +1272,8 @@ key "Swedjemark2004a"
 \begin_inset Formula $H^{2}$
 \end_inset
 
-, indicating that genetics do play a role in the resistance of Norway spruce
- to 
+, indicating that genetics do play a potential role in the resistance of
+ Norway spruce to 
 \emph on
 Heterobasidion parviporum.
 \emph default
@@ -1173,7 +1285,7 @@ key "Swedjemark1998"
 
 \end_inset
 
- similarily found fungal growth and lesion size broad sense heritability
+ similarly found fungal growth and lesion size broad sense heritability
  for Norway spruce clones artificially inoculated with 
 \emph on
 Heterobasidion parviporum
@@ -1210,7 +1322,7 @@ Heterobasidion parviporum
 \begin_inset Formula $H^{2}$
 \end_inset
 
-, respectivly.
+, respectively.
  Although these studies have indicated that heritability and genetics have
  an influence on the resistance of 
 \emph on
@@ -1238,8 +1350,12 @@ key "Lind2014"
 
 \end_inset
 
- mapped out 4 QTL regions in the Picea abies genome which had implications
- on several resistance factors to infection and growth of 
+ mapped out 4 QTL regions in the 
+\emph on
+Picea abies
+\emph default
+ genome which had implications on several resistance factors to infection
+ and growth of 
 \emph on
 Heterobasidion parviporum
 \emph default
@@ -1265,12 +1381,19 @@ Breeding for improvements in resistance
 Experiment and Rational 
 \end_layout
 
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
 \begin_layout Section
 Materials and Methods
 \end_layout
 
 \begin_layout Subsection
-Sites
+Field Sites
 \end_layout
 
 \begin_layout Standard
@@ -1596,7 +1719,7 @@ Heterobasidion parviporum
  
 \end_layout
 
-\begin_layout Section
+\begin_layout Subsection
 Preparation of Study Trees and Inoculation
 \end_layout
 
@@ -1667,7 +1790,7 @@ After inoculations were completed, the samples were left for three months
  
 \end_layout
 
-\begin_layout Section
+\begin_layout Subsection
 Harvest and Processing
 \end_layout
 
@@ -1682,9 +1805,9 @@ Trees were cut down three months after initial inoculations.
  and below the inoculation point was collected.
  Samples were labelled with the site (L, R, for Lapinjarvi or Rovaniemi),
  treatment(W, for wounding control, T, for treatment), tree (1-15), and
- replicate number(A,B,C for stem representing 50, 100, and 150cm , inoculation
- points, and R1,R2,R3 for root inoculations, with R1 being the closest inoculati
-on point to the root collar) before storing.
+ replicate number(A,B,C for stem representing 50, 100, and 150cm inoculation
+ points, and R1, R2, R3 for root inoculations, with R1 being the closest
+ inoculation point to the root collar) before storing.
 \end_layout
 
 \begin_layout Standard
@@ -1694,12 +1817,12 @@ All samples were placed into large black trash bags (lapinjarvi) or kevlar
  and placed into cold storage at -18°C.
  Samples from Rovaniemi were placed in the -40°C freezer at METLA, and then
  shipped under temperature control to the University of Helsinki.
- Upon arrival, the samples from were placed in -18°C storage until further
- processing.
+ Upon arrival, the samples from Rovaniemi were placed in -18°C storage until
+ further processing.
  
 \end_layout
 
-\begin_layout Section
+\begin_layout Subsection
 Reisolation and confirmation of 
 \emph on
 Heterobasidion parviporum
@@ -1712,7 +1835,7 @@ Nuff said.
  
 \end_layout
 
-\begin_layout Section
+\begin_layout Subsection
 Measurements of Lesions
 \end_layout
 
@@ -1726,24 +1849,23 @@ The samples required a significant amount of work to process for measurement
  inoculation point.
  To the left or right of the inoculation point, 5 cm of bark was removed.
  Once bark was removed, the initial wounding and lesion was photographed
- and measured on the phloem tissue.
+ and measured in the phloem tissue.
  A total of five measurements were taken for each lesion: length of lesion
  extending upwards (towards the crown in stem samples, or towards the root
  collar in root samples) from the uppermost part of the wooden inoculation
  dowel, length of lesion extending downward from the lowermost point of
- the inoculation dowel, length of lesion extension to the left and right
- of the dowel, and a total length measurement taken from the uppermost point
- of lesion extension upwards to the lowermost point of lesion extension
+ the inoculation, length of lesion extension to the left and right of the
+ inoculation point, and a total length measurement taken from the uppermost
+ point of lesion extension upwards to the lowermost point of lesion extension
  downwards.
- After measurements of the phloem sample were completed, phloem tissue was
- removed utilizing a mallet and woodworking chisels to expose the xylem
- tissue.
+ After measurements of the phloem sample were taken, phloem tissue was removed
+ utilizing a mallet and woodworking chisels to expose the xylem tissue.
  Lesions present in the xylem tissue were photographed and measured in the
  same manner as the phloem tissue.
  
 \end_layout
 
-\begin_layout Section
+\begin_layout Subsection
 Analysis of Data
 \end_layout
 
@@ -1752,16 +1874,16 @@ Preprocessing of the data was necessary to properly format the data, and
  to ensure that the data was suitable for subsequent statistical analysis.
  For the purposes of the analysis of the size of visible lesions, i.e, the
  total length of the lesion and total width of the lesion are used as the
- primary reponse variables.
- To create a single response variable with which to charcterize the lesions
- of the individual tree, the lesions are conceputalized as a 2-dimensional
+ primary response variables.
+ To create a single response variable with which to characterize the lesions
+ of the individual tree, the lesions are conceptualized as a 2-dimensional
  
 \begin_inset Formula $ $
 \end_inset
 
 
 \begin_inset Foot
-status open
+status collapsed
 
 \begin_layout Plain Layout
 No depth measurements were taken on samples to determine the progression
@@ -1832,7 +1954,7 @@ INSERT CHART OF HEIARCHICAL DATA STRUCTURE HERE; EXPLAIN BRIEFLY NEEDS FOR
 
 \begin_layout Standard
 Analysis of the data collected for this project was conducted using R 3.0.2
- (R Core Team, 2014), and pacakges lme4 
+ (R Core Team, 2014), and packages lme4 
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Bates2013"
@@ -1841,15 +1963,15 @@ key "Bates2013"
 
 .
  Summary statistics and general overview of the data is available in the
- results section, and the code used to produce the output is availble in
+ results section, and the code used to produce the output is available in
  the appendix.
- Mixed effects modelling was used to determine the effects that the categorical
+ Mixed effects modeling was used to determine the effects that the categorical
  variables of site, tree, organ, and tissue.
  As repeated measurements from a single subject (i.e, tree) cannot be assumed
- to be independant of one another, explicit nesting was specified in building
- the model to ensure accurate interpertation of the model results.
- Heiarchical mixed effects models allow for the broad analysis of data which
- takes on complex, interrelated levels.
+ to be independent of one another, explicit nesting was specified in building
+ the model to ensure accurate interpretation of the model results.
+ Hierarchical mixed effects models allow for the broad analysis of data
+ which takes on complex, interrelated levels.
  Several models were created, ranging from basic to more complex models
  with interactions; an explanation regarding the comparison of different
  models, and reasons for final model selection as presented in the results
@@ -1878,7 +2000,7 @@ The mixed effects model takes the form:
 \begin_layout Standard
 
 \size large
-\begin_inset Formula $y_{ijk}=X_{ijk}\beta+Z_{i,jk}\gamma+\epsilon_{ijk}$
+\begin_inset Formula $Y_{ijk}=X_{ijk}\beta+Z_{i,jk}\gamma+\epsilon_{ijk}$
 \end_inset
 
 
@@ -1936,7 +2058,19 @@ Site, Treatment, Organ, Tissue)
  is the design matrix of random effect variables (
 \series bold
 \emph on
-Tree, Sample)
+Tree, Organ 
+\series default
+within
+\series bold
+ Tree, Sample 
+\series default
+within
+\series bold
+ Organ 
+\series default
+within
+\series bold
+ Tree)
 \series default
 \emph default
 ,
@@ -1957,7 +2091,7 @@ is the vector of the random effects coefficients, and
 \size default
  is the vector of residuals.
  The responses are assumed to be drawn from a distribution 
-\begin_inset Formula $\eta\left(\mu,\sigma^{2}\right)$
+\begin_inset Formula $N\left(\mu,\sigma^{2}\right)$
 \end_inset
 
  
@@ -2003,11 +2137,18 @@ status open
  
 \end_layout
 
-\begin_layout Chapter
-Results
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section
+Results
+\end_layout
+
+\begin_layout Subsection
 Summary Statistics for Lesions
 \end_layout
 
@@ -2063,7 +2204,7 @@ Lesion Extension
 <cell multicolumn="2" alignment="left" valignment="top" bottomline="true" usebox="none">
 \begin_inset Text
 
-\begin_layout Bibliography
+\begin_layout Plain Layout
 
 \end_layout
 
@@ -2072,7 +2213,7 @@ Lesion Extension
 <cell multicolumn="2" alignment="left" valignment="top" bottomline="true" usebox="none">
 \begin_inset Text
 
-\begin_layout Bibliography
+\begin_layout Plain Layout
 
 \end_layout
 
@@ -2081,7 +2222,7 @@ Lesion Extension
 <cell multicolumn="2" alignment="left" valignment="top" bottomline="true" usebox="none">
 \begin_inset Text
 
-\begin_layout Bibliography
+\begin_layout Plain Layout
 
 \end_layout
 
@@ -2090,7 +2231,7 @@ Lesion Extension
 <cell multicolumn="2" alignment="left" valignment="top" bottomline="true" usebox="none">
 \begin_inset Text
 
-\begin_layout Bibliography
+\begin_layout Plain Layout
 
 \end_layout
 
@@ -2173,9 +2314,16 @@ Right
 \begin_inset Text
 
 \begin_layout Plain Layout
+millimeters
+\end_layout
 
-\size footnotesize
-mm
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+millimeters
 \end_layout
 
 \end_inset
@@ -2186,7 +2334,7 @@ mm
 \begin_layout Plain Layout
 
 \size footnotesize
-mm
+millimeters
 \end_layout
 
 \end_inset
@@ -2197,18 +2345,7 @@ mm
 \begin_layout Plain Layout
 
 \size footnotesize
-mm
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size footnotesize
-mm
+millimeters
 \end_layout
 
 \end_inset
@@ -2560,7 +2697,7 @@ Lesion Geometric Response
 <cell multicolumn="2" alignment="center" valignment="top" topline="true" usebox="none">
 \begin_inset Text
 
-\begin_layout Bibliography
+\begin_layout Plain Layout
 
 \end_layout
 
@@ -2718,69 +2855,1227 @@ Rovaniemi-C
 
 \end_layout
 
-\begin_layout Section
-Heiarchical Mixed Effect Modeling of Lesions 
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{landscape}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-Model(s) goes here 
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename C:/Users/user/Documents/Courses/Thesis/Figures for thesis/boxplotBothSitesGeomResp.eps
+	scale 75
+
+\end_inset
+
+
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+
+\emph on
+Boxplot of the geometric response as measured in both sites.
+ Points indicate outliers .
+ 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-Null model = geomResp ~ 1 + (1|Tree) 
+Figure X.x is a boxplot of the lesion sizes by tree Lapinjarvi field site,
+ by treatment group.
 \end_layout
 
 \begin_layout Standard
-Basic model = geomResp ~ Site + Treatment + (1|Tree)
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\backslash
+
 \end_layout
 
 \begin_layout Standard
-Nested Model full model = geomResp ~ Site + Treatment + Organ + Tissue +
- (1|Tree/Organ/Sample)
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{landscape}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Heiarchical Mixed Effect Modeling of Lesions-Primary Model
 \end_layout
 
 \begin_layout Standard
-Make a table of the different model fits
+The response variable for the model is the 
+\begin_inset Formula $log_{e}$
+\end_inset
+
+ transformed product of the total length of the lesion and total width of
+ the lesion (see equation X above).
+ Main (fixed) effects for the model structure are the effect of treatment
+ (control or infected), site (rovaniemi or lapinjarvi), organ (stem or root)
+ and tissue (phloem or xylem).
+ Additionally, all two way interactions between main effects were included
+ as well.
+ Random effects included in the model were accounted for in three separate
+ grouping variables; tree level groupings, organ within tree level groupings,
+ and sample within organ within tree level groupings.
+ 
 \end_layout
 
-\begin_layout Section
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{landscape}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
 Fixed Effects
 \end_layout
 
-\begin_layout Subsection
-Effect of Site 
+\begin_layout Standard
+Summary of the parameter estimates, confidence intervals for parameter estimates
+ (95%), standard error of the samples parameter estimates, and t-values
+ for the parameter estimates are given in Table X.x.
+ The intercept for lesion sizes irrespective of treatments, organs, tissues,
+ etc., for all trees from the log transformed response variable is the largest
+ contribution of the fixed effect on lesion size.
+ Fixed effects with large influences over lesion size ( 
+\begin_inset Formula $\geq\pm$
+\end_inset
+
+0.4 units in 
+\begin_inset Formula $\hat{y}$
+\end_inset
+
+ ) were the effect of Treatment (=Wounding), Tissue (=Xylem), and the interactio
+n between Treatment (=Wounding) and Organ (=Stem).
+ 
+\begin_inset Float table
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+Parameter estimates for fixed effects in lesion response model
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Tabular
+<lyxtabular version="3" rows="12" columns="6">
+<features rotate="0" tabularvalignment="middle">
+<column alignment="left" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top" width="0pt">
+<row>
+<cell alignment="left" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+\emph on
+Fixed Effect
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+\emph on
+Estimate
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+\emph on
+C.I 2.5%
+\begin_inset Formula $^{*}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+\emph on
+ C.I.
+ 97.5%
+\begin_inset Formula $^{*}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+\emph on
+Standard Error
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+\emph on
+t-value**
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape italic
+\size small
+\emph on
+\color black
+Intercept
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+6.659
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+6.476 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+6.842
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0.09637
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+69.10
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape italic
+\size small
+\emph on
+\color black
+Treatment-Wounding
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-0.788
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-1.039 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-0.513
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0.12770
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-6.18
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape italic
+\size small
+\emph on
+\color black
+Site-Rovaniemi
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-0.27
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-0.508 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-0.020
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0.12770
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-2.12
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape italic
+\size small
+\emph on
+\color black
+Organ-Stem
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0.084
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-0.129
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0.293
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0.10622
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0.80
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape italic
+\size small
+\emph on
+\color black
+Tissue-Xylem
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-0.455
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-0.534
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ -0.375
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0.04307
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-10.58
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape italic
+\size small
+\emph on
+\color black
+Treatment:Wouding*Site:Rovaniemi
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0.055
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-0.247
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ 0.345
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0.15645
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0.36
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape italic
+\size small
+\emph on
+\color black
+Treatment:Wounding*Organ:Stem
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-0.432
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-0.656
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-0.187
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0.12010
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-3.60
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape italic
+\size small
+\emph on
+\color black
+Treatment:Wounding*Tissue:Xylem
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-0.033
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-0.120 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0.053
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0.04307
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-0.78
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape italic
+\size small
+\emph on
+\color black
+Site:Rovaniemi*Organ:Stem
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0.294
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0.058 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0.517
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0.12010
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+2.45
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape italic
+\size small
+\emph on
+\color black
+Site:Rovaniemi*Tissue:Xylem
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0.249
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0.164
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0.328
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0.04307
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+5.79
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape italic
+\size small
+\emph on
+\color black
+Organ:Stem*Tissue:Xylem
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-0.11
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-0.197
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-0.026
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0.04307
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-2.64
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\emph on
+*C.I.
+ = Confidence intervals for the 95% significance level.
+ Calculated utilizing the 
+\begin_inset Quotes eld
+\end_inset
+
+confint
+\begin_inset Quotes erd
+\end_inset
+
+ function in lme4 package (Bates et.
+ al.) with 1000 simulations
+\emph default
+.
+ 
+\end_layout
+
+\begin_layout Plain Layout
+
+\emph on
+** t-value = Parameter estimate divided by the standard error.
+ 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{landscape}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Subsection
-Effect of Tissue
-\end_layout
-
-\begin_layout Subsection
-Effect of Organ
-\end_layout
-
-\begin_layout Subsection
-Effect of Tissue
-\end_layout
-
-\begin_layout Subsection
-Interactions
-\end_layout
-
-\begin_layout Section
 Random Effects
 \end_layout
 
-\begin_layout Subsection
-Trees
+\begin_layout Standard
+The random effects of the groups and nestings are summarized in Table X.x
+ below
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float table
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Tabular
+<lyxtabular version="3" rows="5" columns="4">
+<features rotate="0" booktabs="true" tabularvalignment="middle">
+<column alignment="center" valignment="top" width="0pt">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top" width="0pt">
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+\emph on
+Random Effects
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+\emph on
+Type
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+\emph on
+Variance
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+\emph on
+Std.
+ Deviation
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Sample:(Organ:Tree)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Group Intercept
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0.149
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0.386
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Organ:Tree
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Group Intercept
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0.044
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0.210
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Tree
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Group Intercept
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0.037
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0.194
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Residual
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+--
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0.083
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0.289
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Subsection
-Nesting
+Model Validation and Diagnostics
 \end_layout
 
-\begin_layout Subsection
-Plots of Random Effects
+\begin_layout Subsubsection
+Interaction Terms
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
