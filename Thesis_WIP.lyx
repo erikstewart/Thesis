@@ -1918,7 +1918,7 @@ No depth measurements were taken on samples to determine the progression
 \begin_layout Standard
 Equation 1.1.
  
-\begin_inset Formula $y=log_{e}(x_{1}x{}_{2})$
+\begin_inset Formula $y=(x_{1}x{}_{2})$
 \end_inset
 
 
@@ -2117,7 +2117,8 @@ mixed effect model; it is not entirely representative of the model(s) utilized
 \end_layout
 
 \begin_layout Standard
-Graphics were composed with R 3.0.2 and package ggplot2 
+Graphics were composed with R 3.1.2 and packages ggplot2, lattice, and gridExtra
+ 
 \begin_inset Note Note
 status open
 
@@ -2129,10 +2130,10 @@ status open
 
 .
  Exploratory analysis utilizing histograms and other charting techniques
- was utilized to determine whether the data without any transformations
- would be suitable for use in statistical analysis.
+ was utilized to explore the structure and nature of the data along all
+ steps of modeling.
  When data was found to be in violation of assumptions of normality, the
- log-natrual transform was utilized to correct variables which violated
+ log-natural transform was utilized to correct variables which violated
  normality.
  
 \end_layout
@@ -2150,6 +2151,22 @@ Results
 
 \begin_layout Subsection
 Summary Statistics for Lesions
+\end_layout
+
+\begin_layout Standard
+The response variable violated assumptions of normality (See figure X.x.a).
+ A natural logarithm transform of the response variable, y, resulted in
+ a closer to normal distribution of the response variable (Figure X.x.b.) 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename C:/Users/user/Documents/Courses/Thesis/Figures for thesis/GeometricResponseHistograms.pdf
+	scale 70
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -2856,19 +2873,8 @@ Rovaniemi-C
 \end_layout
 
 \begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{landscape}
-\end_layout
-
-\end_inset
-
-
+Figure X.x is a boxplot of the the geometric response variable across sites
+ and treatments.
 \end_layout
 
 \begin_layout Standard
@@ -2879,8 +2885,8 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename C:/Users/user/Documents/Courses/Thesis/Figures for thesis/boxplotBothSitesGeomResp.eps
-	scale 75
+	filename C:/Users/user/Documents/Courses/Thesis/Figures for thesis/BoxplotGeomRespSeperate.eps
+	scale 80
 
 \end_inset
 
@@ -2891,8 +2897,10 @@ status open
 
 \emph on
 Boxplot of the geometric response as measured in both sites.
- Points indicate outliers .
- 
+ Points indicate outliers.
+ The effect of treatment is significant (F=161.43, d.f.=1, Pr(>F)= <
+\emph default
+0.000)
 \end_layout
 
 \end_inset
@@ -2903,33 +2911,10 @@ Boxplot of the geometric response as measured in both sites.
 \end_inset
 
 
-\end_layout
-
-\begin_layout Standard
-Figure X.x is a boxplot of the lesion sizes by tree Lapinjarvi field site,
- by treatment group.
 \end_layout
 
 \begin_layout Standard
 \begin_inset Newpage pagebreak
-\end_inset
-
-
-\backslash
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{landscape}
-\end_layout
-
 \end_inset
 
 
@@ -2988,12 +2973,12 @@ Summary of the parameter estimates, confidence intervals for parameter estimates
 \begin_inset Formula $\geq\pm$
 \end_inset
 
-0.4 units in 
-\begin_inset Formula $\hat{y}$
+0.4 estimated effect on the geometric response, 
+\begin_inset Formula $y$
 \end_inset
 
- ) were the effect of Treatment (=Wounding), Tissue (=Xylem), and the interactio
-n between Treatment (=Wounding) and Organ (=Stem).
+) are the effect of treatment (=wounding), tissue (=xylem), and the interaction
+ between treatment (=wounding) and organ (=stem).
  
 \begin_inset Float table
 placement H
@@ -3239,7 +3224,7 @@ Site-Rovaniemi
 \begin_inset Text
 
 \begin_layout Plain Layout
--0.27
+-0.270
 \end_layout
 
 \end_inset
@@ -3727,7 +3712,7 @@ Organ:Stem*Tissue:Xylem
 \begin_inset Text
 
 \begin_layout Plain Layout
--0.11
+-0.113
 \end_layout
 
 \end_inset
@@ -4067,8 +4052,92 @@ Residual
 Model Validation and Diagnostics
 \end_layout
 
-\begin_layout Subsubsection
-Interaction Terms
+\begin_layout Standard
+Profiled likelihood of parameter estimates.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename C:/Users/user/Documents/Courses/Thesis/Figures for thesis/DensityPlotParametersPDFBW.pdf
+	width 14cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The liklihood of the parameter estimates are presented in figure X.x.
+ Profiles were created utilizing the methodology in (SOURCE .
+ Et.
+ Al).
+ Reviewing the ranges and densities of the profile plots gives an indication
+ of the certainty of the original estimate, as well as the variability.
+ Parameter profiles are normally distributed, with some kurtosis evident
+ in the random effects standard deviation estimates for residual variance,
+ tree, organ within tree, and sample within organ within tree groupings
+ (
+\begin_inset Formula $\sigma,\sigma_{1},\sigma_{2},\sigma_{3,}$
+\end_inset
+
+ in Figure X.x respectively).
+ Other profiles of parameter likelihood show little to no kurtosis.
+ The range of the profiled parameters strongly coincide with the 95% confidence
+ intervals presented in Table X.x, with maximal densities for each given
+ likelihood profile close in value to the original parameter estimates.
+ 
+\end_layout
+
+\begin_layout Standard
+Model fit was examined by plotting the observed values for the geometric
+ response against the fitted values from the model (figure X.x).
+ Marginal 
+\begin_inset Formula $R^{2}$
+\end_inset
+
+(variance of fixed effects only) is 0.496, or 49.6% of total variance.
+ Conditional 
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+
+\begin_inset Formula $R^{2}$
+\end_inset
+
+ (variance of fixed effects and random effects) is 0.866, or 86.6% of total
+ variance.
+
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename C:/Users/user/Documents/ModelFitPlot.pdf
+	scale 50
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
