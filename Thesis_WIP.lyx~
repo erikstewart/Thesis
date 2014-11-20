@@ -78,7 +78,7 @@ enumitem
 \rightmargin 2.5cm
 \bottommargin 2.5cm
 \secnumdepth 3
-\tocdepth 3
+\tocdepth 2
 \paragraph_separation skip
 \defskip bigskip
 \quotes_language english
@@ -115,12 +115,6 @@ Erik Stewart
 \end_layout
 
 \begin_layout Abstract
-Wow.
- Such abstract.
- Much info.
- Little text.
- Such concise.
- Wow
 \begin_inset Newpage pagebreak
 \end_inset
 
@@ -334,13 +328,14 @@ l.
  infect a broad range of coniferous trees, as well some angiosperms.
  A selective necrotroph, 
 \emph on
-Heterobasidion annosum 
+Heterobasidion annosum s.l.
+
 \emph default
-s.l.
  causes damage by selectively degrading lignin and cellulose in host trees;
  no cures are available after infection has been established within a host,
- and death of the host tree will occur eventually, although the degradation
- of host tissues to the point of lethality may take several decades.
+ and death of the host tree will occur eventually.
+ However, the degradation of host tissues to the point of lethality may
+ take several decades.
  Due to the mortal nature of infections by 
 \emph on
 Heterobasidion annosum s.l., 
@@ -561,32 +556,12 @@ spores, infections can still occur in the immature, unsuberized roots of
 Heterobasidion spp.
  
 \emph default
-do not have the ability to grow far in soil alone 
-\change_inserted 2090806916 1406653103
-
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-
-\change_inserted 2090806916 1406653103
-(HOW FAR CAN THEY GROW IN SOIL ALONE)
-\change_unchanged
-
-\end_layout
-
-\end_inset
-
-
-\change_unchanged
-; they generally require suitable host substrate to grow and proliferate
- (INSERT SOURCE).
+do not have the ability to grow in soil alone; they generally require suitable
+ host substrate to grow and proliferate.
  However, root systems of an infected tree which are sufficiently near to
  neighboring tree's root systems, or which are grafted, or otherwise in
  contact with the root systems of another tree can pass mycelium from the
- infected tree to the otherwise healthy root systems of another tree (INSERT
- SOURCE).
- 
+ infected tree to the otherwise healthy root systems of another tree.
 \end_layout
 
 \begin_layout Standard
@@ -1378,6 +1353,44 @@ Breeding for improvements in resistance
 \end_layout
 
 \begin_layout Subsection
+Lesions as a indication of Resistance ##NEEDS EXPANSION AND MORE CITATIONS
+\end_layout
+
+\begin_layout Standard
+The use of measuring lesions in one way or another as a indication of potential
+ resistance to 
+\emph on
+Heterobasidion spp.
+ 
+\emph default
+infections and growth has been done in many studies.
+ Furthermore, measurements of lesions in other species/host complexes have
+ also been utilized to characterize resistance and susceptibility to pathogens
+ in various agricultural crops.
+ However, methodologies vary depending on the studies, and thus conclusions
+ and results between studies can be difficult to generalize.
+ Studies on the lesions in Norway spruce have been performed which have
+ similarities to the methodology utilized in this study, but in many instances
+ have one or more differences which would not allow for direct comparison
+ between results.
+ Differences include ways in which the inoculation is performed (DEEP TISSUE
+ vs SUPERFICIAL; 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+find and indicates studies
+\end_layout
+
+\end_inset
+
+), the parts of the tree which are inoculated (Stem vs root vs Stem and
+ root), number of replicates per tree, and different choices for analyzing
+ the resulting data.
+ 
+\end_layout
+
+\begin_layout Subsection
 Experiment and Rational 
 \end_layout
 
@@ -1433,229 +1446,7 @@ SEE IF IT IS POSSIBLE TO FIND OUT SPECIFIC SOIL TYPES IN THESE LOCATIONS
  Trees which were obviously damaged due to biotic or anthropogenic factors,
  or trees which were obviously extremely young, or otherwise unhealthy were
  excluded from selection.
- Diameter at breast height (1.3meters) was measured for each tree.
-\end_layout
-
-\begin_layout Standard
-Table 1.
- Mean DBH of Rovaniemi Trees
-\end_layout
-
-\begin_layout Standard
-\begin_inset Tabular
-<lyxtabular version="3" rows="3" columns="3">
-<features rotate="0" tabularvalignment="middle">
-<column alignment="left" valignment="top">
-<column alignment="right" valignment="top">
-<column alignment="right" valignment="top">
-<row>
-<cell alignment="left" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-Treatment
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="right" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-Mean DBH
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="right" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-Standard Deviation
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Wounding Control
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="right" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-121.93
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="right" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-24.1
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="left" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Infection
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="right" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-121.6
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="right" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-21.0
-\end_layout
-
-\end_inset
-</cell>
-</row>
-</lyxtabular>
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-Table 2.
- Mean DBH of Lapinjarvi Trees
-\end_layout
-
-\begin_layout Standard
-\begin_inset Tabular
-<lyxtabular version="3" rows="3" columns="3">
-<features rotate="0" tabularvalignment="middle">
-<column alignment="center" valignment="top">
-<column alignment="center" valignment="top">
-<column alignment="center" valignment="top">
-<row>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Treatment
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-Mean DBH
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-Standard Deviation
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Wounding Control
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Infection
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-</lyxtabular>
-
-\end_inset
-
-
+ 
 \end_layout
 
 \begin_layout Subsection
@@ -1682,35 +1473,18 @@ find isolate number
 
 
 \change_unchanged
-was provided by Kari Karhonen, and sourced from 
-\change_inserted 2090806916 1408625984
-
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-
-\change_inserted 2090806916 1408625979
-Find location of original isolate
-\change_unchanged
-
-\end_layout
-
-\end_inset
-
-
-\change_unchanged
-.
- The isolate was maintained on 2% Malt extract agar and kept at 4 degrees
- Celsius.
+was provided by Kari Karhonen, and sourced from (Where?).
+ The isolate was maintained on 2% Malt extract agar and kept at 4º Celsius.
  To create a delivery vessel for the inoculum, wooden dowels of Norway Spruce
- measuring roughly 8 mm diameter by 7 mm length were created utilizing a
- drill press and a jewelers saw.
- Cut and formed dowels were autoclaved with a small amount of MilliQ H20.
- Subsequently, dowels for control trees were placed onto 2% malt extract
- agar plates, and incubated at room temperature for two weeks.
+ measuring roughyly 6 mm diameter by 7 mm length were created utilizing
+ a drill press and a jewelers saw.
+ Cut and formed dowels were autoclaved for 30 minutes with a small amount
+ of Milli-Q water.
+ Subsequently, dowels for control trees were placed onto previously prepared
+ 2% malt extract agar plates, and incubated at room temperature for two
+ weeks.
  Dowels utilized for infection were placed onto 2% malt extract agar plates
- which were previously sub-cultured with the 
+ which were previously sub-cultured three weeks prior with the 
 \emph on
 Heterobasidion parviporum
 \emph default
@@ -1724,10 +1498,12 @@ Preparation of Study Trees and Inoculation
 \end_layout
 
 \begin_layout Standard
-For this study, each tree was given a total of six inoculations; three stem
- inoculations placed at 50cm, 100cm, and 150cm above the soil level, and
- three in the roots placed opportunistically depending on the size and shape
- of the exposed root(s).
+For this study, each tree was treated with a total of six inoculations;
+ three stem inoculations placed at 50cm, 100cm, and 150cm above the soil
+ level, and three in the roots placed opportunistically depending on the
+ size and shape of the exposed root(s).
+ Whenever possible the inoculations were places on the parts of the root
+ facing upwards towards the crown of the tree.
  A minimum of 25cm was maintained between root inoculations in instances
  where a single large root was inoculated more than once.
  In all trees, the inoculations were performed such that the inoculation
@@ -1751,7 +1527,7 @@ Prior to applying treatment (i.e, wounding control or infection), roots of
 Heterobasidion parviporum
 \emph default
 ) were also sprayed with 70% ethanol and wiped clean prior to each use.
- Tools used for inoculations included: stainless steel foreceps, for handling
+ Tools used for inoculations included: stainless steel forceps, for handling
  of the wooden dowel and removing any excess origional host tissues, 7mm
  interior diameter stainless steel punch for creating the bore and removing
  host tissue, and a large rubber headed mallet, utilized for hammering in
@@ -1766,8 +1542,8 @@ For each stem inoculation, a steel punch with a diameter of 7 mm was used
  then inspected to ensure that the depth of the hole bored reached into
  the xylem of the host tree.
  Confirmation of sufficient depth was done by expecting the tissue removed
- from the bore; a clear deliniation exists between phloem and xylem tissues.
- Immediatly after confirmation of adequate bore depth, a wooden dowel for
+ from the bore; a clear delineation exists between phloem and xylem tissues.
+ Immediately after confirmation of adequate bore depth, a wooden dowel for
  the specific treatment for the tree was introduced into the hole, and then
  the area of the inoculation was wrapped with parafilm to minimize the chance
  of post-inoculation contamination.
@@ -1775,18 +1551,11 @@ For each stem inoculation, a steel punch with a diameter of 7 mm was used
 \end_layout
 
 \begin_layout Standard
-Inoculations in Lapinjarvi were carried out during the INSERT WEEK HERE
- of June.
- In Rovaniemi, inoculations were carried out on the 26th of June.
+Inoculations in Lapinjarvi were carried out the 14th of June.
+ In Rovaniemi, inoculations were carried out on the 26th of June, 2013.
  After trees were inoculated and inoculation points were wrapped with parafilm,
  the roots were re-buried with the loose soil removed to expose the roots
  for inoculations.
- 
-\end_layout
-
-\begin_layout Standard
-After inoculations were completed, the samples were left for three months
- to allow for time for potentital growth of the pathogen within host tissues.
  
 \end_layout
 
@@ -1795,15 +1564,15 @@ Harvest and Processing
 \end_layout
 
 \begin_layout Standard
-Trees were cut down three months after initial inoculations.
+Trees were cut down roughly three months after initial inoculations.
  Roots of the respective trees were re-dug carefully and extracted.
  Primary tools utilzed in harvest were chainsaws.
  Due to the large size of the trees, only the lower segment of the stem
  containing the inoculation points (and 50cm above/below the upper and lower
  inoculation point) were removed.
  In root samples, as much as was feasible and reasonable, up to 50 cm above
- and below the inoculation point was collected.
- Samples were labelled with the site (L, R, for Lapinjarvi or Rovaniemi),
+ and below the inoculation point was collected for each inoculation.
+ Samples were labeled with the site (L, R, for Lapinjarvi or Rovaniemi),
  treatment(W, for wounding control, T, for treatment), tree (1-15), and
  replicate number(A,B,C for stem representing 50, 100, and 150cm inoculation
  points, and R1, R2, R3 for root inoculations, with R1 being the closest
@@ -1811,28 +1580,14 @@ Trees were cut down three months after initial inoculations.
 \end_layout
 
 \begin_layout Standard
-All samples were placed into large black trash bags (lapinjarvi) or kevlar
- sacks once trimmed to size at the field site.
+All samples were placed into large black trash bags (lapinjarvi) or Kevlar
+ sacks once trimmed to size at the respective field site.
  Samples from Lapinjarvi were taken directly to the University of Helsinki
  and placed into cold storage at -18°C.
  Samples from Rovaniemi were placed in the -40°C freezer at METLA, and then
  shipped under temperature control to the University of Helsinki.
  Upon arrival, the samples from Rovaniemi were placed in -18°C storage until
  further processing.
- 
-\end_layout
-
-\begin_layout Subsection
-Reisolation and confirmation of 
-\emph on
-Heterobasidion parviporum
-\emph default
- in samples
-\end_layout
-
-\begin_layout Standard
-Nuff said.
- 
 \end_layout
 
 \begin_layout Subsection
@@ -1916,12 +1671,10 @@ No depth measurements were taken on samples to determine the progression
 \end_layout
 
 \begin_layout Standard
-Equation 1.1.
- 
 \begin_inset Formula $y=(x_{1}x{}_{2})$
 \end_inset
 
-
+ Equation 1.1.
 \end_layout
 
 \begin_layout Standard
@@ -2000,20 +1753,16 @@ The mixed effects model takes the form:
 \begin_layout Standard
 
 \size large
-\begin_inset Formula $Y_{ijk}=X_{ijk}\beta+Z_{i,jk}\gamma+\epsilon_{ijk}$
+\begin_inset Formula $y=X\beta+Z\gamma+\epsilon$
 \end_inset
 
 
 \end_layout
 
 \begin_layout Standard
-where 
-\begin_inset Formula $y_{ij}$
-\end_inset
-
- is the 
+where y is the
 \emph on
-j-th 
+ 
 \emph default
 sample measurement of the observed 
 \series bold
@@ -2021,11 +1770,7 @@ sample measurement of the observed
 Geometric Response
 \series default
 \emph default
- in tree 
-\emph on
-i
-\emph default
- ,
+,
 \size large
  
 \begin_inset Formula $X$
@@ -2160,6 +1905,12 @@ The response variable violated assumptions of normality (See figure X.x.a).
 \end_layout
 
 \begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
 \begin_inset Graphics
 	filename C:/Users/user/Documents/Courses/Thesis/Figures for thesis/GeometricResponseHistograms.pdf
 	scale 70
@@ -2169,8 +1920,34 @@ The response variable violated assumptions of normality (See figure X.x.a).
 
 \end_layout
 
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Histogram of the geometric response variable, 
+\begin_inset Formula $y$
+\end_inset
+
+, and transformed geometric response variable 
+\begin_inset Formula $log_{e}(y)$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Standard
-Mean lesion sizes are presented in table X.x
+Mean lesion sizes are presented in table X.x.
+ 
 \end_layout
 
 \begin_layout Standard
@@ -2199,13 +1976,13 @@ Standard Deviation
 \begin_layout Plain Layout
 \noindent
 \begin_inset Tabular
-<lyxtabular version="3" rows="9" columns="5">
+<lyxtabular version="3" rows="8" columns="5">
 <features rotate="0" booktabs="true" tabularvalignment="middle">
-<column alignment="left" valignment="top">
-<column alignment="left" valignment="top">
-<column alignment="left" valignment="top">
-<column alignment="left" valignment="top">
-<column alignment="left" valignment="top" width="0pt">
+<column alignment="right" valignment="top" width="0pt">
+<column alignment="right" valignment="top">
+<column alignment="right" valignment="top">
+<column alignment="right" valignment="top">
+<column alignment="right" valignment="top" width="0pt">
 <row>
 <cell multicolumn="1" alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
 \begin_inset Text
@@ -2256,120 +2033,69 @@ Lesion Extension
 </cell>
 </row>
 <row>
-<cell alignment="left" valignment="top" usebox="none">
+<cell alignment="right" valignment="top" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
 
 \series bold
 \size small
-Site-Treatment*
+Site
 \end_layout
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" usebox="none">
+<cell alignment="right" valignment="top" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
 
 \series bold
 \size small
-Upwards
+Upwards (mm)
 \end_layout
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" usebox="none">
+<cell alignment="right" valignment="top" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
 
 \series bold
 \size small
-Downwards
+Downwards (mm)
 \end_layout
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" usebox="none">
+<cell alignment="right" valignment="top" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
 
 \series bold
 \size small
-Left
+Left (mm)
 \end_layout
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" usebox="none">
+<cell alignment="right" valignment="top" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
 
 \series bold
 \size small
-Right
+Right (mm)
 \end_layout
 
 \end_inset
 </cell>
 </row>
 <row>
-<cell alignment="left" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-millimeters
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-millimeters
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size footnotesize
-millimeters
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size footnotesize
-millimeters
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="left" valignment="top" rightline="true" usebox="none">
+<cell alignment="right" valignment="top" rightline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -2381,7 +2107,7 @@ Lapinjarvi
 
 \end_inset
 </cell>
-<cell alignment="left" valignment="top" usebox="none">
+<cell alignment="right" valignment="top" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -2390,7 +2116,7 @@ Lapinjarvi
 
 \end_inset
 </cell>
-<cell alignment="left" valignment="top" usebox="none">
+<cell alignment="right" valignment="top" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -2399,7 +2125,7 @@ Lapinjarvi
 
 \end_inset
 </cell>
-<cell alignment="left" valignment="top" usebox="none">
+<cell alignment="right" valignment="top" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -2408,7 +2134,7 @@ Lapinjarvi
 
 \end_inset
 </cell>
-<cell alignment="left" valignment="top" usebox="none">
+<cell alignment="right" valignment="top" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -2419,7 +2145,7 @@ Lapinjarvi
 </cell>
 </row>
 <row>
-<cell alignment="left" valignment="top" usebox="none">
+<cell alignment="right" valignment="top" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -2431,7 +2157,7 @@ Infected
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" usebox="none">
+<cell alignment="right" valignment="top" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -2446,7 +2172,7 @@ Infected
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" usebox="none">
+<cell alignment="right" valignment="top" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -2461,7 +2187,7 @@ Infected
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" usebox="none">
+<cell alignment="right" valignment="top" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -2476,7 +2202,7 @@ Infected
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" usebox="none">
+<cell alignment="right" valignment="top" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -2493,7 +2219,7 @@ Infected
 </cell>
 </row>
 <row>
-<cell alignment="center" valignment="top" usebox="none">
+<cell alignment="right" valignment="top" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -2505,7 +2231,7 @@ Control
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" usebox="none">
+<cell alignment="right" valignment="top" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -2520,7 +2246,7 @@ Control
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" usebox="none">
+<cell alignment="right" valignment="top" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -2535,7 +2261,7 @@ Control
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" usebox="none">
+<cell alignment="right" valignment="top" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -2550,7 +2276,7 @@ Control
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" usebox="none">
+<cell alignment="right" valignment="top" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -2567,7 +2293,7 @@ Control
 </cell>
 </row>
 <row>
-<cell alignment="center" valignment="top" usebox="none">
+<cell alignment="right" valignment="top" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -2578,7 +2304,7 @@ Rovaniemi
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" usebox="none">
+<cell alignment="right" valignment="top" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -2587,7 +2313,7 @@ Rovaniemi
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" usebox="none">
+<cell alignment="right" valignment="top" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -2596,7 +2322,7 @@ Rovaniemi
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" usebox="none">
+<cell alignment="right" valignment="top" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -2605,7 +2331,7 @@ Rovaniemi
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" usebox="none">
+<cell alignment="right" valignment="top" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -2616,7 +2342,7 @@ Rovaniemi
 </cell>
 </row>
 <row>
-<cell alignment="left" valignment="top" usebox="none">
+<cell alignment="right" valignment="top" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -2628,7 +2354,7 @@ Infected
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" usebox="none">
+<cell alignment="right" valignment="top" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -2643,7 +2369,7 @@ Infected
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" usebox="none">
+<cell alignment="right" valignment="top" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -2658,7 +2384,7 @@ Infected
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" usebox="none">
+<cell alignment="right" valignment="top" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -2673,7 +2399,7 @@ Infected
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" usebox="none">
+<cell alignment="right" valignment="top" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -2690,7 +2416,7 @@ Infected
 </cell>
 </row>
 <row>
-<cell alignment="left" valignment="top" bottomline="true" rightline="true" usebox="none">
+<cell alignment="right" valignment="top" bottomline="true" rightline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -2702,7 +2428,7 @@ Control
 
 \end_inset
 </cell>
-<cell alignment="left" valignment="top" bottomline="true" usebox="none">
+<cell alignment="right" valignment="top" bottomline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -2717,7 +2443,7 @@ Control
 
 \end_inset
 </cell>
-<cell alignment="left" valignment="top" bottomline="true" usebox="none">
+<cell alignment="right" valignment="top" bottomline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -2732,7 +2458,7 @@ Control
 
 \end_inset
 </cell>
-<cell alignment="left" valignment="top" bottomline="true" usebox="none">
+<cell alignment="right" valignment="top" bottomline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -2747,7 +2473,7 @@ Control
 
 \end_inset
 </cell>
-<cell alignment="left" valignment="top" bottomline="true" usebox="none">
+<cell alignment="right" valignment="top" bottomline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -2770,14 +2496,6 @@ Control
 
 \end_layout
 
-\begin_layout Plain Layout
-\noindent
-
-\size scriptsize
-\emph on
-*T=Infected Trees, C=Wounding Control Trees
-\end_layout
-
 \end_inset
 
 
@@ -2786,15 +2504,15 @@ Control
 \begin_layout Standard
 The response variable utilized for analysis was normally distributed after
  a log transform (see fig.
- X).
- Mean lesion size of the geometric response variable is presented in table
- X.x.
+ X in the appendix).
+ Mean lesion size of the geometric response variable by treatment and site
+ is presented in table X.x.
  
 \end_layout
 
 \begin_layout Standard
 \begin_inset Tabular
-<lyxtabular version="3" rows="6" columns="2">
+<lyxtabular version="3" rows="8" columns="2">
 <features rotate="0" booktabs="true" tabularvalignment="middle">
 <column alignment="center" valignment="top" width="0pt">
 <column alignment="center" valignment="top">
@@ -2838,7 +2556,7 @@ Site
 \begin_layout Plain Layout
 
 \series bold
-Mean Lesions 
+Mean 
 \begin_inset Formula $\pm SD$
 \end_inset
 
@@ -2854,9 +2572,31 @@ Mean Lesions
 
 \begin_layout Plain Layout
 
-\size small
 \emph on
-Lapinjarvi-T
+Lapinjarvi
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size footnotesize
+\emph on
+Infected
 \end_layout
 
 \end_inset
@@ -2883,9 +2623,37 @@ Lapinjarvi-T
 
 \begin_layout Plain Layout
 
-\size small
+\size footnotesize
 \emph on
-Rovaniemi- T
+Control
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape italic
+\size footnotesize
+\begin_inset Formula $5.42\pm0.65$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+Rovaniemi
 \end_layout
 
 \end_inset
@@ -2912,9 +2680,9 @@ Rovaniemi- T
 
 \begin_layout Plain Layout
 
-\size small
+\size footnotesize
 \emph on
-Lapinjarvi- C
+Infected
 \end_layout
 
 \end_inset
@@ -2926,7 +2694,7 @@ Lapinjarvi- C
 
 \shape italic
 \size footnotesize
-\begin_inset Formula $5.42\pm0.65$
+\begin_inset Formula $6.44\pm0.67$
 \end_inset
 
 
@@ -2941,9 +2709,9 @@ Lapinjarvi- C
 
 \begin_layout Plain Layout
 
-\size small
+\size footnotesize
 \emph on
-Rovaniemi-C
+Control
 \end_layout
 
 \end_inset
@@ -2985,7 +2753,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename C:/Users/user/Documents/Courses/Thesis/Figures for thesis/BoxplotGeomRespSeperate.eps
-	scale 80
+	scale 75
 
 \end_inset
 
@@ -3020,7 +2788,11 @@ Boxplot of the geometric response as measured in both sites.
 \end_layout
 
 \begin_layout Subsection
-Heiarchical Mixed Effect Modeling of Lesions-Primary Model
+Linear Mixed Model for Lesion Geometric Response
+\end_layout
+
+\begin_layout Subsubsection
+Model Structure
 \end_layout
 
 \begin_layout Standard
@@ -3031,13 +2803,118 @@ The response variable for the model is the
  transformed product of the total length of the lesion and total width of
  the lesion (see equation X above).
  Main (fixed) effects for the model structure are the effect of treatment
- (control or infected), site (rovaniemi or lapinjarvi), organ (stem or root)
+ (control or infected), site (rovaniemi or lapinjarvi), organ (stem or root),
  and tissue (phloem or xylem).
- Additionally, all two way interactions between main effects were included
- as well.
+ Additionally, all two way interactions between main effects were included.
  Random effects included in the model were accounted for in three separate
  grouping variables; tree level groupings, organ within tree level groupings,
  and sample within organ within tree level groupings.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Fixed Effects
+\end_layout
+
+\begin_layout Standard
+Summary of the parameter estimates, confidence intervals for parameter estimates
+ (95%), standard error of the samples parameter estimates, and 
+\emph on
+P
+\emph default
+-values for the parameter estimates are given in Table X.x.
+ 
+\end_layout
+
+\begin_layout Standard
+The intercept for lesion sizes irrespective of treatments, organs, tissues,
+ etc., for all trees from the log transformed response variable is the largest
+ contribution of the fixed effect on lesion size, and is statistically significa
+nt (
+\emph on
+F
+\emph default
+=23113.25, 
+\emph on
+P
+\emph default
+=<0.0001).
+ Mean lesions sizes as characterized by the geometric response did not vary
+ significantly between the two field sites (
+\emph on
+F
+\emph default
+=0.14, 
+\emph on
+P
+\emph default
+=0.71), nor did the mean lesion geometric response vary between root and
+ stem organs (
+\emph on
+F
+\emph default
+=0.47, 
+\emph on
+P
+\emph default
+=0.49).
+ However, geometric lesion response did vary between xylem and phloem tissues
+ (
+\emph on
+F
+\emph default
+=353.35, 
+\emph on
+P
+\emph default
+=<0.0001), with xylem tissues having less total necrosis than phloem tissues.
+ No difference in geometric lesion response occurred in the interaction
+ between treatment and site.
+ However, the interaction between treatment and organ varied significantly
+ (
+\emph on
+F
+\emph default
+=12.95, 
+\emph on
+P
+\emph default
+=0.0007), but an interaction between treatment and tissue did not (
+\emph on
+F
+\emph default
+=0.61,
+\emph on
+ P
+\emph default
+=0.47).
+ The interaction between site and organ varied marginally according to site
+ (
+\emph on
+F
+\emph default
+=5.99, 
+\emph on
+P
+\emph default
+=0.02), but the response of tissues between sites varied significantly (
+\emph on
+F
+\emph default
+=33.52, 
+\emph on
+P
+\emph default
+=<0.0001).
+ Lastly, the interaction between organs and tissues was significant 
+\emph on
+(F
+\emph default
+=6.96, 
+\emph on
+P
+\emph default
+=0.009).
  
 \end_layout
 
@@ -3057,28 +2934,7 @@ begin{landscape}
 
 \end_layout
 
-\begin_layout Subsubsection
-Fixed Effects
-\end_layout
-
 \begin_layout Standard
-Summary of the parameter estimates, confidence intervals for parameter estimates
- (95%), standard error of the samples parameter estimates, and t-values
- for the parameter estimates are given in Table X.x.
- The intercept for lesion sizes irrespective of treatments, organs, tissues,
- etc., for all trees from the log transformed response variable is the largest
- contribution of the fixed effect on lesion size.
- Fixed effects with large influences over lesion size ( 
-\begin_inset Formula $\geq\pm$
-\end_inset
-
-0.4 estimated effect on the geometric response, 
-\begin_inset Formula $y$
-\end_inset
-
-) are the effect of treatment (=wounding), tissue (=xylem), and the interaction
- between treatment (=wounding) and organ (=stem).
- 
 \begin_inset Float table
 placement H
 wide false
@@ -3091,13 +2947,14 @@ Parameter estimates for fixed effects in lesion response model
 
 \begin_layout Plain Layout
 \begin_inset Tabular
-<lyxtabular version="3" rows="12" columns="6">
+<lyxtabular version="3" rows="12" columns="7">
 <features rotate="0" tabularvalignment="middle">
 <column alignment="left" valignment="top">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
+<column alignment="center" valignment="top" width="0pt">
 <column alignment="center" valignment="top" width="0pt">
 <row>
 <cell alignment="left" valignment="top" topline="true" bottomline="true" usebox="none">
@@ -3176,7 +3033,19 @@ Standard Error
 
 \series bold
 \emph on
-t-value**
+F
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+\emph on
+P-value**
 \end_layout
 
 \end_inset
@@ -3228,7 +3097,7 @@ Intercept
 \begin_inset Text
 
 \begin_layout Plain Layout
-0.09637
+0.096
 \end_layout
 
 \end_inset
@@ -3237,7 +3106,16 @@ Intercept
 \begin_inset Text
 
 \begin_layout Plain Layout
-69.10
+23113.25
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+<0.0001
 \end_layout
 
 \end_inset
@@ -3289,7 +3167,7 @@ Treatment-Wounding
 \begin_inset Text
 
 \begin_layout Plain Layout
-0.12770
+0.127
 \end_layout
 
 \end_inset
@@ -3298,7 +3176,16 @@ Treatment-Wounding
 \begin_inset Text
 
 \begin_layout Plain Layout
--6.18
+161.44
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+<0.0001
 \end_layout
 
 \end_inset
@@ -3350,7 +3237,7 @@ Site-Rovaniemi
 \begin_inset Text
 
 \begin_layout Plain Layout
-0.12770
+0.127
 \end_layout
 
 \end_inset
@@ -3359,7 +3246,16 @@ Site-Rovaniemi
 \begin_inset Text
 
 \begin_layout Plain Layout
--2.12
+0.14
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0.71
 \end_layout
 
 \end_inset
@@ -3411,7 +3307,7 @@ Organ-Stem
 \begin_inset Text
 
 \begin_layout Plain Layout
-0.10622
+0.106
 \end_layout
 
 \end_inset
@@ -3420,7 +3316,16 @@ Organ-Stem
 \begin_inset Text
 
 \begin_layout Plain Layout
-0.80
+0.47
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0.49
 \end_layout
 
 \end_inset
@@ -3472,7 +3377,7 @@ Tissue-Xylem
 \begin_inset Text
 
 \begin_layout Plain Layout
-0.04307
+0.043
 \end_layout
 
 \end_inset
@@ -3481,7 +3386,16 @@ Tissue-Xylem
 \begin_inset Text
 
 \begin_layout Plain Layout
--10.58
+353.35
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+<0.0001
 \end_layout
 
 \end_inset
@@ -3497,7 +3411,7 @@ Tissue-Xylem
 \size small
 \emph on
 \color black
-Treatment:Wouding*Site:Rovaniemi
+Treatment:Wounding*Site:Rovaniemi
 \end_layout
 
 \end_inset
@@ -3533,7 +3447,7 @@ Treatment:Wouding*Site:Rovaniemi
 \begin_inset Text
 
 \begin_layout Plain Layout
-0.15645
+0.156
 \end_layout
 
 \end_inset
@@ -3542,7 +3456,16 @@ Treatment:Wouding*Site:Rovaniemi
 \begin_inset Text
 
 \begin_layout Plain Layout
-0.36
+0.12
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+.72
 \end_layout
 
 \end_inset
@@ -3594,7 +3517,7 @@ Treatment:Wounding*Organ:Stem
 \begin_inset Text
 
 \begin_layout Plain Layout
-0.12010
+0.120
 \end_layout
 
 \end_inset
@@ -3603,7 +3526,16 @@ Treatment:Wounding*Organ:Stem
 \begin_inset Text
 
 \begin_layout Plain Layout
--3.60
+12.95
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0.0007
 \end_layout
 
 \end_inset
@@ -3655,7 +3587,7 @@ Treatment:Wounding*Tissue:Xylem
 \begin_inset Text
 
 \begin_layout Plain Layout
-0.04307
+0.043
 \end_layout
 
 \end_inset
@@ -3664,7 +3596,16 @@ Treatment:Wounding*Tissue:Xylem
 \begin_inset Text
 
 \begin_layout Plain Layout
--0.78
+0.61
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0.47
 \end_layout
 
 \end_inset
@@ -3716,7 +3657,7 @@ Site:Rovaniemi*Organ:Stem
 \begin_inset Text
 
 \begin_layout Plain Layout
-0.12010
+0.120
 \end_layout
 
 \end_inset
@@ -3725,7 +3666,16 @@ Site:Rovaniemi*Organ:Stem
 \begin_inset Text
 
 \begin_layout Plain Layout
-2.45
+5.99
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0.02
 \end_layout
 
 \end_inset
@@ -3777,7 +3727,7 @@ Site:Rovaniemi*Tissue:Xylem
 \begin_inset Text
 
 \begin_layout Plain Layout
-0.04307
+0.043
 \end_layout
 
 \end_inset
@@ -3786,7 +3736,16 @@ Site:Rovaniemi*Tissue:Xylem
 \begin_inset Text
 
 \begin_layout Plain Layout
-5.79
+33.52
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+<0.0001
 \end_layout
 
 \end_inset
@@ -3838,7 +3797,7 @@ Organ:Stem*Tissue:Xylem
 \begin_inset Text
 
 \begin_layout Plain Layout
-0.04307
+0.043
 \end_layout
 
 \end_inset
@@ -3847,7 +3806,16 @@ Organ:Stem*Tissue:Xylem
 \begin_inset Text
 
 \begin_layout Plain Layout
--2.64
+6.96
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0.009
 \end_layout
 
 \end_inset
@@ -3864,7 +3832,8 @@ Organ:Stem*Tissue:Xylem
 
 \emph on
 *C.I.
- = Confidence intervals for the 95% significance level.
+ = 95% bootstrapped confidence intervals represented at the 2.5% and 97.5%
+ intervals.
  Calculated utilizing the 
 \begin_inset Quotes eld
 \end_inset
@@ -3883,8 +3852,8 @@ confint
 \begin_layout Plain Layout
 
 \emph on
-** t-value = Parameter estimate divided by the standard error.
- 
+** P-value is the adjusted p-value calculated according to the Kenword-Roger
+ approximation to account for multiple comparisons
 \end_layout
 
 \end_inset
@@ -3914,7 +3883,13 @@ Random Effects
 
 \begin_layout Standard
 The random effects of the groups and nestings are summarized in Table X.x
- below
+ below.
+ The standard deviation for nested groups increases with levels of the nesting
+ going from individual trees to samples nested in organs nested in trees.
+ Residual standard deviation is higher than the standard deviation of the
+ first and second level groupings of random effects of tree, and organ within
+ tree.
+ 
 \end_layout
 
 \begin_layout Standard
@@ -4147,6 +4122,55 @@ Residual
 
 \end_layout
 
+\begin_layout Standard
+Plots of the group specific random effects are shown in Figure X.x.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename C:/Users/user/Documents/Courses/Thesis/Figures for thesis/ranefplots.pdf
+	width 100col%
+	height 40pheight%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+
+\emph on
+Ordered dotplots of the random effects estimated for each group within the
+ three grouping levels.
+ Group labels are not present for the first two grouping dotplots as there
+ are 360 and 120 distinct group random effects estimated for these, respectively
+).
+ The highest level of grouping (Tree) has individual labels represented
+ on the y-axis, and the most and least susceptible trees are easily determined.
+ 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Subsection
 Model Validation and Diagnostics
 \end_layout
@@ -4172,7 +4196,8 @@ The liklihood of the parameter estimates are presented in figure X.x.
  Et.
  Al).
  Reviewing the ranges and densities of the profile plots gives an indication
- of the certainty of the original estimate, as well as the variability.
+ of the liklihood of the parameter estimate being equal to a given value
+ given the observed data, as well as the variability.
  Parameter profiles are normally distributed, with some kurtosis evident
  in the random effects standard deviation estimates for residual variance,
  tree, organ within tree, and sample within organ within tree groupings
@@ -4181,22 +4206,55 @@ The liklihood of the parameter estimates are presented in figure X.x.
 \end_inset
 
  in Figure X.x respectively).
- Other profiles of parameter likelihood show little to no kurtosis.
+ Other profiles of parameter likelihood (i.e, those representing fixed effects)
+ show little to no kurtosis.
  The range of the profiled parameters strongly coincide with the 95% confidence
- intervals presented in Table X.x, with maximal densities for each given
- likelihood profile close in value to the original parameter estimates.
+ intervals presented in Table X.x, and maximal densities are at the original
+ parameter estimates.
  
 \end_layout
 
 \begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename C:/Users/user/Documents/Courses/Thesis/Figures for thesis/ModelFitPlot.pdf
+	lyxscale 45
+	scale 45
+	clip
+
+\end_inset
+
+
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Plot of fitted versus observed values of the geometric response variable
+ from the mixed effects model
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
 Model fit was examined by plotting the observed values for the geometric
  response against the fitted values from the model (figure X.x).
  Marginal 
 \begin_inset Formula $R^{2}$
 \end_inset
 
-(variance of fixed effects only) is 0.496, or 49.6% of total variance.
- Conditional 
+ is 0.496, or 49.6% of total variance.
+\end_layout
+
+\begin_layout Standard
+Conditional 
 \family roman
 \series medium
 \shape up
@@ -4212,8 +4270,187 @@ Model fit was examined by plotting the observed values for the geometric
 \begin_inset Formula $R^{2}$
 \end_inset
 
- (variance of fixed effects and random effects) is 0.866, or 86.6% of total
- variance.
+ is 0.866, or 86.6% of total variance.
+ Thus, we can see that inclusion of the random effects in the model accounts
+ for 0.370, or 37.0% of variance in the data.
+ 
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+The r^2 measure commonly utilized for linear regressions is not directly
+ applicable to mixed effects models.
+ However, 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Nakagawa2013"
+
+\end_inset
+
+ suggested a new method of calculating 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+
+\begin_inset Formula $R^{2}$
+\end_inset
+
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ for mixed effects models which separates the influences of the fixed effects
+ and random effects into two measures; marginal 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+
+\begin_inset Formula $R_{lmm(M)}^{2}$
+\end_inset
+
+ 
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+and conditional 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+
+\begin_inset Formula $R_{lmm(C)}^{2}$
+\end_inset
+
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+.
+ Marginal 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+
+\begin_inset Formula $R_{lmm(M)}^{2}$
+\end_inset
+
+ 
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+represents the variance attributed to the fixed effects only.
+ Conditional 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+
+\begin_inset Formula $R_{lmm(C)}^{2}$
+\end_inset
+
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+.
+ includes both the influence from the fixed effects as well as the random
+ effects in the given model.
+ 
+\end_layout
+
+\end_inset
+
+.
 
 \family default
 \series default
@@ -4230,13 +4467,415 @@ Model fit was examined by plotting the observed values for the geometric
 \end_layout
 
 \begin_layout Standard
-\begin_inset Graphics
-	filename C:/Users/user/Documents/ModelFitPlot.pdf
-	scale 50
+Overall model fit is subjectively good, with 86.6% of total variance explained.
+ The total proportion of variance explained by the fixed effects accounts
+ for a greater proportion of the total variance explained by the model than
+ does the random effects (49.6% versus 37%).
+ However, random effects for the model still account for a large portion
+ of the variance explained in the model, indicating that their inclusion
+ is informative in the context of modeling lesion responses in 
+\emph on
+Picea abies
+\emph default
+.
+ 
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Discussion
+\end_layout
+
+\begin_layout Standard
+The effect of site studied in this model was not a significant influence
+ upon lesion size, and in this regard, the study concludes that differences
+ in lesion sizes are not likely to be due to influences of latitude.
+ However, readers would do well to note that many aspects of this study
+ are subject to analysis only in the context of the collected data and experimen
+t performed, and thus broad based inferences upon the effects of latitude
+ as a potential factor for differences in lesion response in 
+\emph on
+Picea abies
+\emph default
+ to 
+\emph on
+Heterobasidion parviporum
+\emph default
+ should not be drawn from this study alone.
+ These results partially coincide with work carried out by 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Witzell2011"
+
+\end_inset
+
+ .
+ However, their study explored the ability of 
+\emph on
+H.
+ annosum
+\emph default
+ to colonize in different geographical locations versus 
+\emph on
+H.
+ parviporum
+\emph default
+, but did not look at regions where the fungus was not known to be present
+ prior to the study.
+ Nevertheless, they loosely concluded that difference in geographic origin
+ might not affect overall spruce resistance.
+ A study by 
+\emph on
+
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Kerio2014"
 
 \end_inset
 
 
+\emph default
+ similarly concluded that differences between sites in overall resistance
+ of 
+\emph on
+Picea abies
+\emph default
+ to Heterobasidion parviporum is negligible, although their specific research
+ looked at differences between different soil types and did not investigate
+ the effect of latitude.
+ 
+\end_layout
+
+\begin_layout Standard
+The study found no evidence for the effect of organ on the response in lesion
+ size.
+ However, other studies, including 
+\emph on
+
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Kerio2014"
+
+\end_inset
+
+,
+\emph default
+ have concluded that a difference in the response of 
+\emph on
+Picea abies 
+\emph default
+between roots and stems exists.
+ Reasons for a lack of this finding in the study could be attributed to
+ many possible factors, including soil type, temperature and climate, time
+ between inoculation to harvest, relative ability of the fungal strain to
+ overcome host responses, etc.
+ However, as the natural pathway for infection of Heterobasidion is through
+ the roots, it is somewhat surprising that a difference is not present.
+ One possible explanation for this observation is due to the sizes of roots
+ inoculated.
+ In rovaniemi, the sizes of roots utilized for the inoculations was significantl
+y smaller than the average (no measurements taken, however, as a whole,
+ it was visually evident that these roots as a whole were significantly
+ smaller on average than those in the lapinjarvi field site); a study by
+ 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Garbelotto1997"
+
+\end_inset
+
+ found a positive correlation between root diameter and fungal growth.
+ It is worth noting that most studies where artificial inoculations have
+ been performed on 
+\emph on
+Picea abies 
+\emph default
+with 
+\emph on
+Heterobasidion spp.
+ 
+\emph default
+focused solely on stem inoculations.
+ Because of this, it can be difficult to judge whether or not a difference
+ is generally assumed to exist between the response between the two organs
+ based on the results of a few studies that have explored root inoculations.
+ Further complications occur due to the highly variable root structure and
+ sizes utilized for inoculation points in this and other studies, as well
+ as the lack of control for genotype present in this study.
+ 
+\end_layout
+
+\begin_layout Standard
+The difference in lesion response in tissues was significant in this study.
+ In the study conduced by 
+\emph on
+
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Kerio2014"
+
+\end_inset
+
+, 
+\emph default
+no difference was noted between tissues.
+ Other studies reviewed have primarily focused on one tissue, or have not
+ examined the possibility of a difference in response between tissues (CITE
+ STUDIES HERE).
+ However, different anatomical features are present in the different tissues,
+ which may influence the ability of 
+\emph on
+Heterobasidion spp.
+ 
+\emph default
+to grow in the separate tissues 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Krekling2004"
+
+\end_inset
+
+.
+ For example, the sapwood tissues in Norway spruce which are more resistant
+ to fungal infection have larger polyphenolic paranchyma cells, which can
+ contribute to differences in resistance levels of the phloem in individual
+ trees depending on the resistance of a given phenotype 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Nagy2004"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Several of the interactions in this study were found to be significant influence
+s upon the response of 
+\emph on
+Picea abies.
+ 
+\emph default
+The interaction between treatment and organ was significant, with stems
+ being less susceptible to wounding than roots.
+ This is in contrast to other studies which have examined the response of
+ organs to inoculation, which have found significant differences in the
+ treatment by organ.
+ Furthermore, the interaction between site and organ was found to be marginally
+ significant.
+ This could be due to a number of factors.
+ Norway spruce has high genetic plasticity, which could potentially account
+ for differences in the response of the organs at various sites.
+ However, the design of the study did not control for genotype of phenotype
+ diversity, so there is no way to account for this variance within the model.
+ Other possible reasons why a different response by organ was different
+ by site could be due to differences in the overall size of the trees
+\end_layout
+
+\begin_layout Subsection
+Experimental design limitations
+\end_layout
+
+\begin_layout Standard
+This study is not without limitations.
+ This section will address the limitations in the study as well as the ways
+ to improve in future studies.
+ 
+\end_layout
+
+\begin_layout Standard
+First, the largest limitation in the study is the lack of clonal material.
+ Although the results of the study may be sufficient for drawing broad-based
+ conclusions about aspects of the defense response of Norway spruce to infection
+s with 
+\emph on
+Heterobasidion parviporum
+\emph default
+, it is not possible to conclude what aspects of an individual in the study
+ contributed to more or less susceptibility.
+ Clonal material would have allowed a better assessment of the influence
+ and variability of individual tree's phenotypes.
+ For example, if a tree on whole shows a strong resistance or susceptibility
+ to the infections, we cannot infer if this is the result of the trees phenotype
+, or whether it would expected to see this variation naturally in a sufficiently
+ large sample of clones.
+ This lack of clonal material is a principal reason why trees in this study
+ are treated as random effects as opposed to fixed effects; in a study which
+ controlled for tree genotype with sufficient numbers of ramets per clones
+ it would be possible to draw stronger conclusions about the resistance
+ of individual Norway spruce to 
+\emph on
+Heterobasidion 
+\emph default
+species.
+\end_layout
+
+\begin_layout Standard
+The lack of control over genetics makes it difficult to know what to do
+ with outliers present in the data; for this reason, several outliers in
+ the traditional sense were kept in the analysis.
+ Trees RT2 and LT8 showed extreme resistance and susceptibility to treatment,
+ respectively.
+ Tree LW8 was naturally infected with 
+\emph on
+Heterobasidion annosum 
+\emph default
+prior to the experiment, but it was only noted when the tree was cut down
+ for processing - another caveat of not having control over environmental
+ factors or clonal material with which to work with.
+ If we had clonal material and sufficient replicates, it would be possible
+ to determine if the tree was really susceptible or if this was an unnatural
+ response to the treatment.
+ Tree RT2 was abnormally resistant to infection, but again it is not possible
+ to deduce the reasons as to why
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+pcr for heterobasidion in these samples to see if we can reisolate
+\end_layout
+
+\end_inset
+
+.
+ Because it is not possible to deduce the causes for responses of trees
+ such as RT2 and LW8 which display extreme responses with this studies experimen
+tal design, it may not be appropriate to remove the suspected outlier from
+ the analysis; for this reason, these trees and all samples from them were
+ kept in the analysis.
+ However, as it is suspected that these two are outliers, it is possible
+ to determine if their inclusion in the current model has any significant
+ effects on the estimates of the parameters
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+USE bootstrap to test this, place in appendix with supplemental results
+\end_layout
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Standard
+Essentially, the effects of latitude could not accurately be determined
+ based on the experimental design.
+ Too many confounding factors could account for any potential observed differenc
+es, even though the study found no difference between site.
+ Additionally, only one site in each geographical region was utilized for
+ the study; to effectively determine the effects of a site factor, more
+ than on replicate for each area is necessary.
+ Furthermore, a lack of control of external factors such as different flora
+ and fauna at the sites could have implications in the estimation of site
+ based effects.
+ Simply put, it is difficult to draw inferences about the effects of site
+ on resistance of Norway spruce to 
+\emph on
+Heterobasidion annosum 
+\emph default
+when the experimental setup does not allow for control of external factors.
+ This is one major complication with carrying out field based experiments
+ as opposed to those which take place in highly controlled laboratory and
+ greenhouse settings.
+ However, if we are interested in drawing ecological conclusions regarding
+ the interactions between Norway spruce and 
+\emph on
+Heterobasidion spp., 
+\emph default
+it may be useful to carry out field experiments.
+ Any resulting residual variances could then be attributed to uncontrollable
+ environmental factors, but would require that the experimental design properly
+ controlled for both the host genotype and site factors.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Discuss using the geometric area as response variable.
+ Discuss alternative ways to analyze the lesions, i.e., MANOVA.
+ 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Potential issues in the Analysis
+\end_layout
+
+\begin_layout Standard
+Data analysis, in many instances, becomes a subjective task as opposed to
+ a purely objective one.
+ In this study, the choices taken in regards to the methodology utilized
+ for analyzing and presenting data were based on balancing several conflicting
+ goals.
+ Parsimony, or the practical implementation of the principal of Occam's
+ razor is something to strive for in any analysis.
+ However, achieving absolute parsimony without the loss of information can
+ be difficult when there is no standard, or exact way in which to summarize
+ and conceptualize the outcomes.
+ 
+\end_layout
+
+\begin_layout Standard
+In this study, the response of interest is the lesion size as in indication
+ of resistance / susceptibility for a given sample, with inferences then
+ drawn for the tissues, organs, and individual tree.
+ In reality, the lesion presents as a three dimensional reaction to the
+ inoculation.
+ However, to analyze the lesions, a simplified view of the lesions was utilized,
+ conceptualizing the lesions as a rectangular area based on maximal width
+ and length measurements from the point of inoculation.
+ In reality, lesions present in many ways and no single geometric shape
+ is consistent across lesions.
+ In hindsight, there are better, albeit much more time consuming ways, to
+ measure the lesions.
+ With proper photographic equipment and software, it would be possible to
+ measure accurately the entire area of the lesion without needing to resort
+ to constricting the conceptualization of the lesion to a single shape.
+ This would increase the accuracy of the parameter estimates, as well as
+ better characterize the actual lesions.
+ This technique has been applied in other studies with agricultural plants,
+ but to the best of the author's knowledge, has not been implemented in
+ studies examining lesions created from 
+\emph on
+Heterobasidion spp.
+
+\emph default
+ 
+\end_layout
+
+\begin_layout Standard
+Outliers are of special concern, as their presence in data can modify parameter
+ estimates.
+ In this study, outliers were still included in the analysis, for reasons
+ mentioned previously.
+ Nevertheless, to ignore the possibility of the influence of several observation
+s which might be traditionally be considered outliers would be remiss.
+ A discussion of potential outliers as well as the effects they have on
+ the outcome of the model is given in the appendix.
+\end_layout
+
+\begin_layout Subsection
+Uncertainty in Results
+\end_layout
+
+\begin_layout Standard
+Although the analysis is relatively rigorous, and does an acceptable job
+ characterizing the lesions as well as variance in the study which are under
+ controllable factors (i.e., treatment, organ, tissue, site to some extent),
+ the mixed effects approach does little to interpret the potential resistance
+ or susceptibility of the trees on a molecular 
 \end_layout
 
 \begin_layout Standard
@@ -4251,6 +4890,70 @@ Model fit was examined by plotting the observed values for the geometric
 LatexCommand bibtex
 bibfiles "C:/Users/user/Documents/library"
 options "authordate1"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Appendix
+\end_layout
+
+\begin_layout Standard
+Outliers
+\end_layout
+
+\begin_layout Standard
+To determine if any trees had significant influence on the parameter estimates,
+ post hoc investigation of the random effect of tree level groupings was
+ performed.
+ Cook's distance is a measure which is commonly utilized to examine the
+ influence of a unit on all parameters.
+ Using the value of 
+\begin_inset Formula $4/n$
+\end_inset
+
+ , where n is the number of groups (in this case, trees) for a cutoff value
+ of 
+\begin_inset Formula $0.066$
+\end_inset
+
+ for determining overly influential observations only indicates tree RT2
+ as overly influential (see figure X.x) when considering the influence upon
+ all fixed effects.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename C:/Users/user/Documents/Courses/Thesis/Figures for thesis/CooksDist_Tree.pdf
+	scale 65
+
+\end_inset
+
+
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Cook's Distance for all Trees 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
 
 \end_inset
 
