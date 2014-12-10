@@ -6,7 +6,6 @@
 \begin_preamble
  \usepackage{pdflscape}
 \pagenumbering{roman}
-\setcounter{section}{1}
 \end_preamble
 \use_default_options true
 \begin_modules
@@ -78,7 +77,7 @@ enumitem
 \rightmargin 2.5cm
 \bottommargin 2.5cm
 \secnumdepth 3
-\tocdepth 2
+\tocdepth 3
 \paragraph_separation skip
 \defskip bigskip
 \quotes_language english
@@ -107,7 +106,39 @@ Heterobasidion parviporum
 
 \begin_layout Date
 Erik Stewart
+\end_layout
+
+\begin_layout Date
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thispagestyle{empty}
+\end_layout
+
+\end_inset
+
+
 \begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Abstract
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thispagestyle{empty}
+\end_layout
+
 \end_inset
 
 
@@ -120,13 +151,34 @@ Erik Stewart
 
 \end_layout
 
-\begin_layout Quotation
+\begin_layout Abstract
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+pagenumbering{roman} 
+\backslash
+setcounter{page}{1}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Abstract
 \begin_inset CommandInset toc
 LatexCommand tableofcontents
 
 \end_inset
 
 
+\end_layout
+
+\begin_layout Abstract
 \begin_inset Newpage pagebreak
 \end_inset
 
@@ -508,11 +560,11 @@ key "Garbelotto2007"
 \begin_layout Standard
 
 \emph on
-Heterobasidion spp.
+Heterobasidion annosum s.l.
  
 \emph default
-cannot infect healthy, undamaged tree tissues; as such, most infections
- occur in trees which have been wounded on the surface, exposing either
+cannot generally infect healthy, undamaged tree tissues; as such, most infection
+s occur in trees which have been wounded on the surface, exposing either
  heartwood or sapwood tissues beneath the bark of the tree.
  In areas where conifers are intensively harvested and managed, mechanical
  damages due to forestry related activities provide new surfaces for inoculation
@@ -521,20 +573,26 @@ s, and exacerbate the problem of
 Heterobasidion spp.
  
 \emph default
-infections, leading to high rates of infection and heavy losses (INSERT
- SOURCE).
+infections, leading to high rates of infection and heavy losses.
  Furthermore, the primary way in which new infections are established in
  areas where commercial harvesting of forest trees is done is via basidiospore
- deposition onto freshly cut stump surfaces (Stenlid et al, 1998).
+ deposition onto freshly cut stump surfaces
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Redfern1998"
+
+\end_inset
+
+.
  
 \end_layout
 
 \begin_layout Standard
 
 \emph on
-Heterobasidion annosum 
+Heterobasidion annosum s.l.
+
 \emph default
-s.l.
  spreads via a variety of methods.
  The primary source for new infections caused by 
 \emph on
@@ -550,7 +608,7 @@ key "Redfern1998"
 
 .
  Spore production is highest during warm summer months, but spores cannot
- survive temperatures higher than ~ 15 without suitable host substrate;
+ survive temperatures higher than circa 15º C without suitable host substrate;
  in cases where a spore is on suitable host substrate, temperatures above
  35º C inversely correlate with spore survival; temperatures above 45º C
  kill off spores in less than 1 hour on suitable stumps 
@@ -586,13 +644,16 @@ Heterobasidion spp.
 \emph default
 and serve as the primary source of new infections on stumps of recently
  felled trees.
- In addition to infection vis basidiospores, conidiospores, an asexual spore
- produced by 
+ In addition to infection from basidiospores, conidiospores, an asexual
+ spore produced by 
 \emph on
 Heterobasidion annosum s.l.
  
 \emph default
-can also start new infections, but are not the primary source of new infections.
+can also start new infections, but are not the primary source of new infections
+ .
+ Whereas basidiospores are easily dispersed by wind, conidiospores require
+ mechanical deposition to detach from the host fungal mycelium.
  Other methods by which 
 \emph on
 Heterobasidion annosum s.l.
@@ -612,8 +673,14 @@ Heterobasidion spp.
 Heterobasidion spp.
  
 \emph default
-spores, infections can still occur in the immature, unsuberized roots of
- host trees.
+spores, infections can still occur in the immature roots of host trees 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Asiegbu1995,Johansson1985a"
+
+\end_inset
+
+.
  
 \emph on
 Heterobasidion spp.
@@ -640,6 +707,15 @@ key "Garbelotto2013,Asiegbu2005,Woodward1998"
 \end_inset
 
 .
+ A study conducted by 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Asiegbu2000"
+
+\end_inset
+
+ indicated that spores and germination is more successful on smaller, younger
+ roots of host conifers.
  
 \end_layout
 
@@ -647,33 +723,160 @@ key "Garbelotto2013,Asiegbu2005,Woodward1998"
 The actual infection process begins when a spore or mycelia reach a suitable
  host substrate.
  Adhesion of spores requires suitable substrate, generally a fresh wound
- without bark tissues present.
- READ THE FUCKING BOOK CHAPTER AND TALK ABOUT THIS
-\end_layout
-
-\begin_layout Standard
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-ROLE OF TEMPERATURE AND LATITUDE IN DISTRIBUTION AND SPREAD OF HETEROBASIDION
- ANNOSUM
-\end_layout
+ exposing living tissues in spruce tree, or a stump through which subsequent
+ spread to adjacent trees can occur.
+ Germination of spores occurs when spores land onto suitable host tissues,
+ and environmental conditions such as those mentioned above are sufficient
+ for the survival of the spores 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Redfern1998,Redfern1993"
 
 \end_inset
 
+.
+ Upon landing on suitable substrate, fungal mucilaginous sheath and extracellula
+r exudates facilitates the development of fungal structures such as, germ
+ tubes and subsequently appressoria which allow for the penetration into
+ host tissues 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Asiegbu2005,Asiegbu2000,Johansson1985a"
 
+\end_inset
+
+.
+ Following the successful invasion of host tissues, living trees will attempt
+ to fight the infection via the formation of reaction zones, apoptosis,
+ and chemical based defense responses.
+ However, as 
+\emph on
+Heterobasidion annosum s.l.
+ 
+\emph default
+functions as both a saprotroph and necrotroph, these methods are largely
+ ineffective in inhibiting further growth of the pathogen
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Asiegbu2005,Asiegbu1994"
+
+\end_inset
+
+.
+ 
+\emph on
+Heterobasidion annosum
+\emph default
+ 
+\emph on
+s.l.
+ 
+\emph default
+utilizes lignin and cellulose as primary carbon sources for growth and prolifera
+tion.
+ However, 
+\emph on
+Heterobasidion annosum s.l.
+ 
+\emph default
+can also utilize many other sources of carbon 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Korhonen1998"
+
+\end_inset
+
+.
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Subsubsection
+Distribution of 
+\emph on
+Heterobasidion annosum 
+\emph default
+in Europe
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Heterobasidion
+\emph default
+ 
+\emph on
+annosum 
+\emph default
+is widespread throughout most of the northern hemisphere.
+ In Europe, the three intersterile groups of 
+\emph on
+Heterobasidion annosum s.l.
+ 
+\emph default
+dominate in areas where their respective host trees are found.
+ The European P-type intersterility group (
+\emph on
+Heterobasidion annosum s.s.
+\emph default
+) is found throughout most of Europe, with upper limits to its extent in
+ the southern to central areas of Finland, despite the presence of suitable
+ hosts throughout the further northern areas of Europe 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Korhonen1998a"
+
+\end_inset
+
+.
+ The S-type intersterility group (
+\emph on
+Heterobasidion parviporum) 
+\emph default
+is found further north in Europe than that of the P-type, but its southern
+ extent generally restricted by lack of suitable hosts in the most of the
+ more southern parts of Europe 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Korhonen1998a"
+
+\end_inset
+
+.
+ In sharp contrast with the other two intersterility groups, the F-type
+ group (
+\emph on
+Heterobasidion abitenium) 
+\emph default
+is only found in southern and central Europe, with upper limits to it's
+ distribution restricted by suitable host species range 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Korhonen1998a"
+
+\end_inset
+
+.
+ However, understanding of the ecological constraints including temperature
+ regimes which limit the distribution of these pathogens from areas where
+ suitable hosts are found, such as in far northern Europe, is lacking 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Witzell2011,Korhonen1998a"
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Subsubsection
 Control of 
 \emph on
 Heterobasidion annosum
 \end_layout
 
 \begin_layout Standard
-Various biotic and abiotic methods of control are used by foresters to attempt
- to reduce the prevalence and damage done to trees by 
+Various biotic and abiotic methods of control are used to attempt to reduce
+ the prevalence and damage done to trees by 
 \emph on
 Heterobasidion annosum s.l.
  
@@ -681,15 +884,15 @@ Heterobasidion annosum s.l.
 In modern, highly mechanized forest product production, one of the key routes
  for new infections of Heterobasidion is a byproduct of the harvest and
  maintenance of trees; mechanically created wounds on trees provides access
- to readily colonized tissues fo basidiospores, although primary inocolum
- remains stumps leftover from logging operations
+ to suitable host tissues for basidiospores, although most new infections
+ occur on stumps leftover from logging operations
 \begin_inset CommandInset citation
 LatexCommand citep
-key "Makinen2007,Thor2005"
+key "Makinen2007,Thor2005,Woodward1998"
 
 \end_inset
 
- SOURCE BIOLOGY ECOLOGY AND CONTROL HERE AS WELL.
+.
  Primary methods of control of 
 \emph on
 Heterobasidion annosum 
@@ -702,8 +905,8 @@ Heterobasidion annosum.
  
 \emph default
 Thus, the most efficient and widely utilized control methods address the
- issue of colonizable tissue on freshly cut stumps by means of either chemical,
- biotic, or abiotic control.
+ issue of suitable host tissue on freshly cut stumps by means of either
+ chemical, biotic, or abiotic control.
  Chemical control includes treatment of freshly cut stumps with urea, borax,
  or a fungicidal product like propiconizole, which can all be effective
  at reducing the likelihood of subsequent infection from 
@@ -714,17 +917,17 @@ Heterobasidion spp.
 spores 
 \begin_inset CommandInset citation
 LatexCommand citep
-key "Garbelotto2013,Nicolotti1999"
+key "Garbelotto2013,Nicolotti1999,Woodward1998"
 
 \end_inset
 
-SOURCE BIOLOGY ECOLOGY HERE AS WELL.
+.
  Biotic treatments for the control of 
 \emph on
 Heterobasidion spp.
  
 \emph default
-includes the use of 
+includes the application of saprotrophic fungi 
 \emph on
 Phlebiopsis gigantea, 
 \emph default
@@ -736,28 +939,14 @@ Heterobasdion spp.
 
 \begin_inset CommandInset citation
 LatexCommand citep
-key "Garbelotto2013,Nicolotti1999"
+key "Garbelotto2013,Nicolotti1999,Woodward1998"
 
 \end_inset
 
-
-\emph on
-
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-add reference to biology ecology and control here.
-\end_layout
-
-\end_inset
-
-.
-
-\emph default
  Silvicultural practice management includes removal of stumps and associated
  root materials, which provide an unchallenged substrate for infections
- to occur on for a period of time after harvest 
+ to occur on for a period of time after harvest when stump surfaces are
+ susceptible 
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Vasaitis2008"
@@ -765,19 +954,16 @@ key "Vasaitis2008"
 \end_inset
 
 .
- Additional silvicultural practices which can help to minimize risk of infection
- include appropriate use of thinning, harvesting at times when spore loads
- are lower ( 
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-SOURCES; biology ecology and control, what else?
-\end_layout
+ Harvest of stumps and removal of sources of host material suitable for
+ inoculation has proved to be highly effective in reducing the subsequent
+ infections and rot 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Oliva2010"
 
 \end_inset
 
- 
+.
 \end_layout
 
 \begin_layout Subsection
@@ -806,7 +992,7 @@ Conifers have a variety of defense systems for dealing with abiotic and
 \end_layout
 
 \begin_layout Subsubsection
-Constituent and Inducible Defenses in Conifers
+Constituent Defenses in Conifers
 \end_layout
 
 \begin_layout Standard
@@ -925,8 +1111,8 @@ key "Schwarze2001,Shigo1977a,Shigo1984"
 \end_inset
 
  is the strongest wall proposed in the CODIT model, and is created de novo
- (as opposed to chemical strengthening, plugging, etc.
- present in the other three wall types) in response to the
+ (as opposed to chemical strengthening, plugging, etc., present in the other
+ three wall types) in response to the
 \emph on
  
 \emph default
@@ -943,12 +1129,16 @@ key "Schwarze2001,Pearce2000,Pearce1996"
  
 \end_layout
 
+\begin_layout Subsubsection
+Inducible Defenses in Conifers
+\end_layout
+
 \begin_layout Standard
 In addition to the compartmentalization of tissues surrounding a wound or
  pathogen within the sapwood, a reaction zone surrounding initial wound
  is also created, which is characterized by increased levels of lignin in
  surrounding tissues, increased production of phytoalexens, free radical
- production from oxidative bursts, and increases of other chemicals which
+ production from oxidative bursts, and increases in other chemicals which
  have antimicrobial properties 
 \begin_inset CommandInset citation
 LatexCommand citep
@@ -1023,7 +1213,7 @@ key "Lewinsohn1991"
 
 .
  Because oleoresins are produced both in normal growth as well as in response
- to abiotic or biotic stresses, it is appropriate to include oleoresins
+ to abiotic or biotic stresses, it is appropriate to consider oleoresins
  as an induced defense strategy as well as a constitutive one.
 \end_layout
 
@@ -1128,7 +1318,7 @@ A variety of signaling molecules are important in the induced defense in
  based resin defenses
 \begin_inset CommandInset citation
 LatexCommand citep
-key "Martin2002"
+key "Martin2002,Hudgins2004,Hudgins2004a,Hudgins2003"
 
 \end_inset
 
@@ -1137,7 +1327,8 @@ key "Martin2002"
  acquired resistance (SAR), although the exact nature by which salicylic
  acid enables SAR is not fully understood.
  Finally ethylene is an important molecule in the signaling pathways of
- conifer defenses 
+ conifer defenses, which is influenced by the production of Methyl-jasmonate
+ 
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Hudgins2006"
@@ -1145,18 +1336,16 @@ key "Hudgins2006"
 \end_inset
 
 .
- 
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-Signaling molecules in the lesion formation? What do the signaling molecules
- do? 1-2 sentences for each molecule please!
-\end_layout
+ Ethylene assists in defense in the phloem of conifers, and in creating
+ traumatic resin ducts 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Hudgins2004"
 
 \end_inset
 
-
+.
+ 
 \end_layout
 
 \begin_layout Subsection
@@ -1182,8 +1371,8 @@ status open
 In inoculation experiments performed on Norway spruce, age has not greatly
  affected the growth of the fungus 
 \begin_inset CommandInset citation
-LatexCommand citep
-key "Swedjemark2004"
+LatexCommand citet
+key "Swedjemark2004a"
 
 \end_inset
 
@@ -1197,7 +1386,7 @@ key "Swedjemark2004"
 , and overall health 
 \begin_inset CommandInset citation
 LatexCommand citep
-key "Hietala2003,Swedjemark1998"
+key "Hietala2003,Swedjemark1998,Delatour1998"
 
 \end_inset
 
@@ -1224,28 +1413,18 @@ Heterobasidion annosum s.l
 \emph default
 ., as well as characterizing the overall interactions between the host and
  pathogen.
- Resistance factors include biotic factors, including changes to plant physiolog
-y in response to pathogens, abiotic factors, such as temperature, climate,
+ Resistance factors include biotic factors, such as changes to plant physiology
+ in response to pathogens, abiotic factors, such as temperature, climate,
  and nutrient availability, and genetics.
- 
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-Abiotic factors
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-Abiotic factors can influence the ability of either the host of pathogen
+ Abiotic factors can influence the ability of either the host of pathogen
  to properly defend, or infect, respectively.
  Factors such as soil types, availability of nutrients within the soils,
  pH, and moisture levels have been shown to influence the resistance of
- Picea abies to infection of 
+ 
+\emph on
+Picea abies
+\emph default
+ to infection of 
 \emph on
 Heterobasidion annosum 
 \begin_inset CommandInset citation
@@ -1269,9 +1448,22 @@ key "Eyles2010,Yi2009"
  
 \end_layout
 
+\begin_layout Subsubsection
+Molecular Defense of Conifers to 
+\emph on
+Heterobasidion annosum
+\end_layout
+
 \begin_layout Standard
-Upon infection with Heterobasidion annosum, broad changes occur in both
- the host and pathogen.
+Upon infection with 
+\emph on
+Heterobasidion annosum
+\emph default
+ 
+\emph on
+s.l.
+\emph default
+, broad changes occur in both the host and pathogen.
  Specific elicitors detected by a susceptible host can initiate changes
  to the physiology of the host both locally and systemically.
  Changes on the host include increased production of secondary metabolites
@@ -1285,7 +1477,7 @@ key "Swedjemark2007"
 
 \end_inset
 
-found that the priming of resistance by prior inoculation of 
+ found that the priming of resistance by prior inoculation of 
 \emph on
 Heterobasidion parviporum 
 \emph default
@@ -1294,7 +1486,7 @@ in Norway spruce had significant effects on reducing the subsequent necrosis
  Other factors can prime host tree defenses, prompting physiological changes
  which confer enhanced resistance to pathogens.
  Herbivory, volatile organic compounds, and colonization of the host with
- certain types of rhizobacteria or mychorizzial fungi have the potential
+ certain types of rhizobacteria or mychorizzial fungi also have the potential
  to prime defenses in conifers 
 \begin_inset CommandInset citation
 LatexCommand citep
@@ -1304,21 +1496,14 @@ key "Eyles2010"
 
 .
  
-\emph on
-
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-Priming of defenses can initiate change the physiology of 
-\emph on
-P.
- abies 
 \end_layout
 
-\end_inset
-
-
+\begin_layout Subsubsection
+Genetic Influences on Resistance to 
+\emph on
+Heterobasidion annosum 
+\emph default
+in Norway Spruce
 \end_layout
 
 \begin_layout Standard
@@ -1360,9 +1545,9 @@ key "Swedjemark2004a"
 Heterobasidion parviporum.
 \emph default
 .
- An earlier study (1998) by 
+ An earlier study by 
 \begin_inset CommandInset citation
-LatexCommand citeauthor
+LatexCommand citet
 key "Swedjemark1998"
 
 \end_inset
@@ -1372,7 +1557,7 @@ key "Swedjemark1998"
 \emph on
 Heterobasidion parviporum
 \emph default
- at 0.35
+ to be 0.35
 \family roman
 \series medium
 \shape up
@@ -1446,59 +1631,177 @@ Heterobasidion parviporum
  
 \end_layout
 
-\begin_layout Standard
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-Breeding for improvements in resistance
+\begin_layout Subsection
+Lesions as a indication of Resistance 
 \end_layout
+
+\begin_layout Standard
+The use of measuring necrotic lesions in one way or another as a indication
+ of potential resistance to 
+\emph on
+Heterobasidion annosum s.l.
+
+\emph default
+ and growth has been done in many studies 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Delatour1998"
 
 \end_inset
 
-
-\end_layout
-
-\begin_layout Subsection
-Lesions as a indication of Resistance ##NEEDS EXPANSION AND MORE CITATIONS
-\end_layout
-
-\begin_layout Standard
-The use of measuring lesions in one way or another as a indication of potential
- resistance to 
-\emph on
-Heterobasidion spp.
- 
-\emph default
-infections and growth has been done in many studies.
- Furthermore, measurements of lesions in other species/host complexes have
- also been utilized to characterize resistance and susceptibility to pathogens
- in various agricultural crops.
+.
  However, methodologies vary depending on the studies, and thus conclusions
  and results between studies can be difficult to generalize.
  Studies on the lesions in Norway spruce have been performed which have
- similarities to the methodology utilized in this study, but in many instances
+ similarities to the methodology utilized in this thesis, but in many instances
  have one or more differences which would not allow for direct comparison
  between results.
- Differences include ways in which the inoculation is performed (DEEP TISSUE
- vs SUPERFICIAL; 
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-find and indicates studies
-\end_layout
+ Differences include ways in which the inoculation is performed.
+ Deep tissue wounding has been used in various studies, and is done by boring
+ directly to the heartwood of a living tree to introduce to the pathogen
+ directly to susceptible tissues, and was the technique utilized for this
+ study
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Delatour1998"
 
 \end_inset
 
-), the parts of the tree which are inoculated (Stem vs root vs Stem and
- root), number of replicates per tree, and different choices for analyzing
- the resulting data.
+.
+ In a separate inoculation technique superficial wounding targets only the
+ surface of the cambium the parts of the tree which are inoculated with
+ the pathogen has also been utilized in various studies
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Delatour1998"
+
+\end_inset
+
+.
+ Other variables in studies examining the resistance in conifers to 
+\emph on
+Heterobasidion annosum s.l.
+ 
+\emph default
+include number of replicates per tree, location of field sites, temperature
+ profiles of the regions where experiments are performed, choices of clonal
+ material and different choices for analyzing the resulting data.
+ However, research indicates that overall sizes of respective lesions in
+ inoculated clones may be a good proxy for indicating resistance or susceptibili
+ty
+\begin_inset Formula $ $
+\end_inset
+
+to infections from 
+\emph on
+Heterobasidion annosum s.l.
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Woodward2007,Swedjmark1997,Delatour1998"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Objectives of the Study
+\end_layout
+
+\begin_layout Subsection
+Central Questions
+\end_layout
+
+\begin_layout Standard
+This study seeks to answer several questions about the potential resistance
+ of 
+\emph on
+Picea abies 
+\emph default
+to 
+\emph on
+Heterobasidion parviporum 
+\emph default
+infections in natural settings.
+ Primarily, the study will attempt to characterize as robustly as feasible
+ the natural variation in resistance (as determined by lesion size measurements)
+ to infection by 
+\emph on
+Heterobasidion parviporum 
+\emph default
+in the roots, stem, phloem, and xylem tissues in naturally populated, non-clonal
+ stands.
+ Secondly, the study will attempt to determine if variation between sites
+ is a significant explanation of the difference in observed in lesion sizes
+ and effects.
  
 \end_layout
 
 \begin_layout Subsection
-Experiment and Rational 
+Hypotheses
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Hypothesis 1: Resistance between the two field sites differs 
+\end_layout
+
+\begin_layout Standard
+Differences in growing site location, as well as differences in genetic
+ makeup of the stands in the two sites differ, and it is presumed that these
+ differences will have an effect on the characteristics of the lesions at
+ the site level.
+ This effect was tested by inoculations in a balanced design experiment
+ across two field sites, and further analyzed by utilizing a mixed effects
+ model to characterize the lesions in a hierarchical framework accounting
+ for inherent nesting and lack of heteroscedasticity expected in the experiment.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Hypothesis 2: Resistance between organs (root and stem) will differ.
+\end_layout
+
+\begin_layout Standard
+Due to the different anatomical features present in the respective organs,
+ as well as taking into account the natural infection pathways of 
+\emph on
+Heterobasidion annosum s.l., 
+\emph default
+it is presumed that a difference in the response as characterized by lesion
+ sizes differs between root and stem organs.
+ This effect is tested using the mixed effects model, and further elaborated
+ upon by exploring potential interactions between the effect of organ and
+ other explanatory variables.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Hypothesis 3: Differences exist in lesion sizes between xylem and phloem
+ tissues.
+\end_layout
+
+\begin_layout Standard
+Again, due to different anatomical features in xylem and phloem tissues,
+ it is presumed the host will respond differently to the infection in different
+ tissues.
+ This effect is tested with the mixed effect model, and further elaborated
+ upon by examining interactions between the effect of tissue in conjunction
+ with other explanatory variables.
+ 
 \end_layout
 
 \begin_layout Standard
@@ -1624,8 +1927,7 @@ was provided by Kari Karhonen, and sourced from (Where?).
 \emph on
 Heterobasidion parviporum
 \emph default
- isolate, and were similarly incubated at room temperature for two weeks
- time.
+ isolate, and were similarly incubated at room  for two weeks time.
  
 \end_layout
 
@@ -4051,7 +4353,7 @@ end{landscape}
 
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Subsubsection
 Random Effects
 \end_layout
 
@@ -5201,7 +5503,10 @@ key "Hietala2003"
 \end_inset
 
 .
- 
+ This study did not analyze the actual length of growth of the fungus in
+ relation to the size of the lesion, which could be done in further work
+ as an additional way to attempt to characterize the resistance levels of
+ individual trees to infection.
 \end_layout
 
 \begin_layout Standard
