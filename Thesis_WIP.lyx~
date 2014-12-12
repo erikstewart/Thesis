@@ -1752,7 +1752,7 @@ Hypotheses
 \begin_layout Standard
 
 \emph on
-Hypothesis 1: Resistance between the two field sites differs 
+Hypothesis 1: Lesions between the two field sites differs 
 \end_layout
 
 \begin_layout Standard
@@ -1770,7 +1770,7 @@ Differences in growing site location, as well as differences in genetic
 \begin_layout Standard
 
 \emph on
-Hypothesis 2: Resistance between organs (root and stem) will differ.
+Hypothesis 2: Lesions between stems and roots differ.
 \end_layout
 
 \begin_layout Standard
@@ -1790,8 +1790,7 @@ it is presumed that a difference in the response as characterized by lesion
 \begin_layout Standard
 
 \emph on
-Hypothesis 3: Differences exist in lesion sizes between xylem and phloem
- tissues.
+Hypothesis 3: Lesions between xylem and phloem tissues differ.
 \end_layout
 
 \begin_layout Standard
@@ -1860,7 +1859,7 @@ SEE IF IT IS POSSIBLE TO FIND OUT SPECIFIC SOIL TYPES IN THESE LOCATIONS
 \end_layout
 
 \begin_layout Subsection
-Inoculum preparation & creation of Norway Spruce dowels
+Inoculum Preparation 
 \end_layout
 
 \begin_layout Standard
@@ -1936,7 +1935,7 @@ Preparation of Study Trees and Inoculation
 \end_layout
 
 \begin_layout Standard
-Inoculations in Lapinjarvi were carried out the 14th of June.
+Inoculations in Lapinjarvi were carried out the 14th of June, 2013.
  In Rovaniemi, inoculations were carried out on the 26th of June, 2013.
  
 \end_layout
@@ -1948,7 +1947,7 @@ For this study, each tree was treated with a total of six inoculations;
  size and shape of the exposed root(s).
  Whenever possible the inoculations were placed on the parts of the root
  facing upwards towards the crown of the tree.
- A minimum of 25cm upwards or downwards was maintained whenever possible
+ A minimum of 25 cm upwards or downwards was maintained whenever possible
  between root inoculations in instances where a single large root was inoculated
  more than once.
  In all trees, the inoculations were performed such that the inoculation
@@ -2020,9 +2019,9 @@ Trees were cut down roughly three months after initial inoculations.
  and below the inoculation point was collected for each inoculation.
  Samples were labeled with the site (L, R, for Lapinjarvi or Rovaniemi),
  treatment(W, for wounding control, T, for treatment), tree (1-15), and
- replicate number, (A,B,C for stem representing 50, 100, and 150cm inoculation
- points, and R1, R2, R3 for root inoculations, with R1 being the closest
- inoculation point to the root collar) before storing.
+ replicate number, (A, B, and C for stem representing 50, 100, and 150 cm
+ inoculation points, and R1, R2, R3 for root inoculations, with R1 being
+ the closest inoculation point to the root collar) before storing.
 \end_layout
 
 \begin_layout Standard
@@ -5029,7 +5028,7 @@ Discussion
 \begin_layout Standard
 The effect of site studied in this model was not a significant influence
  upon lesion size, and in this regard, the study concludes that differences
- in lesion sizes are not likely to be due to influences of latitude.
+ in lesion sizes are not likely to be due to differences between the sites.
  However, readers would do well to note that many aspects of this study
  are subject to analysis only in the context of the collected data and experimen
 t performed, and thus broad based inferences upon the effects of latitude
@@ -5055,15 +5054,25 @@ key "Witzell2011"
 H.
  annosum
 \emph default
- to colonize in different geographical locations versus 
+ versus 
 \emph on
 H.
- parviporum
+ parviporum 
 \emph default
-, but did not look at regions where the fungus was not known to be present
- prior to the study.
+to colonize in different geographical locations with differing temperature
+ regimes, but did not look at regions where the fungus was not known to
+ be present prior to the study.
  Nevertheless, they loosely concluded that difference in geographic origin
- might not affect overall spruce resistance.
+ might not affect overall resistance of 
+\emph on
+Picea abies 
+\emph default
+to 
+\emph on
+Heterobasidion annosum s.l
+\emph default
+.
+ .
  A study by 
 \emph on
 
@@ -5125,20 +5134,28 @@ key "Garbelotto1997"
 \end_inset
 
  found a positive correlation between root diameter and fungal growth.
- It is worth noting that most studies where artificial inoculations have
+ However, refitting the model using only data from the Lapinjarvi or Rovaniemi
+ field sites does change the significance of the organ variable; in Lapinjarvi
+ the variable is a significant predictor, whereas in Rovaniemi it is not
+ (See Appendix for secondary models).
+ 
+\end_layout
+
+\begin_layout Standard
+It is worth noting that most studies where artificial inoculations have
  been performed on 
 \emph on
 Picea abies 
 \emph default
 with 
 \emph on
-Heterobasidion spp.
+Heterobasidion annosum s.l..
  
 \emph default
 focused solely on stem inoculations, which does not mimic the natural infection
  pathway in 
 \emph on
-Heterobasidion spp.
+Heterobasidion annosum s.l..
  
 \emph default
 
@@ -5172,13 +5189,10 @@ key "Kerio2014"
 , 
 \emph default
 no difference was noted between tissues.
- Other studies reviewed have primarily focused on one tissue, or have not
- examined the possibility of a difference in response between tissues (CITE
- STUDIES HERE).
  However, different anatomical features are present in the different tissues,
  which may influence the ability of 
 \emph on
-Heterobasidion spp.
+Heterobasidion annosum s.l.
  
 \emph default
 to grow in the separate tissues 
