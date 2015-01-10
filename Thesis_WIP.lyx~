@@ -235,8 +235,8 @@ key "Scand.2003a"
 \end_layout
 
 \begin_layout Standard
-The most devastating pathogen affecting the growth of Norway Spruce is butt
- rot caused by the 
+The most devastating pathogen affecting the growth of Norway Spruce in the
+ northern hemisphere is butt rot caused by the 
 \begin_inset Flex Emph
 status open
 
@@ -265,14 +265,14 @@ key "Asiegbu2005"
 \end_inset
 
 ; as such, it is important to study the pathogen and host to better understand
- the complex nature of infection biology and resistance factors which hold
+ the complex nature of infection biology and resistance factors, which hold
  the potential for mitigating losses and improving forest yields in areas
  where 
 \emph on
-Heterobasidion spp.
+Heterobasidion annosum s.l..
 
 \emph default
- are prevalent.
+ is prevalent.
  
 \end_layout
 
@@ -336,7 +336,7 @@ key "Tollefsrud2008"
 
 \end_inset
 
-
+.
 \end_layout
 
 \end_inset
@@ -431,7 +431,7 @@ Heterobasidion annosum s.l.,
 knowledge of the life-cycle and infection biology of the pathogen is critical
  to understanding how best to deal with the pathogen in areas where 
 \emph on
-Heterobasidion annosum s.l..
+Heterobasidion annosum s.l.
  
 \emph default
 present a problem in forestry industries.
@@ -447,9 +447,9 @@ species complex is comprised of several inter-sterile groups of species,
  each with differing host preferences.
  In Europe, three distinct mating types are recognized : 
 \emph on
-Heterobasidion annosum 
+Heterobasidion annosum sensu stricto
 \emph default
-sensu stricto, 
+, 
 \emph on
 Heterobasidion parviporum
 \emph default
@@ -552,7 +552,7 @@ key "Garbelotto2007"
 \end_inset
 
  indicated little to no observed hybrids in nature is due to ecological
- constraints and higher competition from pure strains within the species
+ constraints, and higher competition from pure strains within the species
  complex.
  
 \end_layout
@@ -609,9 +609,10 @@ key "Redfern1998"
 .
  Spore production is highest during warm summer months, but spores cannot
  survive temperatures higher than circa 15º C without suitable host substrate;
- in cases where a spore is on suitable host substrate, temperatures above
- 35º C inversely correlate with spore survival; temperatures above 45º C
- kill off spores in less than 1 hour on suitable stumps 
+ in cases where a spore deposits on suitable host substrate, temperatures
+ above 35º C inversely correlate with spore survival, and temperatures above
+ 45º C kill off spores in less than 1 hour on otherwise suitable stumps
+ 
 \begin_inset CommandInset citation
 LatexCommand citet
 key "Redfern1998"
@@ -650,8 +651,7 @@ and serve as the primary source of new infections on stumps of recently
 Heterobasidion annosum s.l.
  
 \emph default
-can also start new infections, but are not the primary source of new infections
- .
+can also start new infections, but are not the primary source of new infections.
  Whereas basidiospores are easily dispersed by wind, conidiospores require
  mechanical deposition to detach from the host fungal mycelium.
  Other methods by which 
@@ -723,7 +723,7 @@ key "Asiegbu2000"
 The actual infection process begins when a spore or mycelia reach a suitable
  host substrate.
  Adhesion of spores requires suitable substrate, generally a fresh wound
- exposing living tissues in spruce tree, or a stump through which subsequent
+ exposing living tissues in host tree, or a stump through which subsequent
  spread to adjacent trees can occur.
  Germination of spores occurs when spores land onto suitable host tissues,
  and environmental conditions such as those mentioned above are sufficient
@@ -735,8 +735,8 @@ key "Redfern1998,Redfern1993"
 \end_inset
 
 .
- Upon landing on suitable substrate, fungal mucilaginous sheath and extracellula
-r exudates facilitates the development of fungal structures such as, germ
+ Upon landing on suitable substrate, fungal mucilaginous sheathes and extracellu
+lar exudates facilitate the development of fungal structures such as, germ
  tubes and subsequently appressoria which allow for the penetration into
  host tissues 
 \begin_inset CommandInset citation
@@ -1738,10 +1738,11 @@ infections in natural settings.
 Heterobasidion parviporum 
 \emph default
 in the roots, stem, phloem, and xylem tissues in naturally populated, non-clonal
- stands.
+ stands across two sites in Finland.
  Secondly, the study will attempt to determine if variation between sites
- is a significant explanation of the difference in observed in lesion sizes
- and effects.
+ with a history of the pathogen being either present or absent is a significant
+ explanation of the difference in observed in lesion sizes and effects in
+ the respective field sites.
  
 \end_layout
 
@@ -5230,7 +5231,11 @@ The interaction between treatment and organ was significant, with stems
  treatment by organ.
  Furthermore, the interaction between site and organ was found to be marginally
  significant.
- This could be due to a number of factors.
+ This could be due to a number of
+\begin_inset space ~
+\end_inset
+
+factors which were unaccounted for.
  Norway spruce has high genetic plasticity, which could potentially account
  for differences in the response of the organs at various sites 
 \begin_inset CommandInset citation
@@ -5362,16 +5367,18 @@ key "Karlsson2008"
 
 \end_inset
 
- indicated that difference do exist between geographic areas; two sites
+ indicated that differences do exist between geographic areas; two sites
  in southern Europe utilizing clonal material (Greece and Italy) had significant
  correlations between fungal growth, lesion size and other indicators of
  resistance, while a third field site in Sweden utilizing the same clonal
- material did share significant correlations with the southern European
+ material did not share significant correlations with the southern European
  sites.
  However, the authors speculated that environmental factors, not historical
  isolation of the host from the pathogen could be responsible for the lack
  of correlations between the two regions.
- 
+ Further studies could attempt to address differences between trees acclimatized
+ to certain growing environments by using a crossed design wherein trees
+ from both 
 \end_layout
 
 \begin_layout Standard
@@ -5382,11 +5389,11 @@ Further issues with the experimental design for this study include a lack
  as opposed to those which take place in highly controlled laboratory and
  greenhouse settings.
  Temperature, weather events, and other potential natural influences are
- not controllable in field experiments.
+ not generally controllable in field experiments.
  However, if we are interested in drawing ecological conclusions regarding
  the interactions between Norway spruce and 
 \emph on
-Heterobasidion spp., 
+Heterobasidion annosum s.l.., 
 \emph default
 it may be useful to carry out field experiments; any resulting residual
  variances could then be attributed to uncontrollable environmental factors,
@@ -5437,7 +5444,7 @@ In this study, the response of interest is the lesion size as in indication
  inoculation.
  However, to analyze the lesions, a simplified view of the lesions was utilized,
  conceptualizing the lesions as a rectangular area based on maximal width
- and length measurements from the point of inoculation.
+ and length measurements across the point of inoculation.
  Lesions present in many ways, and no single geometric shape is consistent
  across lesions.
  In hindsight, there are better, albeit much more time consuming ways, to
