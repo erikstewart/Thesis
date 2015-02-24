@@ -655,8 +655,8 @@ key "Redfern1998"
  exposing living tissues in host tree, or a stump through which subsequent
  spread to adjacent trees can occur.
  Germination of spores occurs when spores land onto suitable host tissues,
- and environmental conditions such as those mentioned above are sufficient
- for the survival of the spores 
+ and environmental conditions are sufficient for the survival of the spores
+ 
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Redfern1998,Redfern1993"
@@ -665,7 +665,7 @@ key "Redfern1998,Redfern1993"
 
 .
  Upon landing on suitable substrate, fungal mucilaginous sheathes and extracellu
-lar exudates facilitate the development of fungal structures such as germ
+lar exudate facilitate the development of fungal structures such as germ
  tubes and subsequently appressoria, which allow for the penetration into
  host tissues 
 \begin_inset CommandInset citation
@@ -689,7 +689,8 @@ utilize lignin and cellulose as primary carbon sources for growth and proliferat
 ion within host tissues.
  However, 
 \emph on
-Heterobasidion annosum s.l.
+H.
+ annosum s.l.
  
 \emph default
 can also utilize many other sources of carbon 
@@ -724,14 +725,8 @@ H.
 \emph default
 spreads is via mycelial growth within suitable host substrate, or in very
  limited distances throughout soils.
- Although 
-\emph on
-Heterobasidion spp.
-
-\emph default
- generally infect via open wounds in areas where forests are managed for
- timber products, in natural settings where wounding does not provide a
- suitable substrate for germination of 
+ In natural settings where wounding does not provide a suitable substrate
+ for germination of 
 \emph on
 Heterobasidion spp.
  
@@ -753,7 +748,7 @@ H.
 do not have the ability to grow far in soil without suitable host substrate.
  However, root systems of an infected tree which are near to neighboring
  tree's root systems, or which are grafted can pass mycelium from the infected
- tree to the otherwise root systems of another tree.
+ tree to the root systems of another tree.
  Contract between roots of neighboring trees is also an important natural
  vector for the transmission of 
 \emph on
@@ -771,22 +766,14 @@ key "Garbelotto2013,Asiegbu2005,Woodward1998"
 \end_inset
 
 .
- A study conducted by 
-\begin_inset CommandInset citation
-LatexCommand citet
-key "Asiegbu2000"
-
-\end_inset
-
- indicated that adhesion of spores and germination is more successful on
- smaller, younger roots of host conifers.
  
 \end_layout
 
 \begin_layout Standard
 Reproduction of 
 \emph on
-Heterobasidion spp.
+H.
+ annosum s.l..
  
 \emph default
 requires that two homokaryotic strains of differing genetic origin and with
@@ -802,16 +789,8 @@ key "Woodward1998"
 \end_inset
 
 .
- Basidiospores are the product of sexual reproduction in 
-\emph on
-H.
- annosum s.l..
- 
-\emph default
-and serve as the primary source of new infections on stumps of recently
- felled trees.
- In addition to infection from basidiospores, conidiospores, an asexual
- spore produced by 
+ In addition to infection from sexually produced basidiospores, conidiospores,
+ an asexual spore produced by 
 \emph on
 Heterobasidion annosum s.l.
  
@@ -831,6 +810,7 @@ Various biotic and abiotic methods of control are used to attempt to reduce
  the prevalence and damage done to trees by 
 \emph on
 Heterobasidion annosum s.l.
+ .
  
 \emph default
 In modern, highly mechanized forest product production, one of the key routes
@@ -847,29 +827,31 @@ key "Makinen2007,Thor2005,Woodward1998"
 .
  Primary methods of control of 
 \emph on
-Heterobasidion annosum s.l.
+H.
+ annosum s.l.
  
 \emph default
 include the careful use of equipment and attempts to minimize damage due
  to anthropogenic factors.
  Post harvest stumps provide an ideal inoculation surface for 
 \emph on
-Heterobasidion annosum.
+H.
+ annosum s.l..
  
 \emph default
 Thus, the most efficient and widely utilized control methods address the
  issue of suitable host tissue on freshly cut stumps by means of either
  chemical, biotic, or abiotic control in areas where infections have not
- been previously noted; furthermore it is very difficult to control intra-genera
-tional spread of 
+ been previously noted; however it is very difficult to control spread of
+ 
 \emph on
 H.
- annosum
+ annosum 
 \emph default
- 
+in areas where the pathogen has previously been established 
 \begin_inset CommandInset citation
 LatexCommand citep
-key "Piri1996,Piri2003"
+key "Piri2003,Piri1996"
 
 \end_inset
 
@@ -926,8 +908,8 @@ key "Vasaitis2008"
 
 .
  Harvest of stumps and removal of sources of host material suitable for
- inoculation has proved to be highly effective in reducing the subsequent
- infections and rot 
+ inoculation has proved to be effective in reducing the subsequent infections
+ and rot 
 \begin_inset CommandInset citation
 LatexCommand citet
 key "Oliva2010"
@@ -1010,6 +992,38 @@ key "Lindberg1991"
 was able to establish infections reaching the xylem in all test subjects
  with the rhytidome and phellem removed, with inner bark tissues still intact.
  
+\end_layout
+
+\begin_layout Standard
+Features present in the phloem tissues which allow the 
+\emph on
+P.abies
+\emph default
+ to resist damages and pathogen includes polyphenolic parenchyma cells,
+ and lignified cells.
+ Lignified cells increase the mechanical strength of a tree, and are more
+ resistant to damage.
+ Polyphenolic parenchyma (PP) cells are present throughout the trees phloem
+ tissues, and store phenolic compounds which are released if the cells are
+ damaged by wounding either from mechanical forces or via pathogen growth.
+ The phenolic compounds have various anti microbial properties, and resistant
+ clones of P.
+ abies have been shown to have higher amounts of PP cells than susceptible
+ clones 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Franceschi1998"
+
+\end_inset
+
+.
+ Xylem tissues include some similar defense mechanisms to cells in phloem
+ tissues.
+ However, much higher portions of parenchyma cells exist within the xylem
+ in conifers, predominantly in the form of xylem rays.
+ PP cells are also present in large numbers in the xylem tissues.
+ Further barriers to damage from pathogens or mechanical forces include
+ large amounts of lignified and suberized tissues.
 \end_layout
 
 \begin_layout Standard
@@ -1135,15 +1149,20 @@ Heterobasidion annosum s.l.
 \end_layout
 
 \begin_layout Standard
-\paragraph_spacing onehalf
+\paragraph_spacing other 1.5
 \noindent
 Non-specific chemical based defenses in conifer periderm and sapwood tissues
- include oleoresin based defenses
-\begin_inset Foot
-status open
+ include oleoresin based defenses, increased lignification, as well as other
+ antimicrobial chemicals which are produced during normal plant growth which
+ are referred to as phytoanticipins 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "VanEtten1994"
 
-\begin_layout Plain Layout
-Oleoresins are present in normal sapwood tissues in the normal growth of
+\end_inset
+
+.
+ Oleoresins are present in normal sapwood tissues in the normal growth of
  many conifer species produced by a variety of specialized cells, depending
  on the genus.
  For example 
@@ -1186,45 +1205,15 @@ key "Lewinsohn1991"
  Because oleoresins are produced both in normal growth as well as in response
  to abiotic or biotic stresses, it is appropriate to consider oleoresins
  as an induced defense strategy as well as a constitutive one.
-\end_layout
-
-\end_inset
-
-, increased lignification, as well as other antimicrobial chemicals which
- are produced during normal plant growth which are referred to as phytoanticipin
-s 
-\begin_inset CommandInset citation
-LatexCommand citep
-key "VanEtten1994"
-
-\end_inset
-
-.
  Phytoalexins are molecular compounds produced in response to a pathogen,
- and include a broad range of low molecular weight compounds 
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Bonello2006"
-
-\end_inset
-
-
-\begin_inset Foot
-status open
-
-\begin_layout Plain Layout
-True phytoalexins are not known in conifers, but increased accumulation
- of phytoanticipins and antimicrobial chemicals in response to a pathogen
- in conifers has been observed 
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Bonello2006"
-
-\end_inset
-
-.
+ and include a broad range of low molecular weight compounds; however, true
+ phytoalexins are not known in conifers, but increased accumulation of phytoanti
+cipins and antimicrobical compounds in response to pathogens has been observed
+ in conifers.
  
-\end_layout
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Bonello2006"
 
 \end_inset
 
@@ -1345,7 +1334,7 @@ status open
 In inoculation experiments performed on Norway spruce, age has not greatly
  affected the growth of the fungus 
 \begin_inset CommandInset citation
-LatexCommand citet
+LatexCommand citep
 key "Swedjemark2004a"
 
 \end_inset
@@ -1403,24 +1392,12 @@ Picea abies
 Heterobasidion annosum s.l.
  
 \begin_inset CommandInset citation
-LatexCommand citet
+LatexCommand citep
 key "Asiegbu2005,Lindberg1992,Redfern1993"
 
 \end_inset
 
 .
-\emph default
-Volatile organic compounds released from trees during herbivory have been
- shown to induce subsequent resistance priming to pathogens in neighboring
- trees 
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Eyles2010,Yi2009"
-
-\end_inset
-
-.
- 
 \end_layout
 
 \begin_layout Subsubsection
@@ -1454,8 +1431,8 @@ SOURCES: Agrios 2005, Flor 1956
 \end_inset
 
 .
- If an avirulence gene is present in a pathogen, the cooresponding gene
- product is recognized in a incompatable host with the cooresponding resistance
+ If an avirulence gene is present in a pathogen, the corresponding gene
+ product is recognized in a incomparable host with the corresponding resistance
  gene; the host recognizes the pathogen and is able to resist infection.
  If the resistance gene is not found in the host, the outcome is a compatible
  reaction leading to infection.
@@ -1485,12 +1462,22 @@ key "Fossdal2012a"
 \end_inset
 
 .
- 
+ Additional evidence exists for the importance of plant-pathogen coevolution
+ in the positive selection of effective PR-proteins 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Scherer2005"
+
+\end_inset
+
+.
+ Overall, coevolution is a important driving factor in the development of
+ resistant strains of a plant.
 \end_layout
 
 \begin_layout Standard
 Differences in generation times between host and pathogen can also influence
- the convolution of the species.
+ the coevolution of the species.
  For example, 
 \emph on
 P.
@@ -1502,7 +1489,7 @@ H.
  annosum 
 \emph default
 which may reproduce much quicker leading to faster adaptations.
- The shorter lifecycles of the pathogen, as well as both asexual and sexual
+ The shorter life cycles of the pathogen, as well as both asexual and sexual
  reproduction allow subsequent generations to select quickly for favorable
  traits and increased virulence against the slower generating host 
 \begin_inset CommandInset citation
@@ -1565,17 +1552,132 @@ key "Eyles2010"
  
 \end_layout
 
-\begin_layout Subsubsection
-Genetic Influences on Resistance to 
-\emph on
-Heterobasidion annosum 
-\emph default
-in Norway Spruce
+\begin_layout Subsection
+Lesions as an Indication of Resistance 
 \end_layout
 
 \begin_layout Standard
-The potential factors affecting resistance traits of individual trees are
- influenced by genetics.
+Measuring necrotic lesions produced in response to 
+\emph on
+Heterobasidion annosum s.l.
+ 
+\emph default
+is a technique to gauge potential resistance of hosts to fungal infection,
+ and has been utilized in many studies 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Delatour1998"
+
+\end_inset
+
+.
+ Lesions are created in response to wounding or a pathogen by the host tree.
+ In cases where a pathogen, i.e., 
+\emph on
+H.
+ annosum, 
+\emph default
+is placed into the tree, the size of the resulting lesion can be used as
+ one measure to gauge the ability of the host genet to resist the pathogen
+ 
+\emph on
+
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Woodward2007,Swedjmark1997,Delatour1998"
+
+\end_inset
+
+.
+ 
+\emph default
+Inoculations are performed utilizing a sterilized wooden dowel which is
+ then cultured with the pathogen or left sterile depending on treatment.
+ The dowels are then placed into the host in a systematic way, and left
+ 
+\emph on
+in situ 
+\emph default
+for a period of time before measuring the resulting lesions.
+ Most incoluation experiments with 
+\emph on
+H.
+ annosum
+\emph default
+ have focused on stem inoculations.
+ However, as the roots represent the natural infection pathway for the pathogen,
+ more research into the differences between lesions response in the stems
+ and roots is necessary.
+ 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+MOVE BELOW NOTE TO DISCUSSION AND REFORMAT
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+However, methodologies vary depending on the studies, and thus conclusions
+ and results between studies can be difficult to generalize.
+ Differences in experimental design include ways in which the inoculation
+ is performed.
+ Deep tissue wounding has been used in various studies, and is done by boring
+ directly to the heartwood of a living tree to introduce to the pathogen
+ directly to susceptible tissues, and was the technique utilized for this
+ study
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Delatour1998"
+
+\end_inset
+
+.
+ In a separate inoculation technique, superficial wounding targets only
+ the surface of the cambium the parts of the tree which are inoculated with
+ the pathogen has also been utilized in various studies
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Delatour1998"
+
+\end_inset
+
+.
+ Other variables in studies examining the resistance in conifers to 
+\emph on
+Heterobasidion annosum s.l.
+ 
+\emph default
+include number of replicates per tree, location of field sites, temperature
+ profiles of the regions where experiments are performed, choices of clonal
+ material and different choices for analyzing the resulting data.
+ However, research indicates that overall sizes of respective lesions in
+ inoculated clones may be a good proxy for indicating resistance or susceptibili
+ty
+\begin_inset Formula $ $
+\end_inset
+
+to infections from 
+\emph on
+Heterobasidion annosum s.l.
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Woodward2007,Swedjmark1997,Delatour1998"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+Potential factors affecting resistance traits of individual trees are influenced
+ by genetics.
  A study by 
 \begin_inset CommandInset citation
 LatexCommand citet
@@ -1590,7 +1692,7 @@ key "Hietala2004"
 \emph default
 ) found that the more resistant clone produced higher levels of chitinase,
  sooner, after artificial inoculations than did the less resistant clone.
- Overall variance in broad based heritability of the fungal extension in
+ Overall variance in broad sense heritability of the fungal extension in
  seventeen year old Norway spruce clones artificially inoculated with 
 \emph on
 Heterobasidion parviporum
@@ -1696,78 +1798,7 @@ Heterobasidion parviporum
 \emph default
  within the host, including infection success, fungal extension, and lesion
  formation.
- 
 \end_layout
-
-\begin_layout Subsection
-Lesions as an Indication of Resistance 
-\end_layout
-
-\begin_layout Standard
-Measuring necrotic lesions produced in response to 
-\emph on
-Heterobasidion annosum s.l.
- 
-\emph default
-is a technique to gauge potential resistance of hosts to fungal infection,
- and has been utilized in many studies 
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Delatour1998"
-
-\end_inset
-
-.
- However, methodologies vary depending on the studies, and thus conclusions
- and results between studies can be difficult to generalize.
- Studies on the lesions produced in Norway spruce have been performed which
- have similarities to the methodology utilized in this thesis, but in many
- instances have one or more differences which would not allow for direct
- comparison between results.
- Differences in experimental design include ways in which the inoculation
- is performed.
- Deep tissue wounding has been used in various studies, and is done by boring
- directly to the heartwood of a living tree to introduce to the pathogen
- directly to susceptible tissues, and was the technique utilized for this
- study
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Delatour1998"
-
-\end_inset
-
-.
- In a separate inoculation technique, superficial wounding targets only
- the surface of the cambium the parts of the tree which are inoculated with
- the pathogen has also been utilized in various studies
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Delatour1998"
-
-\end_inset
-
-.
- Other variables in studies examining the resistance in conifers to 
-\emph on
-Heterobasidion annosum s.l.
- 
-\emph default
-include number of replicates per tree, location of field sites, temperature
- profiles of the regions where experiments are performed, choices of clonal
- material and different choices for analyzing the resulting data.
- However, research indicates that overall sizes of respective lesions in
- inoculated clones may be a good proxy for indicating resistance or susceptibili
-ty
-\begin_inset Formula $ $
-\end_inset
-
-to infections from 
-\emph on
-Heterobasidion annosum s.l.
- 
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Woodward2007,Swedjmark1997,Delatour1998"
 
 \end_inset
 
@@ -1822,7 +1853,8 @@ Hypotheses
 \begin_layout Standard
 
 \emph on
-Hypothesis 1: Lesion sizes between the two field sites differs 
+Hypothesis 1: Lesion sizes in the Rovaniemi field site will be larger.
+ 
 \end_layout
 
 \begin_layout Standard
@@ -1830,6 +1862,10 @@ Differences in growing site location, as well as differences in genetic
  makeup of the stands in the two sites differ, and it is presumed that these
  differences will have an effect on the characteristics of the lesions at
  the site level.
+ Because it is believed that the area in Rovaniemi has been largely isolated
+ from the pressures of the pathogen, it is assumed that this will decrease
+ resistance response to the pathogen in comparison to trees at the Lapinjarvi
+ site.
  This effect was tested by inoculations in a balanced design experiment
  across two field sites, and further analyzed by utilizing a mixed effects
  model to characterize the lesions in a hierarchical framework accounting
@@ -1841,7 +1877,7 @@ Differences in growing site location, as well as differences in genetic
 \begin_layout Standard
 
 \emph on
-Hypothesis 2: Lesion sizes between stems and roots differ.
+Hypothesis 2: Lesion sizes in the roots will be larger than in stems
 \end_layout
 
 \begin_layout Standard
@@ -1850,8 +1886,9 @@ Due to the different anatomical features present in the respective organs,
 \emph on
 Heterobasidion annosum s.l., 
 \emph default
-it is presumed that a difference in the response as characterized by lesion
- sizes differs between root and stem organs.
+it is presumed that a difference in the response will manifest as larger
+ lesions within the roots because it is the natural infection pathway for
+ which the pathogen is adapted.
  This effect is tested using the mixed effects model, and further elaborated
  upon by exploring potential interactions between the effect of organ and
  other explanatory variables.
@@ -1861,13 +1898,18 @@ it is presumed that a difference in the response as characterized by lesion
 \begin_layout Standard
 
 \emph on
-Hypothesis 3: Lesions sizes between xylem and phloem tissues differ.
+Hypothesis 3: Lesions sizes in xylem tissues will be lower than those in
+ phloem.
 \end_layout
 
 \begin_layout Standard
 Again, due to different anatomical features in xylem and phloem tissues,
  it is presumed the host will respond differently to the infection in different
  tissues.
+ It is hypothesized that the xylem tissues present with smaller lesions
+ due to the fact that high amounts of lignified tissues will present a greater
+ challenge for the pathogen to overcome compared to softer living tissues
+ within the phloem.
  This effect is tested with the mixed effect model, and further elaborated
  upon by examining interactions between the effect of tissue in conjunction
  with other explanatory variables.
@@ -1918,13 +1960,15 @@ Inoculum Preparation
 \end_layout
 
 \begin_layout Standard
-The culture of Heterobasidion parviporum, a heterkaryotic isolate
-\begin_inset Formula $ $
-\end_inset
-
- used for this study.
- The isolate was maintained on 2% malt extract agar and kept at 4º Celsius.
- To create a delivery vessel for the inoculum, wooden dowels of Norway Spruce
+The culture of 
+\emph on
+Heterobasidion parviporum
+\emph default
+, isolate number 03014 (Kari Korhonen) used for this study.
+ The isolated was obtained from a Norway spruce tree in Kuhmoinen, central
+ Finland.
+ The culture was maintained on 2% malt extract agar and kept at 4º Celsius.
+ To create a delivery vessel for the inoculum, wooden dowels of Norway spruce
  measuring roughly 6 mm diameter by 7 mm length were created utilizing a
  drill press and a jewelers saw.
  Cut and formed dowels were autoclaved for thirty minutes with roughly 100
@@ -1933,8 +1977,7 @@ The culture of Heterobasidion parviporum, a heterkaryotic isolate
  prepared 2% malt extract agar plates, and incubated at room temperature
  for two weeks.
  Autoclaved dowels utilized for infection were placed onto 2% malt extract
- agar plates which were previously sub-cultured three weeks prior with the
- 
+ agar plates which were precolonized with the 
 \emph on
 Heterobasidion parviporum
 \emph default
@@ -1957,7 +2000,7 @@ Inoculations in Lapinjärvi were carried out the 14th of June, 2013.
 For this study, each tree was treated with a total of six inoculations;
  three stem inoculations placed at 50 cm, 100 cm, and 150 cm above the soil
  level, and three in the roots placed opportunistically depending on the
- size and shape of the exposed root(s).
+ size and shape of the exposed roots.
  Whenever possible the inoculations were placed on the parts of the root
  facing upwards towards the crown of the tree.
  A minimum of 25 cm upwards or downwards was maintained whenever possible
@@ -1970,14 +2013,14 @@ For this study, each tree was treated with a total of six inoculations;
 \end_layout
 
 \begin_layout Standard
-Prior to applying treatment (i.e, insertion of wounding control dowels or
- 
+Prior to inoculations i.e, insertion of wounding control dowels or 
 \emph on
-Heterobasidion parviporum 
+H.
+ parviporum 
 \emph default
-colonized dowels), roots of the study trees were dug up carefully using
- garden spades, and then outer surfaces of exposed roots were cleaned of
- excess dirt and debris utilizing a large brush with synthetic fiber hairs.
+colonized dowels, roots of the study trees were dug up carefully using garden
+ spades, and then outer surfaces of exposed roots were cleaned of excess
+ dirt and debris utilizing a large brush with synthetic fiber hairs.
  Directly before inoculating the trees, the area where the inoculation were
  to be placed was sprayed with 70% ethanol to minimize the possibility of
  introducing localized contaminants into the xylem or phloem of the tree.
@@ -2011,13 +2054,12 @@ Picea abies
 .
  Immediately after confirmation of adequate bore depth, a wooden dowel for
  the specific treatment for the tree was introduced into the hole and secured
- into host tissue via use of forceps and the back end of the bore utilized
- to remove outer bark and phloem tissues.
+ into host tissue via use of forceps and the back end of the bore.
  Immediately after the dowel was secured into the host tissues, the area
  of the inoculation was wrapped with parafilm to minimize the chance of
  post-inoculation contamination.
  After trees were inoculated and inoculation points were wrapped with parafilm,
- the roots were re-buried with the loose soil removed to expose the roots
+ the roots were covered with the loose soil removed to expose the roots
  for inoculations.
  
 \end_layout
@@ -2027,7 +2069,7 @@ Harvest and Processing
 \end_layout
 
 \begin_layout Standard
-Trees were cut down roughly three months after initial inoculations.
+After three months, inoculated trees were cut down for procesing.
  Roots of the respective trees were re-dug carefully and extracted.
  Primary tools utilized in harvest were chainsaws.
  Due to the large size of the trees, only the lower segment of the stem
