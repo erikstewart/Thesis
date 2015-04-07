@@ -270,22 +270,27 @@ H.
  annosum s.l..
 
 \emph default
- is prevalent 
+ is prevalent
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Stenlid1998"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
 \begin_inset Note Note
 status open
 
 \begin_layout Plain Layout
-CITE Heterobasidion annosum biology ecology and control preface
+Geography and Biology of 
 \end_layout
 
 \end_inset
 
-.
- 
-\end_layout
-
-\begin_layout Subsection
-Geography and Biology of Norway Spruce (
+Norway Spruce (
 \emph on
 P.
  abies
@@ -329,6 +334,82 @@ key "Tollefsrud2008"
 \end_inset
 
 .
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+TALK ABOUT SHADE LOVING, Generation times, etc.
+ 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Norway spruce is a shade tolerant conifer, which grows at the final stages
+ of ecological succession 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+SOURCE
+\end_layout
+
+\end_inset
+
+.
+ A tolerance for shade allows 
+\emph on
+P.
+ abies 
+\emph default
+to establish in mixed forests in the understory during early stages of growth,
+ with increased growth opportunistically to fill in canopy gaps as they
+ occur 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Jonsson1990"
+
+\end_inset
+
+.
+ Initial growth of the tree is slow, but increases between 20-60 years of
+ age 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Kostler1956"
+
+\end_inset
+
+.
+ Generally, 
+\emph on
+P.
+ abies 
+\emph default
+lives for 200 years in the southern areas of its range, but can survive
+ up to 400 years in the northern areas of it's range 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Kostler1956"
+
+\end_inset
+
+.
+ The root systems of Norway spruce are superficial, making the tree susceptible
+ to windfall 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Kostler1956"
+
+\end_inset
+
+.
  In Finland, Norway spruce is found throughout most of the country.
  Only small areas in the very northern parts of Finland in the Arctic circle
  are devoid of 
@@ -345,20 +426,6 @@ P.
  throughout Finland and Scandinavia has led to it becoming one of the most
  important commercial forestry crops in northern Europe.
  
-\end_layout
-
-\begin_layout Standard
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-TALK ABOUT SHADE LOVING, Generation times, etc.
- 
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Subsection
@@ -419,7 +486,7 @@ H.
  annosum s.l.
 
 \emph default
- intersterile group are recognized; 
+ intersterility group are recognized; 
 \emph on
 Heterobasidion occidentale, 
 \emph default
@@ -458,7 +525,12 @@ H.
  annosum s.l.
  
 \emph default
-are also effective saprotrophs, but 
+are also effective saprotrophs,
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+ but 
 \emph on
 H.
  annosum s.s.
@@ -474,6 +546,11 @@ species complex
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Daniel1998"
+
+\end_inset
+
+
+\end_layout
 
 \end_inset
 
@@ -514,7 +591,8 @@ present a problem in forestry industries.
 Despite a preference for specific hosts, several species within the 
 \emph on
 H.
- annosum
+ annosum s.l.
+
 \emph default
  complex are able to infect other than their preferred hosts, albeit with
  less efficiency 
@@ -861,7 +939,7 @@ include the careful use of equipment and attempts to minimize damage due
  Post harvest stumps provide an ideal suitable host substrate for 
 \emph on
 H.
- annosum s.l..
+ annosum s.l.
  
 \emph default
 Thus, the most efficient and widely utilized control methods address the
@@ -886,7 +964,7 @@ key "Piri2003,Piri1996"
  at reducing the likelihood of subsequent infection from 
 \emph on
 H.
- annosum s.l..
+ annosum s.l.
  
 \emph default
 spores 
@@ -940,7 +1018,7 @@ key "Vasaitis2008"
  inoculation has proved to be effective in reducing the subsequent infections
  and rot 
 \begin_inset CommandInset citation
-LatexCommand citet
+LatexCommand citep
 key "Oliva2010"
 
 \end_inset
@@ -1037,7 +1115,8 @@ was able to establish infections reaching the xylem in all test subjects
 \begin_layout Standard
 Features present in the phloem tissues which allow the 
 \emph on
-P.abies
+P.
+ abies
 \emph default
  to resist damages and pathogen includes polyphenolic parenchyma cells,
  and lignified cells.
@@ -1085,7 +1164,7 @@ key "Nagy2004"
 
 .
  Trees also create barriers in response to pathogens, compartmentalizing
- both axially and radially.
+ both axially and radially in response to damages or detection of a pathogen.
  Increases to lignification near affected tissues, plugging of vascular
  tissues, and programmed cell death are utilized by the tree to attempt
  to exclude the pathogen from vulnerable areas within the host.
@@ -1489,11 +1568,21 @@ key "Asiegbu2005,Lindberg1992,Redfern1993"
 \end_layout
 
 \begin_layout Subsubsection
-Host Pathogen Coevolution
+Host Pathogen Co-evolution 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Effectors + Toxins?
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-Coevolution between plants and pathogens is driven by their interactions
+Co-evolution between plants and pathogens is driven by their interactions
  with one another over time.
  Differential pressures imposed by either host or pathogen onto the other
  shape the way in which the organisms interact with one another, and over
@@ -1508,8 +1597,8 @@ differences in life cycles
 \end_inset
 
 , resistance or susceptibility, and levels of virulence.
- Theories of plant pathogen coevolution typically include the gene for gene
- model wherein one or more resistance genes (
+ Theories of plant pathogen co-evolution typically include the gene for
+ gene model wherein one or more resistance genes (
 \emph on
 R
 \emph default
@@ -1523,7 +1612,7 @@ Avr
 Avr
 \emph default
  gene is present in a pathogen, the corresponding gene product is recognized
- in a incomparable host with the corresponding resistance gene; the host
+ in a incompatible host with the corresponding resistance gene; the host
  recognizes the pathogen and is able to resist infection.
  If the resistance gene is not found in the host, the outcome is a compatible
  reaction leading to infection.
@@ -1551,7 +1640,7 @@ key "Fossdal2012a"
 \end_inset
 
 .
- Additional evidence exists for the importance of plant-pathogen coevolution
+ Additional evidence exists for the importance of plant-pathogen co-evolution
  in the positive selection of effective PR-proteins 
 \begin_inset CommandInset citation
 LatexCommand citep
@@ -1573,7 +1662,15 @@ avr
 \emph on
 R
 \emph default
- gene acts as a 'guard' to a target of the 
+ gene acts as a 
+\begin_inset Quotes eld
+\end_inset
+
+guard
+\begin_inset Quotes erd
+\end_inset
+
+ to a target of the 
 \emph on
 Avr 
 \emph default
@@ -1588,55 +1685,25 @@ Avr
 \end_layout
 
 \begin_layout Standard
-However, in the interactions between 
+Specific products which have co-evolved in the interactions between host
+ and pathogen include toxins (either general, or host specific) and effectors
+ on the pathogen side, and elicitors and other 
 \emph on
-H.
- annosum s.l.
- 
+R 
 \emph default
-and 
+gene products on the host side.
+ Effectors act to suppress host defense systems, which in turn drives the
+ host to the development of 
 \emph on
-P.
- abies
+R 
 \emph default
-, resistance of the host and virulence of the pathogen are quantitative
- traits which are under the control of many different genes.
- 
-\end_layout
-
-\begin_layout Standard
-Overall, coevolution is a important driving factor in the development of
- resistant strains of a plant.
- However, in instances where a potential host has been excluded from a pathogen,
- resistance may not be possible after the pathogen is introduced.This type
- of novel interaction between susceptible host and introduced pathogen can
- cause devastating damages to a species which has not had the chance to
- coevolve alongside the pathogen.
- Perhaps the best known case of an introduced pathogen having devastating
- effects on a new host is the introduction of 
+gene products which recognize and neutralize the pathogen effectors.
+ Finally, pathogens will evolve changes to their (now) unsuitable effectors
+ to avoid the newly adapted 
 \emph on
-Cryphonectria parasitica, 
+R 
 \emph default
-a fungal pathogen from Asia into the eastern areas of North America in the
- early 1900's.
- Due to the introduction 
-\emph on
-C.
- parasitica
-\emph default
-, the causal agent of chestnut blight, The American chestnut was reduced
- from a once dominant species across much of the eastern United States to
- a mere pittance.
- Other pathogens which have been introduced and caused great damages include
- 
-\emph on
-Phytophthora ramorum, 
-\emph default
-the agent responsible for the sudden oak death, and various 
-\emph on
-Ophiostoma
-\emph default
- species which have caused various epidemics of Dutch elm disease.
+proteins.
  
 \end_layout
 
@@ -1659,6 +1726,58 @@ Coevolutionary arms race.
 \end_layout
 
 \begin_layout Standard
+Overall, co-evolution is a important driving factor in the development of
+ resistant strains of a plant.
+ However, in instances where a potential host has been excluded from the
+ presence of pathogen, resistance of the host may be greatly reduced, or
+ nonexistent all together for the newly introduced pathogen.
+ This type of novel interaction between susceptible host and introduced
+ pathogen can cause devastating damages to a species which has not had the
+ chance to coevolve alongside the pathogen.
+ Perhaps the best known case of an introduced pathogen having devastating
+ effects on a new host is the introduction of 
+\emph on
+Cryphonectria parasitica, 
+\emph default
+a fungal pathogen from Asia into the eastern areas of North America in the
+ early 1900's 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Anagnostakis1987"
+
+\end_inset
+
+.
+ Due to the introduction 
+\emph on
+C.
+ parasitica
+\emph default
+, the causal agent of chestnut blight, The American chestnut was reduced
+ from a once dominant species across much of the eastern United States to
+ a mere pittance
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Anagnostakis1987"
+
+\end_inset
+
+.
+ Other pathogens which have been introduced and caused great damages include
+ 
+\emph on
+Phytophthora ramorum, 
+\emph default
+the agent responsible for the sudden oak death, and various 
+\emph on
+Ophiostoma
+\emph default
+ species which have caused various epidemics of Dutch elm disease in both
+ North America and Europe.
+ 
+\end_layout
+
+\begin_layout Standard
 Differences in generation times between host and pathogen can also influence
  the coevolution of the species.
  For example, 
@@ -1666,12 +1785,12 @@ Differences in generation times between host and pathogen can also influence
 P.
  abies,
 \emph default
- as with most coniferous trees have long generational periods versus 
+ as with most coniferous trees, has long generational periods versus 
 \emph on
 H.
  annosum 
 \emph default
-which may reproduce much quicker leading to faster adaptations.
+which may reproduce much quicker, leading to faster adaptations by the pathogen.
  The shorter life cycles of the pathogen, as well as both asexual and sexual
  reproduction allow subsequent generations to select quickly for favorable
  traits and increased virulence against the slower generating host 
@@ -1682,6 +1801,45 @@ key "Gilbert2002"
 \end_inset
 
 .
+ However, in the interactions between 
+\emph on
+H.
+ annosum s.l.
+ 
+\emph default
+and 
+\emph on
+P.
+ abies
+\emph default
+, resistance of the host and virulence of the pathogen are quantitative
+ traits which are under the control of many different genes.
+ Specific genes which control for resistance to 
+\emph on
+H.
+ annosum 
+\emph default
+are not fully known; however, recent efforts have begun to make some progress
+ towards identifying promising regions in the genome of 
+\emph on
+P.
+ abies.
+ 
+\emph default
+for quantitative resistance traits 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Lind2014"
+
+\end_inset
+
+.
+ Finally, it is important to understand that most coevolutionary processes
+ happen continuously in the context of host and pathogen interactions; either
+ host or pathogen may eventually adapt to overcome the defenses or offenses
+ of their compliment, changing the evolutionary direction of the compliment
+ to attempt to adapt to the new challenge.
+  
 \end_layout
 
 \begin_layout Subsection
@@ -1776,6 +1934,34 @@ key "Hietala2004"
 \emph default
 ) found that the more resistant clone produced higher levels of chitinase,
  sooner, after artificial inoculations than did the less resistant clone.
+ Furthermore, a study by 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Napieraa-Filipiak2012a"
+
+\end_inset
+
+ found that resistance in Scots pine seedings to artificial infection with
+ 
+\emph on
+H.
+ annosum s.s.
+ 
+\emph default
+was higher when seeds were sourced from naturally regenerated forests with
+ high natural incidences of root rot.
+
+\emph on
+ 
+\end_layout
+
+\begin_layout Standard
+Broad sense heritability, 
+\begin_inset Formula $H^{2}$
+\end_inset
+
+is defined as the variation of the genotype divided by the variation of
+ the phenotype.
  Overall variance in broad sense heritability of the fungal extension in
  seventeen year old Norway spruce clones artificially inoculated with 
 \emph on
@@ -1897,61 +2083,6 @@ H.
 status open
 
 \begin_layout Plain Layout
-Move below to end of introduction
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-This study addresses several aspects of 
-\emph on
-H.
- parviporum 
-\emph default
-infections in 
-\emph on
-P.
- abies 
-\emph default
-which help to address the lack of knowledge about several aspects of the
- epidemiology of annosum root rot.
- First, the study examines the potential for influence of historical isolation
- of 
-\emph on
-P.
- abies
-\emph default
- from the 
-\emph on
-H.
- parviporum
-\emph default
-, and seeks to address whether a lack of co-evolution in recent history
- could influence the ability of the host to defend against an introduced
- pathogen.
- Secondly, this study address the variation in lesions produced in both
- roots and the stem organs of the host tree.
- This study also addresses differences in variation based on the different
- tissues in both stem and organ.
- This study utilizes non-clonal genotypes for experimental units, helping
- to address and understand the variations in resistance that would be expected
- in natural populations of 
-\emph on
-P.
- abies.
- 
-\emph default
-Lastly, the analysis for this study is done utilizing a mixed effect model
- which takes into account the inherent nesting and hierarchy of the data
- collected, and presents the variation observed due to both fixed and random
- effects.
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
 MOVE BELOW NOTE TO DISCUSSION AND REFORMAT
 \end_layout
 
@@ -2027,7 +2158,7 @@ Mixed Effects Models in Ecology
 status open
 
 \begin_layout Plain Layout
-Citations? Examples swedjmark using BLUPS or mixed models
+DONE : Citations? Examples swedjmark using BLUPS or mixed models
 \end_layout
 
 \end_inset
@@ -2042,7 +2173,7 @@ es both fixed and random effects.
  and controlled for in the design of the experiment.
  Random effects are the effects of grouping or clustering present in the
  data.
- For example, a study utilizing multiple randomized sites, it would also
+ For example, in a study utilizing multiple randomized sites, it would also
  be appropriate to include this as a random effect.
  Subject units as a group can also be considered as a random effect, as
  well as any subsequent levels of groupings related to an individual in
@@ -2052,13 +2183,91 @@ es both fixed and random effects.
  Finally, the mixed effects model addresses issues with non-normal data,
  or data from experiments which are unbalanced, data which are correlated,
  or other shortcomings in data which render it unsuitable for analysis utilizing
- standard statistical techniques such as ANOVA.
+ standard statistical techniques such as ANOVA or simple linear models 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Bolker2009"
+
+\end_inset
+
+.
+ Mixed effects models have been used in limited amounts in similar studies,
+ i.e., 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Swedjemark2004a,Karlsson2006"
+
+\end_inset
+
+.
  In this study, the analysis of the collected data is done with a mixed
  effect model allowing for the interpretation of not only fixed effects
  on lesion size, but also a broad analysis of the different variation that
  exists within the study due to repeated measurements and nesting, which
  could not be done concisely with other techniques such as ANOVA.
  
+\end_layout
+
+\begin_layout Subsection
+Summary of Introduction
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Moved from 1.5
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+This study addresses several aspects of 
+\emph on
+H.
+ parviporum 
+\emph default
+infections in 
+\emph on
+P.
+ abies 
+\emph default
+which help to address the lack of knowledge about several aspects of the
+ epidemiology of annosum root rot.
+ First, the study examines the potential for influence of historical isolation
+ of 
+\emph on
+P.
+ abies
+\emph default
+ from the 
+\emph on
+H.
+ parviporum
+\emph default
+, and seeks to address whether a lack of co-evolution in recent history
+ could influence the ability of the host to defend against an introduced
+ pathogen.
+ Secondly, this study address the variation in lesions produced in both
+ roots and the stem organs of the host tree.
+ This study also addresses differences in variation based on the different
+ tissues in both stem and organ.
+ This study utilizes non-clonal genotypes for experimental units, helping
+ to address and understand the variations in resistance that would be expected
+ in natural populations of 
+\emph on
+P.
+ abies.
+ 
+\emph default
+Lastly, the analysis for this study is done utilizing a mixed effect model
+ which takes into account the inherent nesting and hierarchy of the data
+ collected, and presents the variation observed due to both fixed and random
+ effects.
 \end_layout
 
 \begin_layout Standard
@@ -2193,7 +2402,7 @@ Field Sites
 status open
 
 \begin_layout Plain Layout
-Describe the root diameters in Rovaniemi
+DONE BRIEFLY : Describe the root diameters in Rovaniemi
 \end_layout
 
 \end_inset
@@ -2218,6 +2427,8 @@ H.
 ed), with estimates of age ranging from 30-60 years old.
  Soils in the northern site were rockier, versus softer soils in the southern
  field site.
+ Trees in Rovaniemi had visibly significantly smaller root systems than
+ those in Lapinjärvi, although no measurements were taken.
  At each of the two field sites, a total of fifteen trees were selected
  for each treatment group; wounding control, and infection.
  Trees which were obviously damaged due to biotic or anthropogenic factors,
@@ -2236,7 +2447,7 @@ The culture of
 H.
  parviporum
 \emph default
-, isolate number 03014 (Kari Korhonen) was used for this study.
+, isolate #03014 (Kari Korhonen) was used for this study.
  The isolated was obtained from a Norway spruce tree in Kuhmoinen, central
  Finland.
  The culture was maintained on 2% malt extract agar and kept at 4º Celsius.
@@ -2402,7 +2613,50 @@ Before lesion measurements and analysis, the samples were processed.
  a mallet, scalpel, and woodworking chisels to expose the xylem tissue.
  Lesions present in the xylem tissue were photographed and measured in the
  same manner as the phloem tissue.
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename C:/Users/user/Documents/Courses/Thesis/schematicswip.gif
+	scale 40
+	BoundingBox 0cm 0mm 960bp 720bp
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\size footnotesize
+\emph on
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+
+\size footnotesize
+Schematic representation of inoculations (A) on stem and roots, and measurements
+ taken (B) from resulting lesions after the experiment.
+ In (B), measurements are for lesions extension upwards from inoculation
+ dowel (1), extension downwards from inoculation dowel (2), extension to
+ right or left from inoculation dowel (3,4), and total length of the lesion
+ (5) .
+ The red circle in (B) outlines the inoculation dowel.
  
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Subsection
@@ -2436,7 +2690,7 @@ Let
 \begin_inset Formula $y$
 \end_inset
 
- is described by 
+ is described by equation 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "eq:1"
