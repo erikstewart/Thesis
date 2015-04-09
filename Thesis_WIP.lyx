@@ -6,6 +6,7 @@
 \begin_preamble
  \usepackage{pdflscape}
 \pagenumbering{roman}
+\providecommand{\BIBand}{and}
 \end_preamble
 \use_default_options true
 \begin_modules
@@ -1655,7 +1656,7 @@ R
 \emph default
  or 
 \emph on
-avr
+Avr
 \emph default
  genes do not necessarily interact directly with one another.
  In some cases, the product of an 
@@ -1698,7 +1699,7 @@ gene products on the host side.
 R 
 \emph default
 gene products which recognize and neutralize the pathogen effectors.
- Finally, pathogens will evolve changes to their (now) unsuitable effectors
+ Over time, pathogens will evolve changes to their (now) unsuitable effectors
  to avoid the newly adapted 
 \emph on
 R 
@@ -1753,7 +1754,7 @@ key "Anagnostakis1987"
 C.
  parasitica
 \emph default
-, the causal agent of chestnut blight, The American chestnut was reduced
+, the causal agent of chestnut blight, the American chestnut was reduced
  from a once dominant species across much of the eastern United States to
  a mere pittance
 \begin_inset CommandInset citation
@@ -1862,7 +1863,8 @@ key "Delatour1998"
 \end_inset
 
 .
- Lesions are created in response to wounding or a pathogen by the host tree.
+ Lesions are created in response to wounding or from infection via a pathogen
+ by the host tree.
  In cases where a pathogen, i.e., 
 \emph on
 H.
@@ -1893,7 +1895,8 @@ for a period of time before measuring the resulting lesions.
  Most incoluation experiments with 
 \emph on
 H.
- annosum
+ annosum s.l.
+
 \emph default
  have focused on stem inoculations.
  However, as the roots represent the natural infection pathway for the pathogen,
@@ -1919,8 +1922,39 @@ emphasize that resistance is heritable.
 
 \begin_layout Standard
 Potential factors affecting resistance traits of individual trees are influenced
- by genetics.
- A study by 
+ by genetics, and resistance can be both a quantitative trait or absolute
+ depending on the pathosystem.
+ For example, white pine blister rust caused by 
+\emph on
+Cronartium ribicola
+\emph default
+ is an invasive pathogen, and resistance developments via breeding programs
+ for this pathosystem are largely quantitative.
+ Conversely, a native fusiform rust caused by 
+\emph on
+Cronartium quercuum
+\emph default
+ f.
+ sp.
+ 
+\emph on
+fusiforme
+\emph default
+ which infects various pines in north America more often encounters total
+ genetic resistance to infection versus the invasive 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Sniezko2014"
+
+\end_inset
+
+.
+ 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+REMOVED: A study by 
 \begin_inset CommandInset citation
 LatexCommand citet
 key "Hietala2004"
@@ -1934,14 +1968,18 @@ key "Hietala2004"
 \emph default
 ) found that the more resistant clone produced higher levels of chitinase,
  sooner, after artificial inoculations than did the less resistant clone.
- Furthermore, a study by 
+\end_layout
+
+\end_inset
+
+Furthermore, a study by 
 \begin_inset CommandInset citation
 LatexCommand citet
 key "Napieraa-Filipiak2012a"
 
 \end_inset
 
- found that resistance in Scots pine seedings to artificial infection with
+ found that resistance in Scots pine seedlings to artificial infection with
  
 \emph on
 H.
@@ -1949,10 +1987,8 @@ H.
  
 \emph default
 was higher when seeds were sourced from naturally regenerated forests with
- high natural incidences of root rot.
-
-\emph on
- 
+ high natural incidences of root rot, demonstrating some amount of heritability
+ of quantitative resistance factors.
 \end_layout
 
 \begin_layout Standard
@@ -1960,8 +1996,8 @@ Broad sense heritability,
 \begin_inset Formula $H^{2}$
 \end_inset
 
-is defined as the variation of the genotype divided by the variation of
- the phenotype.
+, is defined as the variation of the genotype in question divided by the
+ variation of the phenotype.
  Overall variance in broad sense heritability of the fungal extension in
  seventeen year old Norway spruce clones artificially inoculated with 
 \emph on
@@ -2045,6 +2081,10 @@ H.
 \emph default
 which genes in particular have the most influence on resistance are not
  fully known.
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
  Recent studies have started to make progress towards identifying candidate
  
 \emph on
@@ -2076,6 +2116,11 @@ H.
 \emph default
  within the host, including infection success, fungal extension, and lesion
  formation.
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -3610,7 +3655,7 @@ Mean lesion size of the geometric response variable overall for site, as
 status open
 
 \begin_layout Plain Layout
-add ^2 to the lesion geometric response variable 
+DONE: add ^2 to the lesion geometric response variable 
 \end_layout
 
 \end_inset
@@ -5852,24 +5897,25 @@ H.
  One possible explanation for this observation is due to the sizes of roots
  inoculated.
  In Rovaniemi, the sizes of roots utilized for the inoculations was significantl
-y smaller than the average root sizes in Lapinjärvi; a study by 
-\begin_inset CommandInset citation
-LatexCommand citet
-key "Garbelotto1997"
-
-\end_inset
-
- found a positive correlation between root diameter and fungal growth
+y smaller than the average root sizes in Lapinjärvi; a study by Garbelotto
+ and Slaughter (1997)
 \begin_inset Note Note
 status open
 
 \begin_layout Plain Layout
-Make sure to mention in methods about root sizes in Rovaniemi
+Hard coded citation to deal with pesky ampersand: 
+\begin_inset CommandInset citation
+LatexCommand citet*
+key "Garbelotto1997"
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
 
-.
+ found a positive correlation between root diameter and fungal growth.
  Refitting the model using only data from the Lapinjärvi or Rovaniemi field
  sites does change the significance of the organ variable; in Lapinjärvi
  the variable is a significant predictor, whereas in Rovaniemi it is not,
@@ -6498,6 +6544,23 @@ Finally, the use of a mixed effects model to analyze the complex nature
 \end_layout
 
 \begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+providecommand{
+\backslash
+BIBand}{
+\backslash
+&}
+\end_layout
+
+\end_inset
+
+
 \begin_inset CommandInset bibtex
 LatexCommand bibtex
 bibfiles "C:/Users/user/Documents/library"
