@@ -2377,7 +2377,7 @@ Differences in growing site location, as well as differences in genetic
  the site level.
  Because it is believed that the area in Rovaniemi has been largely isolated
  from the pressures of the pathogen, it is assumed that this will decrease
- resistance response to the pathogen in comparison to trees at the Lapinjarvi
+ resistance response to the pathogen in comparison to trees at the Lapinjärvi
  site.
  This effect was tested by inoculations in a balanced design experiment
  across two field sites, and further analyzed by utilizing a mixed effects
@@ -2469,7 +2469,7 @@ H.
  35 years, from natural, non clonal stock representative of the natural
  local populations of Norway Spruce.
  In Lapinjärvi, the site was comprised of naturally regenerated trees (non-plant
-ed), with estimates of age ranging from 30-60 years old.
+ed), with estimates of age at 20 years or less.
  Soils in the northern site were rockier, versus softer soils in the southern
  field site.
  Trees in Rovaniemi had visibly significantly smaller root systems than
@@ -2757,20 +2757,6 @@ y=(x_{1}x{}_{2})\label{eq:1}
 \end_layout
 
 \begin_layout Standard
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-INSERT CHART OF HEIARCHICAL DATA STRUCTURE HERE; EXPLAIN BRIEFLY NEEDS FOR
- THE STRUCTURE
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 Analysis of the data  was conducted using R 3.1.2 (R Core Team, 2014), and
  packages lme4 
 \begin_inset CommandInset citation
@@ -2924,11 +2910,18 @@ is the vector of the random effects coefficients, and
 \begin_layout Standard
 Graphics were composed with R 3.1.2 and packages ggplot2, lattice, and gridExtra
  
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Auguie2012,Hadley2009,Sarkar2008"
+
+\end_inset
+
+.
 \begin_inset Note Note
 status open
 
 \begin_layout Plain Layout
-(FORMAT CITATION PROPERLY FOR THIS PACKAGE)
+DONE: (FORMAT CITATION PROPERLY FOR THIS PACKAGE)
 \end_layout
 
 \end_inset
@@ -2969,25 +2962,13 @@ status open
 \uwave default
 \noun default
 \color inherit
-, a Q-Q plot was created (see Figure X.x in appendix), and when data visually
- violated assumptions of normality, a log natural transform was used to
- attempt to bring the data into conformation of the normal distribution,
- and a subsequent histogram was utilized to verify the changes in the response
- variable.
+, a Q-Q plot was created, and when data visually violated assumptions of
+ normality, a log natural transform was used to attempt to bring the data
+ into conformation of the normal distribution, and a subsequent histogram
+ was utilized to verify the changes in the response variable.
  In elementary statistics comparing the sizes of lesion measurements, a
  constant of 1.0 was added to all measurements to correct in rare instances
  where no visible lesion growth presented in one of the directions measured.
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-(See fix X.
- in the appendix)
-\end_layout
-
-\end_inset
-
-.
  
 \begin_inset Newpage pagebreak
 \end_inset
@@ -5114,6 +5095,9 @@ Random Effects
 \end_inset
 
 
+\end_layout
+
+\begin_layout Plain Layout
 \begin_inset Tabular
 <lyxtabular version="3" rows="5" columns="4">
 <features rotate="0" booktabs="true" tabularvalignment="middle">
@@ -5897,10 +5881,21 @@ H.
  One possible explanation for this observation is due to the sizes of roots
  inoculated.
  In Rovaniemi, the sizes of roots utilized for the inoculations was significantl
-y smaller than the average root sizes in Lapinjärvi; a study by 
+y smaller than the average root sizes in Lapinjärvi; a study by Garbelotto
+ and Slaughter (1997)
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Hard coded citation to deal with pesky ampersand: 
 \begin_inset CommandInset citation
-LatexCommand citet
+LatexCommand citet*
 key "Garbelotto1997"
+
+\end_inset
+
+
+\end_layout
 
 \end_inset
 
@@ -6560,12 +6555,147 @@ options "authordate1"
 
 \end_layout
 
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
 \begin_layout Section
 Appendix
 \end_layout
 
+\begin_layout Subsection
+Maps
+\end_layout
+
 \begin_layout Standard
-Outliers
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename C:/Users/user/Documents/Courses/Thesis/Figures for thesis/TopoLapinjarvi.png
+	lyxscale 35
+	scale 70
+
+\end_inset
+
+
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Map of Lapinjärvi Field Site
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename C:/Users/user/Documents/Courses/Thesis/Figures for thesis/TopoRovaniemi.png
+	lyxscale 35
+	scale 70
+
+\end_inset
+
+
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Map of Rovaniemi Field Site
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Map of Lapinjärvi Field Site Map of Rovaniemi Field Site
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Normality of Data and Outliers
+\end_layout
+
+\begin_layout Standard
+The geometric response variable violated assumptions of normality.
+ A natural logarithm transform was applied to the data resulting in a much
+ closer to normal structure of the data (figure 8).
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement h
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename C:/Users/user/Documents/Courses/Thesis/Figures for thesis/GeometricResponseHistograms.pdf
+	scale 70
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+
+\emph on
+Histogram of the geometric response variable, 
+\begin_inset Formula $y$
+\end_inset
+
+, and transformed geometric response variable 
+\begin_inset Formula $log_{e}(y)$
+\end_inset
+
+, indicating a lack of normality in the uncorrected data.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -6584,7 +6714,7 @@ To determine if any trees had significant influence on the parameter estimates,
 \end_inset
 
  for determining overly influential observations only indicates tree RT2
- as overly influential (see figure X.x) when considering the influence upon
+ as overly influential (see Figure 9) when considering the influence upon
  all fixed effects.
  
 \end_layout
@@ -6615,7 +6745,163 @@ Cook's Distance for all Trees
 
 \end_layout
 
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Model Comparison
+\end_layout
+
+\begin_layout Standard
+Several models were constructed before settling upon a final model.
+ To compare models, an ANOVA was used to select evaluate the most informative
+ model.
+ However, as the calculation of proper degrees of freedom with restricted
+ estimate of maximum likelihood for random effects is non-trivial, so models
+ were refit using maximum likelihood.
+ Three models were compared; the most elementary model included only tree
+ level random effects groupings.
+ The next model included full specification of random effects as in the
+ full model, but did not include any interaction terms between fixed effects.
+ The final model contained full specifications of the random effects as
+ well as all two way interactions between fixed effects.
+ The full model including interactions as well as full specification of
+ random effects is significantly better than the other models (
+\begin_inset Formula $\chi^{2}$
+\end_inset
+
+= 271.13, 
+\emph on
+P = < 0.001) .
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status open
+
 \begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Model Comparisons Table
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Tabular
+<lyxtabular version="3" rows="4" columns="2">
+<features rotate="0" tabularvalignment="middle">
+<column alignment="left" valignment="top" width="0pt">
+<column alignment="left" valignment="top" width="0pt">
+<row>
+<cell alignment="left" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Model Description
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Pr > 
+\begin_inset Formula $\chi^{2}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size small
+No Interactions, single random effect (Tree)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size small
+--
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size small
+No Interactions, full random effects
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size small
+1
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size small
+Full model
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size small
+< 0.001
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
 
 \end_layout
 
