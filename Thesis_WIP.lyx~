@@ -296,7 +296,7 @@ Norway Spruce (
 P.
  abies
 \emph default
-) in Fennoscandinavia
+) in Northern Europe
 \end_layout
 
 \begin_layout Standard
@@ -1892,7 +1892,7 @@ Inoculations are performed utilizing a sterilized wooden dowel which is
 in situ 
 \emph default
 for a period of time before measuring the resulting lesions.
- Most incoluation experiments with 
+ Most inoculation experiments with 
 \emph on
 H.
  annosum s.l.
@@ -1901,7 +1901,7 @@ H.
  have focused on stem inoculations.
  However, as the roots represent the natural infection pathway for the pathogen,
  more research into the differences between lesions response in the stems
- and roots is necessary.
+ and roots could be beneficial to better understanding pathosystem dynamics.
  
 \end_layout
 
@@ -1922,8 +1922,8 @@ emphasize that resistance is heritable.
 
 \begin_layout Standard
 Potential factors affecting resistance traits of individual trees are influenced
- by genetics, and resistance can be both a quantitative trait or absolute
- depending on the pathosystem.
+ by genetics, and resistance can be a quantitative trait or absolute depending
+ on the pathosystem.
  For example, white pine blister rust caused by 
 \emph on
 Cronartium ribicola
@@ -1942,6 +1942,11 @@ fusiforme
 \emph default
  which infects various pines in north America more often encounters total
  genetic resistance to infection versus the invasive 
+\emph on
+Cronartium ribicola.
+
+\emph default
+ 
 \begin_inset CommandInset citation
 LatexCommand citet
 key "Sniezko2014"
@@ -1987,7 +1992,7 @@ H.
  
 \emph default
 was higher when seeds were sourced from naturally regenerated forests with
- high natural incidences of root rot, demonstrating some amount of heritability
+ high natural incidences of root rot, suggesting some amount of heritability
  of quantitative resistance factors.
 \end_layout
 
@@ -6562,11 +6567,13 @@ options "authordate1"
 
 \end_layout
 
-\begin_layout Section
-Appendix
+\begin_layout Section*
+\start_of_appendix
+
+Appendix 1
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Subsection*
 Maps
 \end_layout
 
@@ -6644,7 +6651,18 @@ Map of Lapinjärvi Field Site Map of Rovaniemi Field Site
 
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+Appendix 2
+\end_layout
+
+\begin_layout Subsection*
 Normality of Data and Outliers
 \end_layout
 
@@ -6719,6 +6737,10 @@ To determine if any trees had significant influence on the parameter estimates,
  
 \end_layout
 
+\begin_layout Section*
+Appendix 2
+\end_layout
+
 \begin_layout Standard
 \begin_inset Float figure
 placement H
@@ -6750,7 +6772,18 @@ Cook's Distance for all Trees
 
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+Appendix 3
+\end_layout
+
+\begin_layout Subsection*
 Model Comparison
 \end_layout
 

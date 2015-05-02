@@ -296,7 +296,7 @@ Norway Spruce (
 P.
  abies
 \emph default
-) in Fennoscandinavia
+) in Northern Europe
 \end_layout
 
 \begin_layout Standard
@@ -1892,7 +1892,7 @@ Inoculations are performed utilizing a sterilized wooden dowel which is
 in situ 
 \emph default
 for a period of time before measuring the resulting lesions.
- Most incoluation experiments with 
+ Most inoculation experiments with 
 \emph on
 H.
  annosum s.l.
@@ -1901,7 +1901,7 @@ H.
  have focused on stem inoculations.
  However, as the roots represent the natural infection pathway for the pathogen,
  more research into the differences between lesions response in the stems
- and roots is necessary.
+ and roots could be beneficial to better understanding pathosystem dynamics.
  
 \end_layout
 
@@ -6567,11 +6567,51 @@ options "authordate1"
 
 \end_layout
 
-\begin_layout Section
-Appendix
+\begin_layout Section*
+\start_of_appendix
+
+Appendix 1
+\lang english
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+pagenumbering{gobble}
 \end_layout
 
-\begin_layout Subsection
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+setcounter{figure}{0} 
+\backslash
+renewcommand{
+\backslash
+thefigure}{A.
+\backslash
+arabic{figure}} 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection*
 Maps
 \end_layout
 
@@ -6649,14 +6689,25 @@ Map of Lapinjärvi Field Site Map of Rovaniemi Field Site
 
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+Appendix 2
+\end_layout
+
+\begin_layout Subsection*
 Normality of Data and Outliers
 \end_layout
 
 \begin_layout Standard
 The geometric response variable violated assumptions of normality.
  A natural logarithm transform was applied to the data resulting in a much
- closer to normal structure of the data (figure 8).
+ closer to normal structure of the data.
 \end_layout
 
 \begin_layout Standard
@@ -6724,6 +6775,10 @@ To determine if any trees had significant influence on the parameter estimates,
  
 \end_layout
 
+\begin_layout Section*
+Appendix 2
+\end_layout
+
 \begin_layout Standard
 \begin_inset Float figure
 placement H
@@ -6755,7 +6810,18 @@ Cook's Distance for all Trees
 
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+Appendix 3
+\end_layout
+
+\begin_layout Subsection*
 Model Comparison
 \end_layout
 
