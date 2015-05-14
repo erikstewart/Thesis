@@ -95,7 +95,11 @@ enumitem
 \begin_body
 
 \begin_layout Title
-Working Title: Suggestions Welcome
+
+\emph on
+Heterobasidion parviporum 
+\emph default
+Lesion Analysis in two Norway Spruce Field Sites in Finland
 \end_layout
 
 \begin_layout Date
@@ -260,8 +264,8 @@ sensu lato.
 \emph on
 H.
  annosum s.l.
+
 \emph default
-.
  is greater than 800 million euros annually; as such, it is important to
  study the pathogen and host to better understand the complex nature of
  infection biology and resistance factors, which hold the potential for
@@ -271,9 +275,9 @@ H.
  annosum s.l..
 
 \emph default
- is prevalent
+ is prevalent 
 \begin_inset CommandInset citation
-LatexCommand citet
+LatexCommand citep
 key "Stenlid1998"
 
 \end_inset
@@ -300,8 +304,8 @@ P.
 \end_layout
 
 \begin_layout Standard
-Norway spruce, despite it's name, established itself in Northern Europe
- via Eastern Finland approximately 6,500 years ago 
+Norway spruce, despite it's name, established itself in northern Europe
+ via eastern Finland approximately 6,500 years ago 
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Seppa2009"
@@ -310,7 +314,7 @@ key "Seppa2009"
 
 .
  However, in this relatively short period of time, Norway spruce has become
- one of the most dominant forest trees in of Northern Europe, owing partially
+ one of the most dominant forest trees in of northern Europe, owing partially
  to the fact that Norway spruce has high genetic plasticity 
 \begin_inset CommandInset citation
 LatexCommand citep
@@ -353,17 +357,16 @@ TALK ABOUT SHADE LOVING, Generation times, etc.
 
 \begin_layout Standard
 Norway spruce is a shade tolerant conifer, which grows at the final stages
- of ecological succession 
+ of ecological succession.
 \begin_inset Note Note
 status open
 
 \begin_layout Plain Layout
-SOURCE
+SOURCE -->2nd sentence
 \end_layout
 
 \end_inset
 
-.
  A tolerance for shade allows 
 \emph on
 P.
@@ -575,13 +578,13 @@ However, the degradation of host tissues to the point of lethality may take
  Due to the mortal nature of infections by 
 \emph on
 H.
- annosum, 
+ annosum s.l., 
 \emph default
 knowledge of the life-cycle and infection biology of the pathogen is critical
  to understanding how best to deal with the pathogen in areas where 
 \emph on
 H.
- annosum.
+ annosum s.l.
  
 \emph default
 present a problem in forestry industries.
@@ -644,9 +647,9 @@ key "Garbelotto2007"
 
 \end_inset
 
- indicated little to no observed hybrids in nature is primarily due to ecologica
-l constraints, and higher competition from pure strains within the species
- complex.
+ speculated that little to no observations of hybrids in natural settings
+ is primarily due to ecological constraints, and higher competition from
+ pure strains within the species complex.
  
 \end_layout
 
@@ -709,24 +712,28 @@ key "Korhonen1998a"
 \end_inset
 
 .
- The northernmost observations of H.
- parviporum have occurred just south of 
+ The northernmost observations of 
+\emph on
+H.
+ parviporum
+\emph default
+ have occurred just south of the northernmost distribution of 
 \emph on
 P.
  abies
 \emph default
- northernmost distribution in Finland, at approximately 68º N.
+ in Finland, at approximately 68º N.
  Although the S-type intersterility group has been noted in these northernmost
  regions, it is not considered to be a problem in mechanized forestry situations
-, and its observations are rare.
- In sharp contrast with the other two intersterility groups, the F-type
- group (
+, and incidences of infections are rare.
+ In contrast with the other two intersterility groups, the F-type intersterility
+ species of the pathogen (
 \emph on
 H.
  abitenium) 
 \emph default
 is only found in southern and central Europe, with upper limits to it's
- distribution restricted by suitable host species range 
+ distribution restricted by suitable it's host species range 
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Korhonen1998a"
@@ -767,10 +774,9 @@ cannot generally infect healthy, undamaged tree tissues.
 s, and exacerbate the problem of 
 \emph on
 H.
- annosum s.l..
- 
+ annosum s.l.
 \emph default
-infections, leading to high rates of infection and heavy losses.
+, leading to high rates of infection and heavy losses.
  The primary way in which new infections are established in areas where
  commercial harvesting of forest trees is done is via basidiospore deposition
  onto freshly cut stump surfaces 
@@ -783,9 +789,9 @@ key "Redfern1998"
 .
  The actual infection process begins when a spore or mycelia reach a suitable
  host substrate.
- Adhesion of spores requires suitable substrate, generally a fresh wound
- exposing living tissues in host tree, or a stump through which subsequent
- spread to adjacent trees can occur.
+ Adhesion of spores requires suitable substrate, generally in the form of
+ a fresh wound exposing living tissues in host tree, or a stump through
+ which subsequent spread to adjacent trees can occur.
  Germination of spores occurs when spores land onto suitable host tissues,
  and environmental conditions are sufficient for the survival of the spores
  
@@ -796,7 +802,7 @@ key "Redfern1998,Redfern1993"
 \end_inset
 
 .
- After infection has been established 
+ After infection has been established, 
 \emph on
 H.
  annosum
@@ -814,7 +820,7 @@ H.
  annosum s.l.
  
 \emph default
-can also utilize many other sources of carbon 
+can also utilize other sources of carbon as well
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Korhonen1998"
@@ -832,9 +838,19 @@ H.
  
 \emph default
 spreads is via mycelial growth within suitable host substrate, or in very
- limited distances throughout soils.
- Infections can still occur in the immature roots of host trees, as this
- is the natural vector by which the pathogen spreads 
+ limited distances throughout soils
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+SOURCE?
+\end_layout
+
+\end_inset
+
+.
+ Infections can occur in the immature roots of host trees, as this is the
+ natural vector by which the pathogen spreads 
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Asiegbu1995,Johansson1985a"
@@ -845,13 +861,14 @@ key "Asiegbu1995,Johansson1985a"
  
 \emph on
 H.
- annosum s.l..
+ annosum s.l.
  
 \emph default
 do not have the ability to grow far in soil without suitable host substrate.
  However, root systems of an infected tree which are near to neighboring
- tree's root systems, or which are grafted can pass mycelium from the infected
- tree to the root systems of another tree.
+ tree's root systems, or which are grafted with the roots of another tree
+ can pass mycelium from the infected tree to the root systems of another
+ tree.
  Contact between roots of neighboring trees is also an important natural
  vector for the transmission of 
 \emph on
@@ -880,7 +897,7 @@ H.
  
 \emph default
 requires that two homokaryotic strains of differing genetic origin and with
- compatible mating loci fuse to form a heterokaryotic mycelium representing
+ compatible mating loci fuse to form a heterokaryotic mycelium containing
  the genetics of both parent strains.
  With sufficient climate and access to nutrients, the heterokaryotic mycelium
  can form a basidiocarp, generally on the lower portion of infected trees,
@@ -906,7 +923,8 @@ can also start new infections, but are not the primary source of new infections.
 \begin_layout Subsubsection
 Control of 
 \emph on
-Heterobasidion annosum
+H.
+ annosum s.l.
 \end_layout
 
 \begin_layout Standard
@@ -929,7 +947,7 @@ key "Makinen2007,Thor2005,Woodward1998"
 \end_inset
 
 .
- Primary methods of control of 
+ Primary methods for control of 
 \emph on
 H.
  annosum s.l.
@@ -937,7 +955,8 @@ H.
 \emph default
 include the careful use of equipment and attempts to minimize damage due
  to anthropogenic factors.
- Post harvest stumps provide an ideal suitable host substrate for 
+ Post harvest stumps left in place provide an ideal suitable host substrate
+ for 
 \emph on
 H.
  annosum s.l.
@@ -946,13 +965,22 @@ H.
 Thus, the most efficient and widely utilized control methods address the
  issue of suitable host tissue on freshly cut stumps by means of either
  chemical, biotic, or abiotic control in areas where infections have not
- been previously noted; however it is very difficult to control spread of
- 
+ been previously noted.
+ However it is very difficult to control spread of 
 \emph on
 H.
- annosum 
+ annosum s.l.
+ 
 \emph default
-in areas where the pathogen has previously been established 
+in areas where the pathogen has previously been established; in areas where
+ prior generations were infected, stumping after the harvest of the current
+ generation may be insufficient for controlling spread of 
+\emph on
+H.
+ annosum s.l.
+ 
+\emph default
+to the subsequent generations 
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Piri2003,Piri1996"
@@ -961,8 +989,18 @@ key "Piri2003,Piri1996"
 
 .
  Chemical control includes treatment of freshly cut stumps with urea, borax,
- or a fungicidal product like propiconizole, which can all be effective
- at reducing the likelihood of subsequent infection from 
+ or a fungicidal product like propiconizole
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+DOUBLE CHECK
+\end_layout
+
+\end_inset
+
+, which can all be effective at reducing the likelihood of subsequent infection
+ from 
 \emph on
 H.
  annosum s.l.
@@ -1005,8 +1043,8 @@ H.
  annosum s.l.
  
 \emph default
-includes removal of stumps and associated root materials, which provide
- an unchallenged substrate for infections to occur on for a period of time
+includes removal of stumps and associated root tissues, which provide an
+ unchallenged substrate for infections to occur on for a period of time
  after harvest when stump surfaces are susceptible 
 \begin_inset CommandInset citation
 LatexCommand citep
@@ -1067,12 +1105,12 @@ Constitutive Defenses in Conifers
 \end_layout
 
 \begin_layout Standard
-Constituent defenses present throughout conifers include various types of
- tissues and structures which are produced during regular, unchallenged
+Constitutive defenses present throughout conifers include various types
+ of tissues and structures which are produced during regular, unchallenged
  growth.
  Bark represents the outermost layer of defense in a conifer, and is comprised
  of several distinct tissues: periderm, cortex, phloem and cambial tissues.
- The periderm is highly suberized and hydrophobic which helps to inhibit
+ The periderm is highly suberized and hydrophobic, which helps to inhibit
  adhesion and germination of fungal spores
 \begin_inset CommandInset citation
 LatexCommand citep
@@ -1124,7 +1162,7 @@ P.
  Polyphenolic parenchyma (PP) cells are present throughout the trees phloem
  tissues, and store phenolic compounds which are released if the cells are
  damaged by wounding either from mechanical forces or via pathogen growth.
- The phenolic compounds have various anti microbial properties, and resistant
+ Phenolic compounds have various anti microbial properties, and resistant
  clones of 
 \emph on
 P.
@@ -1299,9 +1337,9 @@ H.
 \paragraph_spacing other 1.5
 \noindent
 Non-specific chemical based defenses in conifer periderm and sapwood tissues
- include oleoresin based defenses, increased lignification, as well as other
- accumulation of antimicrobial chemicals which are produced during normal
- plant growth, referred to as phytoanticipins 
+ include oleoresin based defenses, increased lignification, as well as accumulat
+ion of antimicrobial chemicals which are produced during normal plant growth,
+ referred to as phytoanticipins 
 \begin_inset CommandInset citation
 LatexCommand citep
 key "VanEtten1994"
@@ -1310,7 +1348,7 @@ key "VanEtten1994"
 
 .
  Oleoresins are present in sapwood tissues during the normal growth of many
- conifer species and are produced by a variety of specialized cells, depending
+ conifer species, and are produced by a variety of specialized cells depending
  on the genus.
  For example 
 \emph on
@@ -1325,9 +1363,9 @@ Abies spp.
 produce resin blisters; 
 \emph on
 Picea spp.
- 
+
 \emph default
-also lack centralized traumatic resin ducts, and show low levels of constituent
+ lack centralized traumatic resin ducts, and show low levels of constituent
  monoterperne cyclase activity 
 \begin_inset CommandInset citation
 LatexCommand citep
@@ -1337,7 +1375,7 @@ key "Lewinsohn1991"
 
 .
  However, oleoresin production can greatly increase in response to wounding
- or pathogenic attack in species such as 
+ or pathogenic attack in genus such as 
 \emph on
 Picea 
 \emph default
@@ -1365,7 +1403,7 @@ key "Bonello2006"
 \end_inset
 
 .
- Lignans, stilbenes and terpenoids are phytoalexin like compounds produced
+ Lignans, stilbenes and terpenoids are phytoalexin-like compounds produced
  in 
 \emph on
 P.
@@ -1396,10 +1434,10 @@ H.
 , broad changes occur in both the host and pathogen.
  Specific elicitors detected by a susceptible host can initiate changes
  to the physiology of the host both locally and systemically.
- Changes on the host include increased production of secondary metabolites
+ Changes in the host include increased production of secondary metabolites
  in response to the pathogen.
- Similarly, once the pathogen begins to encounter resistance, it will produce
- compounds which assist in overcoming tree defenses.
+ Similarly, once the pathogen begins to encounter resistance, it can produce
+ compounds which assist in overcoming the host defense systems.
  A study by
 \begin_inset CommandInset citation
 LatexCommand citet
@@ -1413,7 +1451,7 @@ H.
  parviporum 
 \emph default
 in Norway spruce had significant effects on reducing the subsequent necrosis
- and fungal growth in later inoculations.
+ and fungal growth in subsequent inoculations.
  Other factors can prime host tree defenses, prompting physiological changes
  which confer enhanced resistance to pathogens.
  Herbivory, volatile organic compounds, and colonization of the host with
@@ -1451,7 +1489,7 @@ A variety of signaling molecules are important in the induced defense in
  conifers.
  Methyl-jasmonate is an important signaling molecule (produced when a tree
  is under attack) which induces a wide variety of changes to conifer tissues,
- including traumatic resin duct formation and increased production of terpenoid
+ including traumatic resin duct formation, and increased production of terpenoid
  based resin defenses
 \begin_inset CommandInset citation
 LatexCommand citep
@@ -1460,10 +1498,9 @@ key "Martin2002,Hudgins2004,Hudgins2004a,Hudgins2003"
 \end_inset
 
 .
- Salicylic acid is another signaling molecule which is important for systemic
- acquired resistance (SAR), although the exact nature by which salicylic
- acid enables SAR is not fully understood.
- Finally ethylene is an important molecule in the signaling pathways of
+ Salicylic acid is important for systemic acquired resistance (SAR), although
+ the exact nature by which salicylic acid enables SAR is not fully understood.
+ Finally, ethylene is an important molecule in the signaling pathways of
  conifer defenses, which is influenced by the production of Methyl-jasmonate
  
 \begin_inset CommandInset citation
@@ -1504,8 +1541,7 @@ H.
 Norway spruce has differing levels of resistance to infection by 
 \emph on
 H.
- annosum s.l.
-
+ annosum s.l.,
 \emph default
  depending on a variety of factors including genetics, tree age, and overall
  health 
@@ -1521,7 +1557,7 @@ key "Hietala2003,Swedjemark1998,Delatour1998"
 P.
  abies
 \emph default
- is not known to have outright immunity to the pathogen, and once established,
+ is not known to have outright immunity to the pathogen, and, once established,
  disease progress will eventually kill off the host tree after degrading
  sufficient portions of essential tissues.
  Because there is no known 
@@ -1569,7 +1605,7 @@ key "Asiegbu2005,Lindberg1992,Redfern1993"
 \end_layout
 
 \begin_layout Subsubsection
-Host Pathogen Co-evolution 
+Host Pathogen coevolution 
 \begin_inset Note Note
 status open
 
@@ -1583,7 +1619,7 @@ Effectors + Toxins?
 \end_layout
 
 \begin_layout Standard
-Co-evolution between plants and pathogens is driven by their interactions
+coevolution between plants and pathogens is driven by their interactions
  with one another over time.
  Differential pressures imposed by either host or pathogen onto the other
  shape the way in which the organisms interact with one another, and over
@@ -1597,9 +1633,9 @@ differences in life cycles
 
 \end_inset
 
-, resistance or susceptibility, and levels of virulence.
- Theories of plant pathogen co-evolution typically include the gene for
- gene model wherein one or more resistance genes (
+, resistance or susceptibility, and differing levels of virulence.
+ Theories of plant pathogen coevolution typically include the gene for gene
+ model wherein one or more resistance genes (
 \emph on
 R
 \emph default
@@ -1641,7 +1677,7 @@ key "Fossdal2012a"
 \end_inset
 
 .
- Additional evidence exists for the importance of plant-pathogen co-evolution
+ Additional evidence exists for the importance of plant-pathogen coevolution
  in the positive selection of effective PR-proteins 
 \begin_inset CommandInset citation
 LatexCommand citep
@@ -1675,18 +1711,26 @@ guard
 \emph on
 Avr 
 \emph default
-product, and only initiates resistance when the target host protein (guardee)
- interacts with pathogens 
+product, and only initiates resistance when the target host protein (
+\begin_inset Quotes eld
+\end_inset
+
+guardee
+\begin_inset Quotes erd
+\end_inset
+
+) interacts with the pathogens 
 \emph on
 Avr
 \emph default
  product.
- This interaction is called the guard hypothesis.
+ This interaction, and subsequent elicitation of further defense mechanisms
+ within the host of is called the guard hypothesis.
  
 \end_layout
 
 \begin_layout Standard
-Specific products which have co-evolved in the interactions between host
+Specific products which have coevolved in the interactions between host
  and pathogen include toxins (either general, or host specific) and effectors
  on the pathogen side, and elicitors and other 
 \emph on
@@ -1715,7 +1759,7 @@ status open
 \begin_layout Plain Layout
 Coevolutionary arms race.
  Find papers dealing with adaptations.
- Naive hosts; chestnut blight.
+ DONE: Naive hosts; chestnut blight.
  white pine blister rust.
  Introduced species.
  Dutch Elm
@@ -1727,14 +1771,14 @@ Coevolutionary arms race.
 \end_layout
 
 \begin_layout Standard
-Overall, co-evolution is a important driving factor in the development of
+Overall, coevolution is a important driving factor in the development of
  resistant strains of a plant.
  However, in instances where a potential host has been excluded from the
  presence of pathogen, resistance of the host may be greatly reduced, or
  nonexistent all together for the newly introduced pathogen.
- This type of novel interaction between susceptible host and introduced
- pathogen can cause devastating damages to a species which has not had the
- chance to coevolve alongside the pathogen.
+ This interaction between susceptible host and introduced pathogen can cause
+ devastating damages to a species which has not had the chance to coevolve
+ alongside the pathogen.
  Perhaps the best known case of an introduced pathogen having devastating
  effects on a new host is the introduction of 
 \emph on
@@ -1789,12 +1833,15 @@ P.
  as with most coniferous trees, has long generational periods versus 
 \emph on
 H.
- annosum 
+ annosum s.l.
+ 
 \emph default
-which may reproduce much quicker, leading to faster adaptations by the pathogen.
+which generally reproduces much quicker, leading to faster adaptations by
+ the pathogen.
  The shorter life cycles of the pathogen, as well as both asexual and sexual
- reproduction allow subsequent generations to select quickly for favorable
- traits and increased virulence against the slower generating host 
+ reproduction modes allows subsequent generations to select quickly for
+ favorable traits and increased virulence against the slower generating
+ host 
 \begin_inset CommandInset citation
 LatexCommand citet
 key "Gilbert2002"
@@ -1815,7 +1862,12 @@ P.
 \emph default
 , resistance of the host and virulence of the pathogen are quantitative
  traits which are under the control of many different genes.
- Specific genes which control for resistance to 
+ Specific genes in 
+\emph on
+P.
+ abies 
+\emph default
+which control for resistance to 
 \emph on
 H.
  annosum 
@@ -1863,7 +1915,7 @@ key "Delatour1998"
 \end_inset
 
 .
- Lesions are created in response to wounding or from infection via a pathogen
+ Lesions are created in response to wounding, or from infection via a pathogen
  by the host tree.
  In cases where a pathogen, i.e., 
 \emph on
@@ -1884,8 +1936,8 @@ key "Woodward2007,Swedjmark1997,Delatour1998"
 .
  
 \emph default
-Inoculations are performed utilizing a sterilized wooden dowel which is
- then cultured with the pathogen or left sterile depending on treatment.
+Inoculations are generally performed utilizing a sterilized wooden dowel
+ which is then cultured with the pathogen or left sterile as a control sample.
  The dowels are then placed into the host in a systematic way, and left
  
 \emph on
@@ -1910,7 +1962,7 @@ H.
 status open
 
 \begin_layout Plain Layout
-emphasize that resistance is heritable.
+DONE: emphasize that resistance is heritable.
  Explain broad sense and narrow sense heritability and how to interpert.
  Remove sentence about chitinase? 
 \end_layout
@@ -1929,7 +1981,7 @@ Potential factors affecting resistance traits of individual trees are influenced
 Cronartium ribicola
 \emph default
  is an invasive pathogen, and resistance developments via breeding programs
- for this pathosystem are largely quantitative.
+ for this pathosystem are largely based on quantitative traits.
  Conversely, a native fusiform rust caused by 
 \emph on
 Cronartium quercuum
@@ -2072,7 +2124,7 @@ H.
 \begin_inset Formula $H^{2}$
 \end_inset
 
-, respectively.
+, respectively, so variability depends on multiple factors and is not consistent.
  Although these studies have indicated that heritability and genetics have
  an influence on the resistance of 
 \emph on
@@ -2219,15 +2271,16 @@ DONE : Citations? Examples swedjmark using BLUPS or mixed models
 \begin_layout Standard
 The mixed effect model is an extension of a general liner model which incorporat
 es both fixed and random effects.
- Fixed effects are treatments or experimental conditions which are known
+ Fixed effects are treatments, or experimental conditions which are known
  and controlled for in the design of the experiment.
  Random effects are the effects of grouping or clustering present in the
  data.
  For example, in a study utilizing multiple randomized sites, it would also
- be appropriate to include this as a random effect.
- Subject units as a group can also be considered as a random effect, as
- well as any subsequent levels of groupings related to an individual in
- a group, e.g., multiple measurements, or additional levels of subgrouping.
+ be appropriate to include site as a random effect.
+ Subject units as a group can also be considered as a random effect, such
+ as randomly selected trees within a sample plot, as well as any subsequent
+ levels of groupings related to an individual in a group, e.g., multiple measureme
+nts by tree, or additional levels of subgrouping.
  A further benefit to the use of mixed effects modeling is the ability to
  deal with repeated measures over time.
  Finally, the mixed effects model addresses issues with non-normal data,
@@ -2241,8 +2294,17 @@ key "Bolker2009"
 \end_inset
 
 .
- Mixed effects models have been used in limited amounts in similar studies,
- i.e., 
+ Mixed effects models have been used in limited amounts in studies of
+\emph on
+ H.
+ annosum
+\emph default
+ 
+\emph on
+s.l.
+ 
+\emph default
+and it's effects upon host trees, i.e., 
 \begin_inset CommandInset citation
 LatexCommand citet
 key "Swedjemark2004a,Karlsson2006"
@@ -2286,8 +2348,19 @@ infections in
 P.
  abies 
 \emph default
-which help to address the lack of knowledge about several aspects of the
- epidemiology of annosum root rot.
+which help to address the lack of knowledge about certain elements of the
+ epidemiology of 
+\emph on
+H.
+ annosum s.l.
+ 
+\emph default
+root rot in 
+\emph on
+P.
+ abies
+\emph default
+.
  First, the study examines the potential for influence of historical isolation
  of 
 \emph on
@@ -2299,13 +2372,12 @@ P.
 H.
  parviporum
 \emph default
-, and seeks to address whether a lack of co-evolution in recent history
- could influence the ability of the host to defend against an introduced
- pathogen.
+, and seeks to address whether a lack of coevolution in recent history could
+ influence the ability of the host to defend against the pathogen.
  Secondly, this study address the variation in lesions produced in both
  roots and the stem organs of the host tree.
  This study also addresses differences in variation based on the different
- tissues in both stem and organ.
+ tissues in both stem and root organs of the trees.
  This study utilizes non-clonal genotypes for experimental units, helping
  to address and understand the variations in resistance that would be expected
  in natural populations of 
@@ -2371,7 +2443,7 @@ Hypotheses
 \begin_layout Standard
 
 \emph on
-Hypothesis 1: Lesion sizes in the Rovaniemi field site will be larger.
+Hypothesis 1: Lesion sizes in the northern field site will be larger.
  
 \end_layout
 
@@ -2380,15 +2452,15 @@ Differences in growing site location, as well as differences in genetic
  makeup of the stands in the two sites differ, and it is presumed that these
  differences will have an effect on the characteristics of the lesions at
  the site level.
- Because it is believed that the area in Rovaniemi has been largely isolated
- from the pressures of the pathogen, it is assumed that this will decrease
- resistance response to the pathogen in comparison to trees at the Lapinjärvi
- site.
+ Because it is believed that the northern area in Rovaniemi utilized for
+ the study has been largely isolated from the pressures of the pathogen,
+ it is assumed that this will decrease resistance response to the pathogen
+ in comparison to trees at the more southern Lapinjärvi site.
  This effect was tested by inoculations in a balanced design experiment
- across two field sites, and further analyzed by utilizing a mixed effects
+ across the two field sites, and further analyzed by utilizing a mixed effects
  model to characterize the lesions in a hierarchical framework accounting
- for inherent nesting and lack of heteroscedasticity expected in data collected
- from the experiment.
+ for inherent nesting and lack of heteroscedasticity in data collected from
+ the experiment.
  
 \end_layout
 
@@ -2425,10 +2497,10 @@ Hypothesis 3: Lesions sizes in xylem tissues will be lower than those in
 Due to different anatomical features in xylem and phloem tissues, it is
  presumed the host will respond differently to the infection in different
  tissues.
- It is hypothesized that the xylem tissues present with smaller lesions
+ It is hypothesized that the xylem tissues will present with smaller lesions
  due to the fact that high amounts of lignified tissues will present a greater
- challenge for the pathogen to overcome compared to softer living tissues
- within the phloem.
+ challenge for the pathogen to overcome during the incubation time for the
+ experiment compared to softer living tissues within the phloem.
  This effect is tested with the mixed effect model, and further elaborated
  upon by examining interactions between the effect of tissue in conjunction
  with other explanatory variables.
@@ -2539,7 +2611,8 @@ For this study, each tree was treated with a total of six inoculations;
  facing upwards towards the crown of the tree.
  A minimum of 25 cm upwards or downwards was maintained whenever possible
  between root inoculations in instances where a single large root was inoculated
- more than once.
+ more than once in an attempt to ensure separate infections would not overlap
+ during the study.
  In all trees, the inoculations were performed such that the inoculation
  point of the stem inoculations was at the same direction to minimize any
  possible variance due to azimuth.
@@ -2569,7 +2642,7 @@ H.
 \emph default
 ) were sprayed with 70% ethanol and wiped clean prior to each use.
  Tools used for inoculations included: stainless steel forceps, for handling
- of the wooden dowel and removing any excess original host tissues, a 7
+ of the wooden dowel, and removing any excess original host tissues, a 7.0
  mm interior diameter stainless steel punch for creating the bore and removing
  host tissue, and a large rubber headed mallet, utilized for hammering in
  the punch.
@@ -2577,7 +2650,7 @@ H.
 \end_layout
 
 \begin_layout Standard
-For each stem inoculation, a steel punch with a diameter of 7 mm was used
+For each stem inoculation, a steel punch with a diameter of 7.0 mm was used
  to bore through the bark of the tree to the inoculation point.
  Living host tissue from the cavity created by the bore was removed, and
  then inspected to ensure that the depth of the hole bored reached into
@@ -2607,7 +2680,7 @@ Harvest and Processing
 \end_layout
 
 \begin_layout Standard
-After three months, inoculated trees were cut down for procesing.
+After three months, inoculated trees were cut down for processing.
  Roots of the respective trees were re-dug carefully and extracted.
  Primary tools utilized in harvest were chainsaws.
  Only the lower segment of the stem containing the inoculation points were
@@ -2648,8 +2721,9 @@ Before lesion measurements and analysis, the samples were processed.
  In general, at least 10 cm of bark was cleared both above and below the
  inoculation point, with additional areas cleared if the lesion extended
  beyond the original margins of removed bark on the phloem.
- To the left or right of the inoculation point, 5 cm of bark was removed.
- Once bark was removed, the initial wounding and lesion was photographed
+ To the left or right of the inoculation point, 5 cm of bark was removed,
+ again removing further tissue if lesions extended beyond the margins.
+ After bark was removed, the initial wounding and lesion was photographed
  and measured in the exposed phloem tissue.
  A total of five measurements were taken for each lesion: length of lesion
  extending upwards (towards the crown in stem samples, or towards the root
@@ -2658,7 +2732,7 @@ Before lesion measurements and analysis, the samples were processed.
  the inoculation, length of lesion extension to the left and right of the
  inoculation point, and a total length measurement taken from the uppermost
  point of lesion extension upwards to the lowermost point of lesion extension
- downwards.
+ downwards (See figure 1).
  After measurements of the phloem sample, phloem tissue was removed utilizing
  a mallet, scalpel, and woodworking chisels to expose the xylem tissue.
  Lesions present in the xylem tissue were photographed and measured in the
@@ -2775,9 +2849,9 @@ key "Bates2013"
  results section.
  Welch's two sample t-test was used to determine if differences existed
  between the different directions of lesion growth..
- A linear mixed model was used to determine the effects that the categorical
- variables of site, tree, organ, and tissue had on tree response to the
- treatment.
+ A linear mixed effects model was used to determine the effects that the
+ categorical variables of site, tree, organ, and tissue had on tree response
+ to the treatment.
  As repeated measurements from a single subject (i.e, tree) cannot be assumed
  to be independent of one another, explicit nesting was specified in building
  the model to ensure accurate interpretation of the model results.
@@ -2932,9 +3006,9 @@ DONE: (FORMAT CITATION PROPERLY FOR THIS PACKAGE)
 \end_inset
 
 .
- Exploratory analysis utilizing histograms and other charting techniques
- was utilized to explore the structure and nature of the data along all
- steps of modeling.
+ Exploratory analysis with histograms and other charting techniques was
+ utilized to explore the structure and nature of the data along all steps
+ of modeling.
  A discussion of potential outliers as well as the effects they have on
  the outcome of the model is given in the appendix; because it was not possible
  to address the causes for several outliers present in the data, the data
@@ -2972,7 +3046,7 @@ DONE: (FORMAT CITATION PROPERLY FOR THIS PACKAGE)
  into conformation of the normal distribution, and a subsequent histogram
  was utilized to verify the changes in the response variable.
  In elementary statistics comparing the sizes of lesion measurements, a
- constant of 1.0 was added to all measurements to correct in rare instances
+ constant of 1.0 mm was added to all measurements to correct in rare instances
  where no visible lesion growth presented in one of the directions measured.
  
 \begin_inset Newpage pagebreak
@@ -2991,7 +3065,7 @@ Summary Statistics for Lesions
 
 \begin_layout Standard
 \begin_inset Note Note
-status open
+status collapsed
 
 \begin_layout Plain Layout
 The response variable violated assumptions of normality.
@@ -3046,6 +3120,16 @@ Histogram of the geometric response variable,
 \end_inset
 
 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Moved previous note to appendix
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -3059,9 +3143,9 @@ t
 \emph default
 =-0.40, 
 \emph on
-DF
+D.F
 \emph default
-=717.334, 
+.=717.334, 
 \emph on
 p
 \emph default
@@ -3073,9 +3157,9 @@ t=
 \emph default
 -0.96, 
 \emph on
-DF
+D.F
 \emph default
-=693.57,
+.=693.57,
 \emph on
  p=
 \emph default
@@ -3087,9 +3171,9 @@ t=
 \emph default
 1.31
 \emph on
-, DF
+, D.F
 \emph default
-=1432.67, 
+.=1432.67, 
 \emph on
 p=0.18).
  
@@ -3097,7 +3181,7 @@ p=0.18).
 status open
 
 \begin_layout Plain Layout
-Include total length as well.
+DONE:Include total length as well.
  Clarify that width includes the inoculation.
 \end_layout
 
@@ -3195,7 +3279,7 @@ Lesion Extension
 \begin_layout Plain Layout
 
 \series bold
-\size small
+\size footnotesize
 Site
 \end_layout
 
@@ -3207,7 +3291,7 @@ Site
 \begin_layout Plain Layout
 
 \series bold
-\size small
+\size footnotesize
 Upwards (mm)
 \end_layout
 
@@ -3219,7 +3303,7 @@ Upwards (mm)
 \begin_layout Plain Layout
 
 \series bold
-\size small
+\size footnotesize
 Downwards (mm)
 \end_layout
 
@@ -3231,8 +3315,8 @@ Downwards (mm)
 \begin_layout Plain Layout
 
 \series bold
-\size small
-Width (mm)
+\size footnotesize
+Width (mm)*
 \end_layout
 
 \end_inset
@@ -3242,6 +3326,9 @@ Width (mm)
 
 \begin_layout Plain Layout
 
+\series bold
+\size footnotesize
+Total Length (mm)*
 \end_layout
 
 \end_inset
@@ -3317,7 +3404,7 @@ Infected
 
 \shape italic
 \size footnotesize
-\begin_inset Formula $19\pm15$
+\begin_inset Formula $19.3\pm15.0$
 \end_inset
 
 
@@ -3332,7 +3419,7 @@ Infected
 
 \shape italic
 \size footnotesize
-\begin_inset Formula $16\pm9$
+\begin_inset Formula $16.8\pm9.1$
 \end_inset
 
 
@@ -3347,7 +3434,7 @@ Infected
 
 \shape italic
 \size footnotesize
-\begin_inset Formula $16\pm5$
+\begin_inset Formula $16.0\pm5.0$
 \end_inset
 
 
@@ -3359,6 +3446,11 @@ Infected
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\size footnotesize
+\begin_inset Formula $45.5\pm21.8$
+\end_inset
+
 
 \end_layout
 
@@ -3385,7 +3477,7 @@ Control
 
 \shape italic
 \size footnotesize
-\begin_inset Formula $5\pm6$
+\begin_inset Formula $5.9\pm6.6$
 \end_inset
 
 
@@ -3400,7 +3492,7 @@ Control
 
 \shape italic
 \size footnotesize
-\begin_inset Formula $7\pm12$
+\begin_inset Formula $7.4\pm12.1$
 \end_inset
 
 
@@ -3415,7 +3507,7 @@ Control
 
 \shape italic
 \size footnotesize
-\begin_inset Formula $12\pm4$
+\begin_inset Formula $12.0\pm4.0$
 \end_inset
 
 
@@ -3427,6 +3519,11 @@ Control
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\size footnotesize
+\begin_inset Formula $22.2\pm17.1$
+\end_inset
+
 
 \end_layout
 
@@ -3502,7 +3599,7 @@ Infected
 
 \shape italic
 \size footnotesize
-\begin_inset Formula $18\pm14$
+\begin_inset Formula $19.0\pm14.7$
 \end_inset
 
 
@@ -3517,7 +3614,7 @@ Infected
 
 \shape italic
 \size footnotesize
-\begin_inset Formula $19\pm12$
+\begin_inset Formula $19.2\pm12.9$
 \end_inset
 
 
@@ -3532,7 +3629,7 @@ Infected
 
 \shape italic
 \size footnotesize
-\begin_inset Formula $12\pm5$
+\begin_inset Formula $12.0\pm5.0$
 \end_inset
 
 
@@ -3544,6 +3641,11 @@ Infected
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\size footnotesize
+\begin_inset Formula $48.1\pm25.9$
+\end_inset
+
 
 \end_layout
 
@@ -3570,7 +3672,7 @@ Control
 
 \shape italic
 \size footnotesize
-\begin_inset Formula $5\pm4$
+\begin_inset Formula $5.4\pm4.1$
 \end_inset
 
 
@@ -3585,7 +3687,7 @@ Control
 
 \shape italic
 \size footnotesize
-\begin_inset Formula $6\pm6$
+\begin_inset Formula $6.2\pm6.1$
 \end_inset
 
 
@@ -3600,7 +3702,7 @@ Control
 
 \shape italic
 \size footnotesize
-\begin_inset Formula $12\pm3$
+\begin_inset Formula $12.0\pm3.0$
 \end_inset
 
 
@@ -3612,6 +3714,11 @@ Control
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\size footnotesize
+\begin_inset Formula $20.4\pm8.6$
+\end_inset
+
 
 \end_layout
 
@@ -3623,6 +3730,15 @@ Control
 \end_inset
 
 
+\end_layout
+
+\begin_layout Plain Layout
+\paragraph_spacing single
+\noindent
+
+\size small
+\emph on
+*Measurement includes the inoculation dowel width as well as lesion extension.
 \end_layout
 
 \end_inset
@@ -3917,7 +4033,7 @@ Control
 \end_layout
 
 \begin_layout Standard
-Figure 1 is a boxplot of the the geometric response variable across sites
+Figure 2 is a boxplot of the the geometric response variable across sites
  and treatments.Variability between trees which were infected appears greater
  than control trees.
  Control trees appear to have lower general variation in lesion sizes.
@@ -3949,7 +4065,7 @@ status open
 \emph on
 Boxplot of the geometric response as measured in both sites.
  Points indicate observations outside the inter-quartile range.
- The effect of treatment is significant (F=161.43, d.f.=1, Pr(>F)= <0.00
+ The effect of treatment is significant (F=161.43, D.F.=1, Pr(>F)= <0.00
 \emph default
 1)
 \end_layout
@@ -4012,7 +4128,7 @@ P
 
 \begin_layout Standard
 The intercept, i.e.
- the grand mean for all trees is the largest contribution on lesion sizes,
+ the grand mean for all trees is the largest contribution to lesion sizes,
  and is statistically significant (
 \emph on
 F
@@ -4071,7 +4187,7 @@ F
  P
 \emph default
 =0.47).
- The interaction between site and organ varied marginally with Rovaniemi
+ The interaction between site and organ varied marginally, with Rovaniemi
  stems expressing larger lesion sizes (
 \emph on
 F
@@ -4089,7 +4205,7 @@ F
 \emph on
 P
 \emph default
-=<0.0001), with xylem tissues in Rovaniemi expressing larger lesions .
+=<0.0001), with xylem tissues in Rovaniemi expressing larger lesions.
  Lastly, the interaction between organs and tissues was significant 
 \emph on
 (F
@@ -4193,11 +4309,7 @@ Standard Error
 
 \series bold
 \emph on
-C.I 2.5%
-\begin_inset Formula $^{*}$
-\end_inset
-
-
+C.I 2.5%*
 \end_layout
 
 \end_inset
@@ -4210,11 +4322,7 @@ C.I 2.5%
 \series bold
 \emph on
  C.I.
- 97.5%
-\begin_inset Formula $^{*}$
-\end_inset
-
-
+ 97.5%*
 \end_layout
 
 \end_inset
@@ -5077,7 +5185,7 @@ Random Effects
 \begin_layout Standard
 The random effects of the groups and nesting are summarized in Table 4.
  The standard deviation for nested groups increases with levels of the nesting
- going from individual trees to samples nested in organs nested in trees.
+ going from individual trees, to samples nested in organs nested in trees.
  Residual standard deviation is higher than the standard deviation within
  trees, and higher than the standard deviation of organ nested within tree.
  
@@ -5329,7 +5437,7 @@ Residual
 Plots of the group specific random effects are shown in Figure 3.
  The plot allows the visualization of the random effects from the model
  in all the grouping levels.
- Group labels are not present for the first two grouping dotplots as there
+ Group labels are not present for the first two grouping dotplots, as there
  are 360 and 120 distinct group random effects estimated for these, respectively.
  The highest level of grouping (Tree) has individual labels represented
  on the y-axis, and the most and least susceptible trees as modeled are
@@ -5425,9 +5533,9 @@ profile
 
  function in lme4 package.
  Reviewing the ranges and densities of the profile plots gives an indication
- of the likelihood of the parameter estimate being equal to a given value
- given the observed data, as well as the variability in the likelihood of
- observing differing values of the parameter estimates.
+ of the likelihood of the parameter estimate being equal to a value given
+ the observed data, as well as the variability in the likelihood of observing
+ differing values of the parameter estimates.
  Parameter profiles were normally distributed, with some kurtosis evident
  in the random effects standard deviation estimates for residual variance,
  tree, organ within tree, and sample within organ within tree groupings
@@ -5791,7 +5899,8 @@ key "Witzell2011"
  However, their study explored the ability of 
 \emph on
 H.
- annosum
+ annosum s.s.
+
 \emph default
  versus 
 \emph on
@@ -5813,7 +5922,7 @@ H.
  annosum s.l.
 
 \emph default
- .
+ 
 \begin_inset Note Note
 status open
 
@@ -5852,8 +5961,8 @@ H.
 \end_layout
 
 \begin_layout Standard
-The study found no evidence for the effect of organ on the response in lesion
- size.
+This study found no evidence for the effect of organ on the response in
+ lesion size.
  However, other studies, including 
 \begin_inset CommandInset citation
 LatexCommand citet
@@ -5865,16 +5974,16 @@ key "Kerio2015"
 \emph on
 ,
 \emph default
- have concluded that a difference in the response of 
+ have concluded that a difference exists in the response of 
 \emph on
 P.
  abies 
 \emph default
-between roots and stems exists.
- Reasons for a lack of this finding in the study could be attributed to
- many possible factors, including soil type, temperature and climate, time
- between inoculation to harvest, relative ability of the fungal strain to
- overcome host responses.
+between roots and stems.
+ Reasons for a lack of similar findings in this study could be attributed
+ to many possible factors, including soil type, temperature and climate,
+ time between inoculation to harvest, and relative ability of the fungal
+ strain to overcome host responses.
  However, as the natural pathway for infection of 
 \emph on
 H.
@@ -5882,7 +5991,7 @@ H.
 
 \emph default
  is through the roots, it is somewhat surprising that a difference is not
- present.
+ present in this study.
  One possible explanation for this observation is due to the sizes of roots
  inoculated.
  In Rovaniemi, the sizes of roots utilized for the inoculations was significantl
@@ -5910,7 +6019,8 @@ key "Garbelotto1997"
  the variable is a significant predictor, whereas in Rovaniemi it is not,
  indicating that perhaps the smaller sizes of roots in Rovaniemi are the
  reason for a lack of significance of the organ variable in the model utilizing
- both field sites (See Appendix for secondary models) 
+ both field sites.
+ 
 \begin_inset Note Note
 status open
 
@@ -5941,23 +6051,15 @@ focused solely on stem inoculations, which does not mimic the natural infection
  pathway in 
 \emph on
 H.
- annosum s.l..
- 
+ annosum s.l.
+
 \emph default
-
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Asiegbu2005"
-
-\end_inset
-
-.
  Because of this, it can be difficult to judge whether or not a difference
  is generally assumed to exist between the response between the two organs
  based on the results of a few studies that have explored root inoculations.
  Further complications occur due to the highly variable root structure and
- variability in root sizes utilized for inoculation points in this and other
- studies, as well as the lack of control for genotype in this study.
+ variability in root sizes utilized for inoculation points in this study,
+ as well as the lack of control for genotype in this study.
  
 \end_layout
 
@@ -6045,11 +6147,8 @@ key "Kerio2015"
 , which found stem lesions more susceptible to wounding than root lesions.
  Furthermore, the interaction between site and organ was found to be marginally
  significant, with stems lesions in Rovaniemi being larger.
- This could be due to a number of
-\begin_inset space ~
-\end_inset
-
-factors which were unaccounted for in this study.
+ This could be due to a number of factors which were unaccounted for in
+ this study.
  Norway spruce has high genetic plasticity, which could potentially account
  for differences in the response of the organs at various sites 
 \begin_inset CommandInset citation
@@ -6072,7 +6171,7 @@ Experimental Design Limitations
 \end_layout
 
 \begin_layout Standard
-The largest limitation in the study is the lack of clonal material.
+The biggest limitation in the study is the lack of clonal material.
  Although the results of the study may be sufficient for drawing broad-based
  conclusions about aspects of the defense response of Norway spruce to infection
 s with 
@@ -6085,12 +6184,13 @@ H.
  Clonal material would have allowed a better assessment of the influence
  and variability of individual tree's phenotypes.
  For example, if a tree on whole shows a strong resistance or susceptibility
- to the infections, with non clonal material we cannot infer if this is
- the result of the trees phenotype, or whether it would be expected to see
- this variation naturally in a sufficiently large sample of clonal material.
+ to the infections, with non clonal material it is not possible to infer
+ if this is the result of the trees phenotype, or whether it would be expected
+ to see this variation naturally in a sufficiently large sample of clonal
+ material.
  This lack of clonal material is a principal reason why trees in this study
  are treated as random effects as opposed to fixed effects; in a study controlle
-d for tree genotype with sufficient numbers of ramets per clones it would
+d for tree genotype with sufficient numbers of ramets per clones, it would
  be possible to draw stronger conclusions about the resistance of individual
  Norway spruce genotypes to 
 \emph on
@@ -6111,8 +6211,7 @@ The lack of control over genetics makes it difficult to know what to do
  
 \emph default
 prior to the experiment, but it was only noted when the tree was cut down
- for processing - another caveat of not having control over environmental
- factors or clonal material with which to work with.
+ for processing.
  If clonal material was utilized, it would be possible to determine if the
  tree genotype was really susceptible, or if this was an unnatural response
  to the treatment.
@@ -6187,9 +6286,8 @@ key "Karlsson2008"
  indicators of resistance, while a third field site in Sweden utilizing
  the same clonal material did not share significant correlations with the
  southern European field sites.
- However, the authors speculated that environmental factors, not historical
- isolation of the host from the pathogen could be responsible for the lack
- of correlations between the two regions.
+ However, the authors speculated that environmental factors could be responsible
+ for the lack of correlations between the two regions.
  Further studies could attempt to address differences between trees acclimatized
  to certain growing environments by using a crossed design wherein trees
  from both genetic origins are utilized across field sites.
@@ -6202,10 +6300,10 @@ Further issues with the experimental design for this study include a lack
  This is one major complication with carrying out field based experiments
  as opposed to those which take place in highly controlled laboratory and
  greenhouse settings.
- Temperature, weather events, and other potential natural influences are
- not generally controllable in field experiments.
- However, if we are interested in drawing ecological conclusions regarding
- the interactions between Norway spruce and 
+ Temperature, weather events, and other natural influences are not generally
+ controllable in field experiments.
+ However, for drawing ecological conclusions regarding the interactions
+ between Norway spruce and 
 \emph on
 H.
  annosum s.l., 
@@ -6226,8 +6324,9 @@ Data analysis, in many instances, becomes a subjective task as opposed to
  a purely objective one; parsimony is something to strive for in any analysis.
  In this study, the choices taken in regards to the methodology utilized
  for analyzing and presenting data were based on balancing several conflicting
- goals: how to best characterize the lesion response on various levels while
- avoiding over parametrization of the model and maintaining interpretability.
+ goals: how to best characterize the lesion response on various levels,
+ while avoiding over parametrization of the model, and maintaining interpretabil
+ity.
  
 \end_layout
 
@@ -6257,10 +6356,7 @@ In this study, the response of interest is the lesion size as in indication
  studies examining lesions created from 
 \emph on
 H.
- annosum s.l..
-
-\emph default
- 
+ annosum s.l.
 \end_layout
 
 \begin_layout Standard
@@ -6268,7 +6364,9 @@ Outliers are of special concern, as their presence in data can modify parameter
  estimates.
  In this study, outliers were still included in the analysis.
  Nevertheless, to ignore the possibility of the influence of several observation
-s which might be traditionally be considered outliers would be remiss.
+s which might be traditionally be considered outliers would be remiss.The
+ potential influence of outliers is examined in the appendix.
+ 
 \begin_inset Note Note
 status open
 
@@ -6298,7 +6396,7 @@ H.annosum s.l
  is performed.
  Deep tissue wounding has been used in various studies, and is done by boring
  directly to the heartwood of a living tree to introduce to the pathogen
- directly to susceptible tissues, and was the technique utilized for this
+ directly to susceptible tissues, which was the technique utilized for this
  study
 \begin_inset CommandInset citation
 LatexCommand citep
@@ -6308,8 +6406,8 @@ key "Delatour1998"
 
 .
  In a separate inoculation technique, superficial wounding targets only
- the surface of the cambium the parts of the tree which are inoculated with
- the pathogen has also been utilized in various studies
+ the surface of the cambiumof the tree which are inoculated with the pathogen
+ 
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Delatour1998"
@@ -6325,15 +6423,11 @@ H.
 \emph default
 include number of replicates per tree, location of field sites, temperature
  profiles of the regions where experiments are performed, choices of clonal
- material, length of incubation times, and different choices for analyzing
- the resulting data.
+ material, length of incubation times, and methods for analyzing the resulting
+ data.
  However, research indicates that overall sizes of respective lesions in
  inoculated clones may be a good proxy for indicating resistance or susceptibili
-ty
-\begin_inset Formula $ $
-\end_inset
-
-to infections from 
+ty to infections from 
 \emph on
 H.
  annosum s.l.
@@ -6348,12 +6442,12 @@ key "Woodward2007,Swedjmark1997,Delatour1998"
 \end_layout
 
 \begin_layout Standard
-Although the analysis is relatively appropriate for the experiment and data
- collected in this study, and does an acceptable job characterizing the
- lesions as well as the variance present in the study which are under controllab
-le factors (i.e., treatment, organ, and tissue), the mixed effects approach
- does little to interpret the potential resistance or susceptibility of
- the trees on a biological level beyond looking at overall lesion sizes.
+Although the analysis is relatively appropriate for the data collected in
+ this study, and does an acceptable job characterizing the lesions as well
+ as the variance present in the study which are under controllable factors
+ (i.e., treatment, organ, and tissue), the mixed effects approach does little
+ to interpret the potential resistance or susceptibility of the trees on
+ a biological level beyond looking at overall lesion sizes.
  Furthermore, the lack of control for tree genotype is a troubling shortcoming
  in this study which prevents anything beyond generalization about tree
  resistance to be drawn from this data.
@@ -6368,32 +6462,26 @@ le factors (i.e., treatment, organ, and tissue), the mixed effects approach
  would provide more detailed information about not only the resistance of
  trees characterized as a molecular response, but would also allow for correlati
 ons to be made between specific gene products and lesion characteristics.
- Previous studies have incorporated analysis of lesions / fungal growth
- within host tissues and molecular methods for assessing various aspects
- of tree resistance to 
+ Previous studies have incorporated analysis of lesions and fungal growth
+ within host tissues, along with molecular methods for assessing various
+ aspects of tree resistance to 
 \emph on
 H.
- annosum s.l., 
+ annosum s.l.
+
 \emph default
-for example, 
+ 
 \begin_inset CommandInset citation
-LatexCommand citet
-key "Woodward2007"
-
-\end_inset
-
- & 
-\begin_inset CommandInset citation
-LatexCommand citet
-key "Hietala2003"
+LatexCommand citep
+key "Woodward2007,Hietala2003"
 
 \end_inset
 
 .
  This study did not analyze the actual growth of the fungus in relation
  to the size of the lesion response, which could be done in further work
- as an additional way to attempt to characterize the resistance levels of
- individual trees to infection.
+ as an additional way to characterize the resistance levels of individual
+ trees to infection.
 \end_layout
 
 \begin_layout Standard
@@ -6405,7 +6493,8 @@ H.
 \emph default
 ; in reality, isolation from historical presence of the pathogen is the
  parameter this study attempted to address, and subsequent studies should
- look at this along with specific environmental factors.
+ look at this along with specific environmental factors which may influence
+ the pathology during the experiment.
 \end_layout
 
 \begin_layout Section
@@ -6424,7 +6513,7 @@ H.
  Many factors contribute to the capability of the pathogen to proliferate
  and spread under natural conditions, and, despite research into forest
  tree breeding for resistance and use of various control methods, the pathogen
- still causes huge damages economically and continues to be a leading concern
+ still causes huge damages economically, and continues to be a leading concern
  in the modern forestry sector.
  Understanding the different aspects of the epidemiology and life cycles
  of both the host and pathogen may hold key information to combating infections
@@ -6451,7 +6540,7 @@ H.
 in natural conditions.
  Primary factors examined as the research for this project were the effects
  of site across areas where the pathogen is both known to be present as
- well as an area where the pathogen does not have a recent historical presence.
+ well as an area where the pathogen does not have a known historical presence.
  Additional factors examined in this research include the potential for
  difference responses in both host tree organ (root and stem), tissues (phloem
  and xylem), as well as the statistical interactions between various crossed
@@ -6461,9 +6550,9 @@ in natural conditions.
 
 \begin_layout Standard
 The study found that overall, Norway spruce resistance does not appear to
- differ based on field site, and in this regard, the study concludes that
- resistance does not appear to vary in Norway spruce populations which are
- not known to have high rates of natural infection versus area in which
+ differ between the two field sites, and in this regard, the study concludes
+ that resistance does not appear to vary in Norway spruce populations which
+ are not known to have high rates of natural infection versus area in which
  the pathogen has a recent historical presence.
  Future studies should incorporate stricter controls, i.e., the use of clonal
  materials, and if possible, crossing of geographic origin of the clonal
@@ -6533,6 +6622,8 @@ Finally, the use of a mixed effects model to analyze the complex nature
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing single
+\noindent
 \begin_inset ERT
 status open
 
@@ -6549,11 +6640,11 @@ BIBand}{
 
 \end_inset
 
-
+ 
 \begin_inset CommandInset bibtex
 LatexCommand bibtex
 bibfiles "C:/Users/user/Documents/library"
-options "authordate1"
+options "C:/Users/user/Documents/Courses/Thesis/bibgen"
 
 \end_inset
 
@@ -6569,10 +6660,7 @@ options "authordate1"
 
 \begin_layout Section*
 \start_of_appendix
-
 Appendix 1
-\lang english
-
 \begin_inset ERT
 status open
 
@@ -6589,7 +6677,6 @@ pagenumbering{gobble}
 \end_layout
 
 \begin_layout Standard
-
 \begin_inset ERT
 status open
 
@@ -6833,11 +6920,12 @@ Several models were constructed before settling upon a final model.
  estimate of maximum likelihood for random effects is non-trivial, so models
  were refit using maximum likelihood.
  Three models were compared; the most elementary model included only tree
- level random effects groupings.
+ level random effects groupings, and is specified in equation (3).
  The next model included full specification of random effects as in the
- full model, but did not include any interaction terms between fixed effects.
+ full model, but did not include any interaction terms between fixed effects
+ (4).
  The final model contained full specifications of the random effects as
- well as all two way interactions between fixed effects.
+ well as all two way interactions between fixed effects (5).
  The full model including interactions as well as full specification of
  random effects is significantly better than the other models (
 \begin_inset Formula $\chi^{2}$
@@ -6846,6 +6934,37 @@ Several models were constructed before settling upon a final model.
 = 271.13, 
 \emph on
 P = < 0.001) .
+\end_layout
+
+\begin_layout Standard
+\noindent
+
+\size footnotesize
+\begin_inset Formula 
+\begin{equation}
+\hat{y}=Site+Treatment+Organ+Sample+random(Tree)\label{eq:Minimal Model}
+\end{equation}
+
+\end_inset
+
+
+\begin_inset Formula 
+\begin{equation}
+\hat{y}=Site+Treatment+Organ+Tissue+random(Tree/Organ/Sample)\label{eq:No Interactions}
+\end{equation}
+
+\end_inset
+
+
+\begin_inset Formula 
+\begin{multline}
+\hat{y}=Site*Treatment+Site*Organ+Site*Tissue+Treatment*Organ+\\
+Treatment*Tissue+Organ*Tissue+random(Tree/Organ/Sample)\label{eq:Full Model}
+\end{multline}
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
