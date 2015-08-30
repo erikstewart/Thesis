@@ -141,15 +141,15 @@ status open
 
 \end_inset
 
-Influence on the Resistance to 
+Influence of Geographic Isolation on the Resistance of Norway spruce (
+\emph on
+Picea abies
+\emph default
+) to 
 \emph on
 Heterobasidion parviporum
 \emph default
- in Norway spruce (
-\emph on
-Picea abies)
-\emph default
- from Geographic Isolation from the Pathogen
+
 \begin_inset Newline newline
 \end_inset
 
@@ -174,7 +174,7 @@ Picea abies)
 
 \size small
 \begin_inset space \hspace{}
-\length 65bp
+\length 66bp
 \end_inset
 
 University of Helsinki 
@@ -183,7 +183,7 @@ University of Helsinki
 
 
 \begin_inset space \hspace{}
-\length 65bp
+\length 66bp
 \end_inset
 
 Dept.
@@ -193,7 +193,7 @@ Dept.
 
 
 \begin_inset space \hspace{}
-\length 65bp
+\length 66bp
 \end_inset
 
 May, 2015 
@@ -202,7 +202,7 @@ May, 2015
 
 
 \begin_inset space \hspace{}
-\length 65bp
+\length 66bp
 \end_inset
 
 
@@ -211,7 +211,7 @@ May, 2015
 
 
 \begin_inset space \hspace{}
-\length 65bp
+\length 66bp
 \end_inset
 
 Erik Stewart
@@ -413,8 +413,7 @@ Heterobasidion annosum
 
  
 \emph on
-sensu lato.
- (s.l.)
+sensu lato (s.l.)
 \emph default
  species complex.
  Damages to forest production in Europe from 
@@ -471,8 +470,8 @@ key "Seppa2009"
 
 .
  However, in this relatively short period of time, Norway spruce has become
- one of the most dominant forest trees in of northern Europe, owing partially
- to the fact that Norway spruce has high genetic plasticity 
+ one of the most dominant forest trees in all of northern Europe, owing
+ partially to the fact that Norway spruce has high genetic plasticity 
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Chen2012,Reich1996"
@@ -675,11 +674,20 @@ H.
 
 \emph default
  are selective necrotrophs, which causes damage by degrading lignin and
- cellulose in host trees; no cures are available after infection has been
- established within a host, and death of the host tree will occur eventually
- due either to the pathogen or other environmental factors, such as wind
- throw in hosts which have compromised structural integrity due to the effects
- of the infection.
+ cellulose in host trees; no cures 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+see freds remarks.
+\end_layout
+
+\end_inset
+
+ are available after infection has been established within a host, and death
+ of the host tree will occur eventually due either to the pathogen or other
+ environmental factors, such as wind throw in hosts which have compromised
+ structural integrity due to the effects of the infection.
  
 \emph on
 H.
@@ -925,7 +933,17 @@ H.
  annosum s.l.
  
 \emph default
-cannot generally infect healthy, undamaged tree tissues.
+cannot generally infect healthy, undamaged tree tissues
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Piri 2011
+\end_layout
+
+\end_inset
+
+.
  In areas where conifers are intensively harvested and managed, mechanical
  damages due to forestry related activities provide new surfaces for inoculation
 s, and exacerbate the problem of 
@@ -1010,7 +1028,7 @@ SOURCE?
  natural vector by which the pathogen spreads 
 \begin_inset CommandInset citation
 LatexCommand citep
-key "Asiegbu1995,Johansson1985a"
+key "Asiegbu1994,Johansson1985a"
 
 \end_inset
 
@@ -1059,6 +1077,16 @@ requires that two homokaryotic strains of differing genetic origin and with
  With sufficient climate and access to nutrients, the heterokaryotic mycelium
  can form a basidiocarp, generally on the lower portion of infected trees,
  although fruiting has been induced in laboratory settings as well 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Find reference for laboratory fruiting
+\end_layout
+
+\end_inset
+
+ 
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Woodward1998"
@@ -2534,7 +2562,7 @@ P.
 P.
  abies
 \emph default
- from the 
+ from 
 \emph on
 H.
  parviporum
@@ -2850,7 +2878,7 @@ After three months, inoculated trees were cut down for processing.
  Roots of the respective trees were re-dug carefully and extracted.
  Primary tools utilized in harvest were chainsaws.
  Only the lower segment of the stem containing the inoculation points were
- removed from the site for further processing (See fig X).
+ removed from the site for further processing.
  In root samples, as much as was feasible and reasonable was collected for
  each inoculation.
  Samples were labeled with the site (L, R, for Lapinjärvi or Rovaniemi respectiv
@@ -2898,7 +2926,7 @@ Before lesion measurements and analysis, the samples were processed.
  the inoculation, length of lesion extension to the left and right of the
  inoculation point, and a total length measurement taken from the uppermost
  point of lesion extension upwards to the lowermost point of lesion extension
- downwards (See figure 1).
+ downwards (see Figure 1).
  After measurements of the phloem sample, phloem tissue was removed utilizing
  a mallet, scalpel, and woodworking chisels to expose the xylem tissue.
  Lesions present in the xylem tissue were photographed and measured in the
@@ -3223,74 +3251,11 @@ DONE: (FORMAT CITATION PROPERLY FOR THIS PACKAGE)
 
 \begin_layout Section
 Results
-\end_layout
-
-\begin_layout Subsection
-Summary Statistics for Lesions
-\end_layout
-
-\begin_layout Standard
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Plain Layout
-The response variable violated assumptions of normality.
- A natural logarithm transform of the response variable, y, resulted in
- a closer to normal distribution of the response variable (Figure 1) 
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset Float figure
-placement h
-wide false
-sideways false
-status open
-
-\begin_layout Plain Layout
-\begin_inset Graphics
-	filename C:/Users/user/Documents/Courses/Thesis/Figures for thesis/GeometricResponseHistograms.pdf
-	scale 70
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset Caption Standard
-
-\begin_layout Plain Layout
-
-\emph on
-Histogram of the geometric response variable, 
-\begin_inset Formula $y$
-\end_inset
-
-, and transformed geometric response variable 
-\begin_inset Formula $log_{e}(y)$
-\end_inset
-
-, indicating a lack of normality in the uncorrected data.
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-
 \begin_inset Note Note
 status open
 
 \begin_layout Plain Layout
-Moved previous note to appendix
+Work from Site -> Organ - > Tissue then mixed model
 \end_layout
 
 \end_inset
@@ -3299,639 +3264,51 @@ Moved previous note to appendix
 \end_layout
 
 \begin_layout Standard
-The mean lesion sizes are presented in Table 1.
- The mean lesions upwards are generally consistent across sites.
- However, downwards lesions are slightly larger for infected samples in
- Rovaniemi versus Lapinjärvi, although the difference is not significant
- (
+Summary of Lesion Measurements Taken
+\end_layout
+
+\begin_layout Standard
+SITE
+\end_layout
+
+\begin_layout Standard
+Trees in the northern field site were found to be susceptible to infection
+ from 
 \emph on
-t
-\emph default
-=-0.40, 
-\emph on
-D.F
-\emph default
-.
- =717.334, 
-\emph on
-p
-\emph default
-=0.68).
- Width is higher in Lapinjärvi infected trees, but the difference is not
- significant (
-\emph on
-t=
-\emph default
--0.96, 
-\emph on
-D.F
-\emph default
-.
- =693.57,
-\emph on
- p=
-\emph default
-0.33).
- There is no difference between the mean sizes of the upwards or downwards
- lesion measurements (
-\emph on
-t=
-\emph default
-1.31
-\emph on
-, D.F
-\emph default
-.
- =1432.67, 
-\emph on
-p=0.18).
+H.
+ parviporum.
  
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-DONE:Include total length as well.
- Clarify that width includes the inoculation.
-\end_layout
-
+\emph default
+Average lesion size expressed as geometric response for trees in the Rovaniemi
+ field site were 
+\begin_inset Formula $6.0\pm0.7mm^{2}$
 \end_inset
 
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Float table
-placement H
-wide false
-sideways false
-status open
-
-\begin_layout Plain Layout
-\begin_inset Caption Standard
-
-\begin_layout Plain Layout
-Mean Lesion Measurements 
-\begin_inset Formula $\pm$
+ versus 
+\begin_inset Formula $6.0\pm0.8mm^{2}$
 \end_inset
 
-Standard Deviation
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\noindent
-\begin_inset Tabular
-<lyxtabular version="3" rows="8" columns="5">
-<features rotate="0" booktabs="true" tabularvalignment="middle">
-<column alignment="right" valignment="top" width="0pt">
-<column alignment="right" valignment="top">
-<column alignment="right" valignment="top">
-<column alignment="right" valignment="top">
-<column alignment="right" valignment="top" width="0pt">
-<row>
-<cell multicolumn="1" alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-Lesion Extension
-\end_layout
-
-\end_inset
-</cell>
-<cell multicolumn="2" alignment="left" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell multicolumn="2" alignment="left" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell multicolumn="2" alignment="left" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell multicolumn="2" alignment="left" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="right" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-\size footnotesize
-Site
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="right" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-\size footnotesize
-Upwards (mm)
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="right" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-\size footnotesize
-Downwards (mm)
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="right" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-\size footnotesize
-Width (mm)*
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="right" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-\size footnotesize
-Total Length (mm)*
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="right" valignment="top" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size small
+ in Lapinjarvi (Table 3); no significant difference exists in mean size
+ of the geometric response between field sites (
 \emph on
-Lapinjärvi
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="right" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="right" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="right" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="right" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="right" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size footnotesize
+F=0.14, d.f.=1, p=0.71
+\emph default
+).
+ Mean lesion extending upwards does not vary between sites (
 \emph on
-Infected
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="right" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\shape italic
-\size footnotesize
-\begin_inset Formula $19.3\pm15.0$
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="right" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\shape italic
-\size footnotesize
-\begin_inset Formula $16.8\pm9.1$
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="right" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\shape italic
-\size footnotesize
-\begin_inset Formula $16.0\pm5.0$
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="right" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size footnotesize
-\begin_inset Formula $45.5\pm21.8$
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="right" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size footnotesize
+F=0.20, d.f.=(1, 718), p=0.65
+\emph default
+2), nor does the mean extension downwards 
 \emph on
-Control
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="right" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\shape italic
-\size footnotesize
-\begin_inset Formula $5.9\pm6.6$
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="right" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\shape italic
-\size footnotesize
-\begin_inset Formula $7.4\pm12.1$
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="right" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\shape italic
-\size footnotesize
-\begin_inset Formula $12.0\pm4.0$
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="right" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size footnotesize
-\begin_inset Formula $22.2\pm17.1$
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="right" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\emph on
-Rovaniemi
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="right" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="right" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="right" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="right" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="right" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size footnotesize
-\emph on
-Infected
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="right" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\shape italic
-\size footnotesize
-\begin_inset Formula $19.0\pm14.7$
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="right" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\shape italic
-\size footnotesize
-\begin_inset Formula $19.2\pm12.9$
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="right" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\shape italic
-\size footnotesize
-\begin_inset Formula $12.0\pm5.0$
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="right" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size footnotesize
-\begin_inset Formula $48.1\pm25.9$
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="right" valignment="top" bottomline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size footnotesize
-\emph on
-Control
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="right" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\shape italic
-\size footnotesize
-\begin_inset Formula $5.4\pm4.1$
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="right" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\shape italic
-\size footnotesize
-\begin_inset Formula $6.2\pm6.1$
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="right" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\shape italic
-\size footnotesize
-\begin_inset Formula $12.0\pm3.0$
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="right" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size footnotesize
-\begin_inset Formula $20.4\pm8.6$
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-</lyxtabular>
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\paragraph_spacing single
-\noindent
-
-\size small
-\emph on
-*Measurement includes the inoculation dowel width as well as lesion extension.
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-Mean lesion size of the geometric response variable overall for site, as
- well as for treatments within the site are presented in table 2.
- Both field sites have highly similar lesion sizes in the geometric response
- variable used for the mixed effects model in, as well as similar lesions
- sizes across treatments by the different sites.
+(F=0.463, d.f.= (1,718), p= 0.49).
  
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-DONE: add ^2 to the lesion geometric response variable 
-\end_layout
-
-\end_inset
-
-
+\emph default
+Mean width of lesions do not vary according to site (
+\emph on
+F=0.02, d.f.=(1,718), p=0.88
+\emph default
+).
+ 
 \end_layout
 
 \begin_layout Standard
@@ -3958,6 +3335,8 @@ Mean Geometric Lesion Response,
 \end_layout
 
 \begin_layout Plain Layout
+\noindent
+\align center
 \begin_inset Tabular
 <lyxtabular version="3" rows="8" columns="2">
 <features rotate="0" booktabs="true" tabularvalignment="middle">
@@ -4194,6 +3573,1619 @@ Control
 \end_inset
 
 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Lesion size and response within tree organs: 
+\end_layout
+
+\begin_layout Standard
+Mean lesion sizes of the geometric response of the roots and stems were
+ 
+\begin_inset Formula $6.0\pm0.7mm^{2}$
+\end_inset
+
+ and 
+\begin_inset Formula $5.9\pm0.8mm^{2}$
+\end_inset
+
+ respectively, and did not differ significantly between organs (
+\emph on
+F=0.49, d.f.=1, p = 0.47
+\emph default
+).
+ In Rovaniemi, the mean size of the lesions as measured by geometric response
+ in the stems is 
+\begin_inset Formula $6.0\pm0.8mm^{2}$
+\end_inset
+
+ and in the roots is 
+\begin_inset Formula $5.9\pm0.7mm^{2}$
+\end_inset
+
+.
+ In Lapinjärvi, mean sizes for roots and stems were 
+\begin_inset Formula $6.0\pm0.7mm^{2}$
+\end_inset
+
+and 
+\begin_inset Formula $6.8\pm0.9mm^{2}$
+\end_inset
+
+, respectively (Table 1).
+ Mean lesion size within organ does vary by site, with Rovaniemi stems expressin
+g larger lesions than those in Lapinjarvi (
+\emph on
+F=5.99
+\emph default
+, 
+\emph on
+d.f.
+ =1, p=
+\emph default
+ 
+\emph on
+0.02
+\emph default
+).
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{table}[ht] 
+\backslash
+centering 
+\backslash
+begin{tabular}{llrr}   
+\backslash
+hline Site & Organ & Mean & Standard Deviation 
+\backslash
+
+\backslash
+    
+\backslash
+hline L & R & 6.03 & 0.73 
+\backslash
+
+\backslash
+    L & S & 5.84 & 0.88 
+\backslash
+
+\backslash
+    R & R & 5.91 & 0.69 
+\backslash
+
+\backslash
+    R & S & 6.02 & 0.82 
+\backslash
+
+\backslash
+     
+\backslash
+hline 
+\backslash
+end{tabular} 
+\backslash
+end{table}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+TISSUE
+\end_layout
+
+\begin_layout Standard
+Mean lesion sizes for tissues were 
+\end_layout
+
+\begin_layout Subsection
+Summary Statistics for Lesions
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+The response variable violated assumptions of normality.
+ A natural logarithm transform of the response variable, y, resulted in
+ a closer to normal distribution of the response variable (Figure 1) 
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Float figure
+placement h
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename C:/Users/user/Documents/Courses/Thesis/Figures for thesis/GeometricResponseHistograms.pdf
+	scale 70
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+
+\emph on
+Histogram of the geometric response variable, 
+\begin_inset Formula $y$
+\end_inset
+
+, and transformed geometric response variable 
+\begin_inset Formula $log_{e}(y)$
+\end_inset
+
+, indicating a lack of normality in the uncorrected data.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Moved previous note to appendix
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The mean lesion sizes are presented in Table 1.
+ The mean lesions upwards are generally consistent across sites.
+ However, downwards lesions are slightly larger for infected samples in
+ Rovaniemi versus Lapinjärvi, although the difference is not significant
+ (
+\emph on
+t
+\emph default
+=-0.40, 
+\emph on
+D.F
+\emph default
+.
+ =717.334, 
+\emph on
+p
+\emph default
+=0.68).
+ Width is higher in Lapinjärvi infected trees, but the difference is not
+ significant (
+\emph on
+t=
+\emph default
+-0.96, 
+\emph on
+D.F
+\emph default
+.
+ =693.57,
+\emph on
+ p=
+\emph default
+0.33).
+ There is no difference between the mean sizes of the upwards or downwards
+ lesion measurements (
+\emph on
+t=
+\emph default
+1.31
+\emph on
+, D.F
+\emph default
+.
+ =1432.67, 
+\emph on
+p=0.18).
+ 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+DONE:Include total length as well.
+ Clarify that width includes the inoculation.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float table
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Mean Lesion Measurements 
+\begin_inset Formula $\pm$
+\end_inset
+
+Standard Deviation
+\end_layout
+
+\end_inset
+
+
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+create different graph for xylem and phloem NOTE: WIDTH+ TOTAL LENGTH NOT
+ UPDATED ON EITHER CHART
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+
+\size scriptsize
+\begin_inset Tabular
+<lyxtabular version="3" rows="8" columns="6">
+<features rotate="0" booktabs="true" tabularvalignment="middle">
+<column alignment="right" valignment="top" width="0pt">
+<column alignment="right" valignment="top">
+<column alignment="right" valignment="top">
+<column alignment="right" valignment="top">
+<column alignment="right" valignment="top" width="0pt">
+<column alignment="right" valignment="top" width="0pt">
+<row>
+<cell multicolumn="1" alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+Lesions Extensions in Phloem
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="right" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="right" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="right" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="right" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="right" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+\size scriptsize
+Site
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+\size scriptsize
+Upwards (mm)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+\size scriptsize
+Downwards (mm)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+\size scriptsize
+Width (mm)*
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+\size scriptsize
+Total Length (mm)*
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+\size scriptsize
+Geom.
+ Resp.
+ mm
+\begin_inset Formula $^{2}$
+\end_inset
+
+)*
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="right" valignment="top" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size footnotesize
+\emph on
+Lapinjärvi
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size footnotesize
+\emph on
+Infected
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape italic
+\size footnotesize
+\begin_inset Formula $19.1\pm14.9$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape italic
+\size footnotesize
+\begin_inset Formula $17.6\pm8.9$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape italic
+\size footnotesize
+\begin_inset Formula $16.0\pm5.0$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size footnotesize
+\begin_inset Formula $45.5\pm21.8$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size footnotesize
+\begin_inset Formula $6.70\pm0.56$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size footnotesize
+\emph on
+Control
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape italic
+\size footnotesize
+\begin_inset Formula $6.8\pm7.4$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape italic
+\size footnotesize
+\begin_inset Formula $8.4\pm12.7$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape italic
+\size footnotesize
+\begin_inset Formula $12.0\pm4.0$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size footnotesize
+\begin_inset Formula $22.2\pm17.1$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size footnotesize
+\begin_inset Formula $5.70\pm0.59$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size footnotesize
+\emph on
+Rovaniemi
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size footnotesize
+\emph on
+Infected
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape italic
+\size footnotesize
+\begin_inset Formula $17.6\pm13.1$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape italic
+\size footnotesize
+\begin_inset Formula $18.4\pm10.6$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape italic
+\size footnotesize
+\begin_inset Formula $12.0\pm5.0$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size footnotesize
+\begin_inset Formula $48.1\pm25.9$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size footnotesize
+\begin_inset Formula $6.58\pm0.68$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="right" valignment="top" bottomline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size footnotesize
+\emph on
+Control
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape italic
+\size footnotesize
+\begin_inset Formula $5.7\pm4.5$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape italic
+\size footnotesize
+\begin_inset Formula $6.0\pm5.7$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape italic
+\size footnotesize
+\begin_inset Formula $12.0\pm3.0$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size footnotesize
+\begin_inset Formula $20.4\pm8.6$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size footnotesize
+\begin_inset Formula $5.62\pm0.50$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\paragraph_spacing single
+\noindent
+
+\size small
+\emph on
+*Measurement includes the inoculation dowel width as well as lesion extension.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float table
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Mean Lesion Measurements 
+\begin_inset Formula $\pm$
+\end_inset
+
+Standard Deviation
+\end_layout
+
+\end_inset
+
+
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+create different graph for xylem and phloem:NOTE: WIDTH+ TOTAL LENGTH NOT
+ UPDATED ON EITHER CHART
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+
+\size scriptsize
+\begin_inset Tabular
+<lyxtabular version="3" rows="8" columns="6">
+<features rotate="0" booktabs="true" tabularvalignment="middle">
+<column alignment="right" valignment="top" width="0pt">
+<column alignment="right" valignment="top">
+<column alignment="right" valignment="top">
+<column alignment="right" valignment="top">
+<column alignment="right" valignment="top" width="0pt">
+<column alignment="right" valignment="top" width="0pt">
+<row>
+<cell multicolumn="1" alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+Lesion Extensions in Xylem
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="right" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="right" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="right" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="right" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="right" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+\size scriptsize
+Site
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+\size scriptsize
+Upwards (mm)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+\size scriptsize
+Downwards (mm)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+\size scriptsize
+Width (mm)*
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+\size scriptsize
+Total Length (mm)*
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+\size scriptsize
+Geom.
+ Resp.
+ (mm
+\begin_inset Formula $^{2}$
+\end_inset
+
+)
+\series default
+*
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="right" valignment="top" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size footnotesize
+\emph on
+Lapinjärvi
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size footnotesize
+\emph on
+Infected
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape italic
+\size footnotesize
+\begin_inset Formula $19.6\pm15.0$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape italic
+\size footnotesize
+\begin_inset Formula $16.0\pm9.3$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape italic
+\size footnotesize
+\begin_inset Formula $16.0\pm5.0$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size footnotesize
+\begin_inset Formula $45.5\pm21.8$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size footnotesize
+\begin_inset Formula $6.19\pm0.55$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size footnotesize
+\emph on
+Control
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape italic
+\size footnotesize
+\begin_inset Formula $5.0\pm5.8$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape italic
+\size footnotesize
+\begin_inset Formula $6.4\pm11.3$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape italic
+\size footnotesize
+\begin_inset Formula $12.0\pm4.0$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size footnotesize
+\begin_inset Formula $22.2\pm17.1$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size footnotesize
+\begin_inset Formula $5.14\pm0.59$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size footnotesize
+\emph on
+Rovaniemi
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size footnotesize
+\emph on
+Infected
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape italic
+\size footnotesize
+\begin_inset Formula $20.4\pm16.2$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape italic
+\size footnotesize
+\begin_inset Formula $20.0\pm14.8$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape italic
+\size footnotesize
+\begin_inset Formula $12.0\pm5.0$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size footnotesize
+\begin_inset Formula $48.1\pm25.9$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size footnotesize
+\begin_inset Formula $6.30\pm0.63$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="right" valignment="top" bottomline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size footnotesize
+\emph on
+Control
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape italic
+\size footnotesize
+\begin_inset Formula $5.0\pm3.8$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape italic
+\size footnotesize
+\begin_inset Formula $6.4\pm6.6$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape italic
+\size footnotesize
+\begin_inset Formula $12.0\pm3.0$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size footnotesize
+\begin_inset Formula $20.4\pm8.6$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size footnotesize
+\begin_inset Formula $5.34\pm0.42$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\paragraph_spacing single
+\noindent
+
+\size small
+\emph on
+*Measurement includes the inoculation dowel width as well as lesion extension.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Mean lesion size of the geometric response variable overall for site, as
+ well as for treatments within the site are presented in table 2.
+ Both field sites have highly similar lesion sizes in the geometric response
+ variable used for the mixed effects model in, as well as similar lesions
+ sizes across treatments by the different sites.
+ 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+DONE: add ^2 to the lesion geometric response variable 
 \end_layout
 
 \end_inset
@@ -6718,9 +7710,9 @@ in natural conditions.
  of site across areas where the pathogen is both known to be present as
  well as an area where the pathogen does not have a known historical presence.
  Additional factors examined in this research include the potential for
- difference responses in both host tree organ (root and stem), tissues (phloem
- and xylem), as well as the statistical interactions between various crossed
- factors included in the design of the experiment.
+ different responses in both host tree organ (root and stem), and tissues
+ (phloem and xylem), as well as the statistical interactions between various
+ crossed factors included in the design of the experiment.
  
 \end_layout
 
